@@ -1,0 +1,53 @@
+alt + Escape
+	pkill -USR1 -x sxhkd
+# quit/restart bspcm
+alt + shift + {q,r}
+	bspc {quit,wm -r}
+# open terminal
+super + Return
+	tilix
+# open rofi-wifimenu	
+super + shift + w
+	wifimenu
+# close app
+alt + c
+	bspc node -k
+alt + x
+	bspc node -c
+
+
+alt + {t,ctrl + t,l,f}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+
+alt + {_,shift + }{1-9,0}
+	bspc {desktop -f node -d} '^{1-9,10}'
+# alternate between tiled and monocle layout
+super + m
+	bspc desktop -l next
+
+# open firefox
+super + c
+	firefox
+# open VScode
+super + v
+	code
+# cycle between desktops
+super + bracket{left,right}
+	bspc desktop -f {prev,next}
+# Focus the next/previous node in the current desktop:
+alt + {_,shift +}Tab
+	bspc node -f {next,prev}.local
+
+# Toggle floating
+alt + d
+    if [ -z "$(bspc query -N -n focused.floating)" ]; then \
+        bspc node focused -t floating; \
+    else \
+        bspc node focused -t tiled; \
+    fi
+super + e
+	nautilus
+super + a
+	exec rofi -show drun
+super + s
+	flatpak run com.spotify.Client
