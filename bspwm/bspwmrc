@@ -13,11 +13,14 @@ bspc config gapless_monocle      true
 bspc rule -a Gimp desktop='^8' state=floating follow=on
 bspc rule -a firefox desktop='^2'
 bspc rule -a mplayer2 state=floating
+bspc rule -a spotify desktop='^4'
+bspc rule -a gitkraken desktop='^5'
 bspc rule -a tilix desktop='^1'
 bspc rule -a code desktop='^3'
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 bspc rule -a code desktop='^5'
+bspc rule -a env LD_PRELOAD=/usr/lib/spotify-adblock.so spotify %U desktop='^4'
 
 # polybar
 $HOME/.config/polybar/launch.sh 

@@ -1,0 +1,113 @@
+configuration {
+	font:"JetBrainsMono Nerd Font Medium 10";
+      	show-icons:                     true;
+	icon-theme:  			"Papirus";
+    	display-drun: 			"Power";
+    	drun-display-format:            "{icon} {name}";
+    	disable-history:                false;
+	fullscreen:                     false;
+	hide-scrollbar: 				true;
+	sidebar-mode: 					false;
+}
+
+@import "colors.rasi"
+
+window {
+    transparency:                   "real";
+    background-color:               @bg;
+    text-color:                     @fg;
+	border:							0px;
+	border-color:					@ac;
+    border-radius:                  0px;
+	width:							300px;
+    location:                       center;
+    x-offset:                       0;
+    y-offset:                       0;
+}
+
+prompt {
+    enabled: 						true;
+    padding:                        10px 10px 10px 0px;
+	background-color: 				@bg-alt;
+	text-color: 					@fg;
+	font:							"JetBrainsMono Nerd Font Medium 10";
+}
+
+textbox-prompt-colon {
+	padding: 						0px 15px 5px 5px;
+	font:							"Iosevka Nerd Font 10";
+	background-color: 				@bg-alt;
+	text-color: 					@fg;
+	expand: false;
+}
+
+entry {
+    background-color:               @bg-alt;
+    text-color:                     @fg;
+    placeholder-color:              @ac;
+    expand:                         true;
+    horizontal-align:               0;
+    placeholder:                    "Search...";
+    padding:                        10px 10px 10px 0px;
+    border-radius:                  0px;
+    blink:                          true;
+}
+
+inputbar {
+	children: 						[ textbox-prompt-colon, prompt ];
+    background-color:               @bg-alt;
+    text-color:                     @fg;
+    expand:                         false;
+	border:							0px 0px 0px 0px;
+    border-radius:                  0px;
+	border-color:					@ac;
+    spacing:                        0px;
+}
+
+listview {
+    background-color:               @bg;
+    padding:                        0px;
+    columns:                        1;
+    lines:                          5;
+    spacing:                        5px;
+    cycle:                          true;
+    dynamic:                        true;
+    layout:                         vertical;
+}
+
+mainbox {
+    background-color:               @bg-alt;
+	border:							0px;
+    border-radius:                  0px;
+	border-color:					@ac;
+    children:                       [ inputbar, listview ];
+    spacing:                       	10px;
+    padding:                        0px 0px 0px 0px;
+}
+
+element {
+    background-color:               @bg;
+    text-color:                     @fg-alt;
+    orientation:                    horizontal;
+    border-radius:                  0px;
+    padding:                        8px 8px 8px -16px;
+}
+
+element-icon {
+    size:                           24px;
+    border:                         0px;
+}
+
+element-text {
+    expand:                         true;
+    horizontal-align:               0;
+    vertical-align:                 0.5;
+}
+
+element selected {
+    background-color:               @bg;
+    text-color:                     @fg;
+	border:							0px 0px 0px 0px;
+    border-radius:                  0px;
+    border-color:                  	@ac;
+}
