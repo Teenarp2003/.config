@@ -50,8 +50,8 @@ shell:
 ## Font stuff
 font:
   normal:
-    family: Monospace
-    style: Regular
+    family: SourceCodePro
+    style: Black
 
   bold:
     family: Monospace

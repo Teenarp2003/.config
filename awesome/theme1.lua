@@ -26,7 +26,7 @@ theme.fg_minimize   = "#ffffff"
 
 theme.useless_gap   = dpi(20)
 theme.border_width  = dpi(1)
-theme.border_normal = "#000000"
+theme.border_normal = "#"
 theme.border_focus  = "#535d6c"
 theme.border_marked = "#91231c"
 theme.workspace_colors = {
@@ -72,7 +72,7 @@ theme.taglist_squares_unsel = theme_assets.taglist_squares_unsel(
 -- menu_[bg|fg]_[normal|focus]
 -- menu_[border_color|border_width]
 theme.menu_submenu_icon = themes_path.."default/submenu.png"
-theme.menu_height = dpi(15)
+theme.menu_height = dpi(20)
 theme.menu_width  = dpi(100)
 
 -- You can add as many variables as
@@ -107,7 +107,7 @@ theme.titlebar_maximized_button_focus_inactive  = themes_path.."default/titlebar
 theme.titlebar_maximized_button_normal_active = themes_path.."default/titlebar/maximized_normal_active.png"
 theme.titlebar_maximized_button_focus_active  = themes_path.."default/titlebar/maximized_focus_active.png"
 
-theme.wallpaper = themes_path.."default/background.png"
+theme.wallpaper = themes_path.."~/Downloads/wallpaper/3840x2160.png"
 
 -- You can use your own layout icons like this:
 theme.layout_fairh = themes_path.."default/layouts/fairhw.png"

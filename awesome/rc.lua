@@ -60,7 +60,7 @@ end
 beautiful.init(gears.filesystem.get_configuration_dir() .. "theme1.lua")
 
 -- This is used later as the default terminal and editor to run.
-terminal = "tilix"
+terminal = "alacritty"
 editor = os.getenv("EDITOR") or "nvim"
 editor_cmd = terminal .. " -e " .. editor
 
@@ -182,7 +182,7 @@ awful.screen.connect_for_each_screen(function(s)
     set_wallpaper(s)
 
     -- Each screen has its own tag table.
-    awful.tag({ "  ", "  ", "  ", "  ", "  ", " 嗢 " }, s, awful.layout.layouts[2])
+    awful.tag({ " Terminal ", " Browser ", " Code ", " Spotify ", " Github ", " Vlc " }, s, awful.layout.layouts[2])
 
     -- Create a promptbox for each screen
     s.mypromptbox = awful.widget.prompt()
@@ -196,10 +196,11 @@ awful.screen.connect_for_each_screen(function(s)
                            awful.button({ }, 5, function () awful.layout.inc(-1) end)))
     -- Create a taglist widget
     s.mytaglist = awful.widget.taglist {
-        screen  = s,
-        filter  = awful.widget.taglist.filter.all,
-        buttons = taglist_buttons
-    }
+       screen  = s,
+        color  = '#dddddd',
+	filter  = awful.widget.taglist.filter.all,
+      buttons = taglist_buttons
+}
 
     -- Create a tasklist widget
     s.mytasklist = awful.widget.tasklist {
@@ -210,10 +211,10 @@ awful.screen.connect_for_each_screen(function(s)
 
     -- Create the wibox
     s.mywibox = awful.wibar({ position = "top",
-  height   = 50,
+  height   = 35,
   ontop    = true,
   border_width = 10,
-  bg = "#000000"})
+  bg = "#"})
     -- Add widgets to the wibox
     s.mywibox:setup {
         layout = wibox.layout.align.horizontal,
@@ -234,13 +235,10 @@ awful.screen.connect_for_each_screen(function(s)
         },	
             -- customized
 	    tb,
-	    volumecfg.widget,
---	    audio_widget(),
+	    audio_widget(),
 	    tb,
-	    battery_widget(),
-            tb,
 	    wibox.widget.systray(),
-            cpu_widget({width = 100,
+            cpu_widget({width = 50,
 	    step_width = 10,
       		step_spacing = 2,
  		color = '#ad8ee6'
@@ -280,7 +278,7 @@ globalkeys = gears.table.join(
     awful.key({ modkey,           }, "Escape", awful.tag.history.restore,
               {description = "go back", group = "tag"}),
 
-    awful.key({ modkey,           }, "j",
+    awful.key({ modkey,           }, "tab",
         function ()
             awful.client.focus.byidx( 1)
         end,
@@ -319,7 +317,7 @@ globalkeys = gears.table.join(
 awful.key({ modkey,           }, "Return", function () awful.spawn(terminal) end,
               {description = "open a terminal", group = "launcher"}),
 
-awful.key({modkey,            }, "c", function() awful.spawn("firefox") end,
+awful.key({modkey,            }, "c", function() awful.spawn("google-chrome-stable") end,
 	      {description = "open firefox", group = "launcher"}),
 
 awful.key({ modkey, "Control" }, "r", awesome.restart,
