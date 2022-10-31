@@ -1,5 +1,7 @@
-alt + Escape
-	pkill -USR1 -x sxhkd
+# Reload sxhkdrc
+super + shift + r
+    pkill -usr1 -x sxhkd; notify-send 'sxhkd' 'Reloaded config'
+
 # quit/restart bspcm
 alt + shift + {q,r}
 	bspc {quit,wm -r}
@@ -24,6 +26,9 @@ alt + {_,shift + }{1-9,0}
 # alternate between tiled and monocle layout
 super + m
 	bspc desktop -l next
+# Rotate tree
+super + shift + {d,a}
+    bspc node @/ -C {forward,backward}
 
 # open browser
 super + c
@@ -37,6 +42,13 @@ super + bracket{left,right}
 # Focus the next/previous node in the current desktop:
 alt + {_,shift +}Tab
 	bspc node -f {next,prev}.local
+#Sound Controls
+XF86AudioRaiseVolume
+    pactl set-sink-volume 0 +5%
+XF86AudioLowerVolume
+    pactl set-sink-volume 0 -5%
+XF86AudioMute
+    pactl set-sink-mute 0 toggle
 
 # Toggle floating
 alt + d
@@ -45,9 +57,30 @@ alt + d
     else \
         bspc node focused -t tiled; \
     fi
+#Open File manager
 super + e
 	nautilus
+#rofi
 super + a
 	exec rofi -show drun
-super + s
+#spotify
+super + s 
 	flatpak run com.spotify.Client
+
+# Move focused window to the next workspace and then switch to that workspace
+super + shift + {Left,Right}
+    set id $(bspc query --nodes --node); bspc node --to-desktop {prev,next}; bspc desktop --focus next; bspc node --focus ${id}
+
+# Show help
+super + slash
+    sxhkd-help
+
+# Show clipmenu
+alt + v
+    CM_LAUNCHER=rofi clipmenu \
+        -location 1 \
+        -m -3 \
+        -no-show-icons \
+        -theme-str '* \{ font: 10px; \}' \
+        -theme-str 'listview \{ spacing: 0; \}' \
+        -theme-str 'window \{ width: 20em; \}'
