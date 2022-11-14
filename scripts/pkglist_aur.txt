@@ -10,7 +10,7 @@ kwin-bismuth
 mcmojave-cursors
 mpdris2
 paru
-picom-ibhagwan-git
+picom-animations-git
 snapd
 spicetify-cli
 spotify
