@@ -9,5 +9,5 @@ while pgrep -x polybar >/dev/null; do sleep 1; done
 
 # Launch
 polybar example &
-
+nitrogen --set-auto --random
 echo "Bar launched..."

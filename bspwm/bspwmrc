@@ -29,13 +29,11 @@ $HOME/.config/polybar/launch.sh
 # --hack
 
 # picom
-picom --experimental-backends -b
+picom --animations --detect-rounded-corners --experimental-backends -b
 
-# nitrogen
-nitrogen --set-auto --random
-
+#dunst
+dunst
 #glava
-pkill glava
 glava --desktop --force-mod=bars
 #chown teenarp2003 /sys/class/backlight/amdgpu_bl0/brightness
 # sudo chgrp video  /sys/class/backlight/amdgpu_bl0/brightness
