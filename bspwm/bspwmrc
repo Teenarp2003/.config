@@ -24,16 +24,19 @@ bspc rule -a Code desktop='^3'
 bspc rule -a Screenkey manage=off
 bspc rule -a env LD_PRELOAD=/usr/lib/spotify-adblock.so spotify %U desktop='^4'
 
-# polybar
+# Set Desktop Background
+nitrogen --restore
+
+# polybar and other stuff
 $HOME/.config/polybar/launch.sh 
-# --hack
 
-# picom
-picom --animations --detect-rounded-corners --experimental-backends -b
 
-#dunst
-dunst
-#glava
-glava --desktop --force-mod=bars
+# Lxpolkit polkit gui
+lxpolkit & 
+
+# Dunst notification manager
+dunst 
+
+
 #chown teenarp2003 /sys/class/backlight/amdgpu_bl0/brightness
 # sudo chgrp video  /sys/class/backlight/amdgpu_bl0/brightness
