@@ -1,13 +1,13 @@
 # Reload sxhkdrc
 super + shift + r
-    pkill -usr1 -x sxhkd; notify-send 'sxhkd' 'Reloaded config'
+    pkill -usr1 -x sxhkd; notify-send 'SXHKD' 'Reloaded config'
 
 # quit/restart bspcm
 alt + shift + {q,r}
-	bspc {quit,wm -r}
+	bspc {quit,wm -r}; notify-send 'BSPWM' 'Reloaded config'
 # open terminal
 super + Return
-	alacritty
+	konsole
 # open rofi-wifimenu	
 super + shift + w
 	wifimenu
@@ -58,7 +58,7 @@ XF86AudioPrev
 XF86AudioNext
 	playerctl --player=spotify next
 super + s 
-	glava --desktop
+	env LD_PRELOAD=/usr/lib/spotify-adblock.so spotify %U
 
 # Toggle floating
 alt + d
@@ -69,7 +69,7 @@ alt + d
     fi
 #Open File manager
 super + e
-	nautilus
+	thunar
 #rofi
 super + a
 	exec rofi -show drun

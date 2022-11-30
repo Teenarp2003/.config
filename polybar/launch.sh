@@ -7,5 +7,5 @@ while pgrep -x polybar >/dev/null; do sleep 1; done
 # Launch picom
 picom --animations --detect-rounded-corners --experimental-backends -b
 # Launch
-polybar example &
+polybar top &
 echo "Bar launched..."
