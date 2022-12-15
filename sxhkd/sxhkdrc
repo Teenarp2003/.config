@@ -62,17 +62,13 @@ super + s
 
 # Toggle floating
 alt + d
-    if [ -z "$(bspc query -N -n focused.floating)" ]; then \
-        bspc node focused -t floating; \
-    else \
-        bspc node focused -t tiled; \
-    fi
+	bspc node -t "~"{floating,tiled}
 #Open File manager
 super + e
 	thunar
 #rofi
 super + a
-	exec rofi -show drun
+	exec rofi -show drun -theme ~/.config/rofi/config.rasi
 #spotify
 super + s 
 	flatpak run com.spotify.Client

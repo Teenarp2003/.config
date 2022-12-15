@@ -23,6 +23,8 @@ bspc rule -a GitKraken desktop='^5'
 bspc rule -a Code desktop='^3'
 bspc rule -a Screenkey manage=off
 bspc rule -a env LD_PRELOAD=/usr/lib/spotify-adblock.so spotify %U desktop='^4'
+bspc rule -a Spotify desktop='^4'
+bspc rule -a spotify desktop='^4'
 
 # Set Desktop Background
 nitrogen --restore
@@ -35,8 +37,7 @@ $HOME/.config/polybar/launch.sh
 lxpolkit & 
 
 # Dunst notification manager
-dunst 
-
+dunst &
 
 #chown teenarp2003 /sys/class/backlight/amdgpu_bl0/brightness
 # sudo chgrp video  /sys/class/backlight/amdgpu_bl0/brightness
