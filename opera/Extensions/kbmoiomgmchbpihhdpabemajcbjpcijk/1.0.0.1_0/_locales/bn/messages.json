@@ -1,0 +1,11 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "চালিয়ে যান"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "এখনই নয়"
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "অনুমতিগুলি"
+   }
+}

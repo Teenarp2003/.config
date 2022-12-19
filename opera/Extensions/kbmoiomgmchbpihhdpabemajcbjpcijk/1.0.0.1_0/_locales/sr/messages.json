@@ -1,0 +1,11 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "Наставите"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "Не сада"
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "Дозволе"
+   }
+}

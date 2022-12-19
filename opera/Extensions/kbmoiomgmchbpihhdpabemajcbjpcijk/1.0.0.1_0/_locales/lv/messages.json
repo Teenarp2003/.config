@@ -1,0 +1,36 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "Turpināt"
+   },
+   "AMAZON_PROMOTION_ASSISTANT_LINK": {
+      "message": "Amazon palīgs"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "Vēlāk"
+   },
+   "AMAZON_PROMOTION_DESCRIPTION_LABEL": {
+      "message": "Iepērcieties tīmeklī un saņemiet tūlītējas produktu atbilstības $1$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_LEGAL_LABEL": {
+      "message": "Turpinot jūs piekrītat mūsu $1$ un $2$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "Atļaujas"
+   },
+   "AMAZON_PROMOTION_TERMS_LINK": {
+      "message": "Noteikumi"
+   }
+}

@@ -1,0 +1,36 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "Συνέχεια"
+   },
+   "AMAZON_PROMOTION_ASSISTANT_LINK": {
+      "message": "Amazon Assistant"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "Όχι τώρα"
+   },
+   "AMAZON_PROMOTION_DESCRIPTION_LABEL": {
+      "message": "Άμεσες αντιστοιχίσεις προϊόντων ενώ πραγματοποιείτε αγορές στο web με $1$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_LEGAL_LABEL": {
+      "message": "Συνεχίζοντας, αποδέχεστε τα εξής: $1$ και $2$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "Άδειες"
+   },
+   "AMAZON_PROMOTION_TERMS_LINK": {
+      "message": "Όροι"
+   }
+}

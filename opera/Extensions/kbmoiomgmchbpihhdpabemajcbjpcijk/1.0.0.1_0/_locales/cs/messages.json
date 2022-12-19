@@ -1,0 +1,36 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "Pokračovat"
+   },
+   "AMAZON_PROMOTION_ASSISTANT_LINK": {
+      "message": "Amazon Assistant"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "Teď ne"
+   },
+   "AMAZON_PROMOTION_DESCRIPTION_LABEL": {
+      "message": "Okamžité vyhledání odpovídajících produktů při nakupování na webu pomocí aplikace $1$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_LEGAL_LABEL": {
+      "message": "Pokračováním potvrzujete souhlas s dokumentem $1$ $2$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "Oprávnění"
+   },
+   "AMAZON_PROMOTION_TERMS_LINK": {
+      "message": "a podmínkami"
+   }
+}

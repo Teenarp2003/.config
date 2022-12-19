@@ -1,0 +1,36 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "Dalej"
+   },
+   "AMAZON_PROMOTION_ASSISTANT_LINK": {
+      "message": "Amazon Assistant"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "Nie teraz"
+   },
+   "AMAZON_PROMOTION_DESCRIPTION_LABEL": {
+      "message": "Natychmiastowe dopasowywanie produktów podczas zakupów w Internecie za pomocą $1$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_LEGAL_LABEL": {
+      "message": "Kontynuując, akceptujesz nasze $1$ i $2$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "Uprawnienia"
+   },
+   "AMAZON_PROMOTION_TERMS_LINK": {
+      "message": "Warunki"
+   }
+}

@@ -1,0 +1,36 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "Teruskan"
+   },
+   "AMAZON_PROMOTION_ASSISTANT_LINK": {
+      "message": "Amazon Assistant"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "Bukan sekarang"
+   },
+   "AMAZON_PROMOTION_DESCRIPTION_LABEL": {
+      "message": "Padanan produk segera ketika anda membeli-belah merentas web dengan $1$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_LEGAL_LABEL": {
+      "message": "Dengan meneruskan anda telah menerima $1$ kami dan $2$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "Kebenaran"
+   },
+   "AMAZON_PROMOTION_TERMS_LINK": {
+      "message": "Syarat"
+   }
+}

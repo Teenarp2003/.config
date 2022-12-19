@@ -1,0 +1,36 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "ต่อไป"
+   },
+   "AMAZON_PROMOTION_ASSISTANT_LINK": {
+      "message": "Amazon Assistant"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "ไม่ใช่ตอนนี้"
+   },
+   "AMAZON_PROMOTION_DESCRIPTION_LABEL": {
+      "message": "จับคู่ผลิตภัณฑ์ทันทีในขณะที่คุณซื้อสินค้าผ่านเว็บด้วย $1$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_LEGAL_LABEL": {
+      "message": "โดยการดำเนินการต่อ คุณยอมรับ $1$ และ $2$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "การอนุญาต"
+   },
+   "AMAZON_PROMOTION_TERMS_LINK": {
+      "message": "เงื่อนไข"
+   }
+}

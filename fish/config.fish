@@ -30,22 +30,19 @@ alias pacsyyu='sudo pacman -Syyu'                # Refresh pkglist & update stan
 alias yaysua='yay -Sua --noconfirm'              # update only AUR pkgs (yay)
 alias yaysyu='yay -Syu --noconfirm'              # update standard pkgs and AUR pkgs (yay)
 
+alias mirror="sudo reflector -f 30 -l 30 --number 10 --verbose --save /etc/pacman.d/mirrorlist"
+alias mirrord="sudo reflector --latest 50 --number 20 --sort delay --save /etc/pacman.d/mirrorlist"
+alias mirrors="sudo reflector --latest 50 --number 20 --sort score --save /etc/pacman.d/mirrorlist"
+alias mirrora="sudo reflector --latest 50 --number 20 --sort age --save /etc/pacman.d/mirrorlist"
+
+
 alias grep='grep --color=auto'
 alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 
-alias cp="cp -i"
-alias mv='mv -i'
 alias rm='rm -i'
 
 
 export EDITOR=nvim;
 export VISUAL=nvim;
-
-if test -f /home/teenarp2003/.autojump/share/autojump/autojump.fish; . /home/teenarp2003/.autojump/share/autojump/autojump.fish; 
-end
-
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-eval /home/teenarp2003/miniconda3/bin/conda "shell.fish" "hook" $argv | source
-# <<< conda initialize <<<
+fish_add_path /home/teenarp2026/.spicetify

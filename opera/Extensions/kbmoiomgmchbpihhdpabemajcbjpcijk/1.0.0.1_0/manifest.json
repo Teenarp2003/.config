@@ -1,0 +1,24 @@
+{
+   "author": "Opera Software AS",
+   "browser_action": {
+      "default_icon": "icons/amazon_promotion_icon.png",
+      "default_popup": "amazon_promotion_popup.html",
+      "default_title": "Amazon"
+   },
+   "default_locale": "en",
+   "developer": {
+      "name": "Opera Software"
+   },
+   "icons": {
+      "128": "icons/amazon_promotion_icon128.png",
+      "16": "icons/amazon_promotion_icon16.png",
+      "48": "icons/amazon_promotion_icon48.png"
+   },
+   "incognito": "not_allowed",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyiwUhef68UOfftHScd/VMrqmW3lTCy1hAOG1VQr5sHMftw3vGKoPKj25flBnv2kUfJugFrkulepdO3m9F5TupZcSOxDu+LGGXKyeyVhXNEqRZkfEWJkGiNVG/U1Fn2b2QYj85EgDPKZaQxXialYz77p6bGmlgp2rdKkLMzg06MmvnOOiUVeVIBkCnTkY2xt68b5g9i/9myKc7YF+O1l27t7y9+VWm3YshPB/Xbca34+KBkTORHt/IZdA2JAKg2RsaUtXnbCBwA7myVQ6wPJ4kN+mGUexl5bjoh09zlhnt7OJubfHzb1Y+KteONBOgB+V2gwmJaogNYVLwFcaw96VjwIDAQAB",
+   "manifest_version": 2,
+   "name": "Amazon Assistant Promotion",
+   "permissions": [ "amazonPromotionPrivate" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "1.0.0.1"
+}

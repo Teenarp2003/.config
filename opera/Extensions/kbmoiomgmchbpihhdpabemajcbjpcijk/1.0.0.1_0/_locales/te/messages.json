@@ -1,0 +1,36 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "కొనసాగించు"
+   },
+   "AMAZON_PROMOTION_ASSISTANT_LINK": {
+      "message": "Amazon Assistant"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "ఇప్పుడు కాదు"
+   },
+   "AMAZON_PROMOTION_DESCRIPTION_LABEL": {
+      "message": "మీరు వెబ్‌లో షాపింగ్ చేసేటప్పుడు తక్షణ ప్రొడక్ట్ మ్యాచ్‌లు $1$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_LEGAL_LABEL": {
+      "message": "కొనసాగడం ద్వారా మీరు మా $1$ మరియు $2$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "అనుమతులు"
+   },
+   "AMAZON_PROMOTION_TERMS_LINK": {
+      "message": "నిబంధనలు అంగీకరిస్తున్నారు"
+   }
+}

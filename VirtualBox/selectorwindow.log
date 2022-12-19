@@ -1,0 +1,22 @@
+00:00:00.351557 VirtualBox GUI VM Selector Window 7.0.4 r154605 linux.amd64 (Nov 18 2022 12:54:46) release log
+00:00:00.351559 Log opened 2022-12-11T20:23:28.942138000Z
+00:00:00.351561 Build Type: release
+00:00:00.351563 OS Product: Linux
+00:00:00.351565 OS Release: 5.19.2-arch1-1
+00:00:00.351567 OS Version: #1 SMP PREEMPT_DYNAMIC Wed, 17 Aug 2022 13:48:51 +0000
+00:00:00.351583 DMI Product Name: 82EY
+00:00:00.351589 DMI Product Version: IdeaPad Gaming 3 15ARH05
+00:00:00.351593 Firmware type: UEFI
+00:00:00.351806 Secure Boot: Disabled
+00:00:00.351831 Host RAM: 15363MB (15.0GB) total, 14808MB (14.4GB) available
+00:00:00.351834 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.351836 Process ID: 928
+00:00:00.351837 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.351857 Qt version: 5.15.7
+00:00:00.353239 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.368102 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.861835 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 963x56 x 949x504
+00:00:00.866405 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:06.585259 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:00:14.878542 GUI: UICommon: Handling aboutToQuit request..
+00:00:15.739547 GUI: UICommon: aboutToQuit request handled!

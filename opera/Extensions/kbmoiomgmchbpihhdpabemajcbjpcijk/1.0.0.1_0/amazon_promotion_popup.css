@@ -1,0 +1,97 @@
+body {
+  --outer-padding: 16px;
+  --width: 340px;
+  --desc-margin-left: 24px;
+  --btn-height: 38px;
+  --gray: #e6e6e6;
+  --logo-size: 64px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  color: #023238;
+  background: white;
+  padding: 0;
+  margin: 0;
+}
+
+#view {
+  position: relative;
+  width: var(--width);
+  overflow: hidden;
+  padding: var(--outer-padding);
+}
+
+#main {
+  height: var(--logo-size);
+  margin-bottom: 19px;
+}
+
+#main>* {
+  float: left;
+}
+
+#logo {
+  width: var(--logo-size);
+  height: auto;
+}
+
+#desc-container {
+  display: table;
+  margin-left: var(--desc-margin-left);
+  width: calc(100% - var(--logo-size) - var(--desc-margin-left));
+  height: 100%;
+}
+
+#desc {
+  display: table-cell;
+  vertical-align: middle;
+  line-height: 1.5;
+}
+
+#desc #assistant {
+  color: #008296;
+}
+
+#legal-note {
+  border-top: 1px solid var(--gray);
+  font-size: 10px;
+  padding: 16px 0;
+}
+
+#legal-note a {
+  color: #0199ff;
+  cursor: pointer;
+}
+
+#buttons {
+  display: grid;
+  grid-gap: 12px 16px;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+}
+
+#continue,
+#not-now {
+  outline: none;
+  border: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: var(--btn-height);
+  cursor: pointer;
+  user-select: none;
+}
+
+#continue {
+  background-color: #ffa723;
+}
+
+#not-now {
+  background-color: var(--gray);
+}
+
+#dismiss {
+  color: #008296;
+  cursor: pointer;
+  grid-column: 1 / span 2;
+}

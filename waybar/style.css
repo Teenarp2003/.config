@@ -22,9 +22,9 @@
   margin: 0;
   padding: 0;
   border-radius: 0;
-  font-family: "SF Pro", "JetBrainsMono Nerd Font";
-  font-size: 12pt;
-  padding-bottom: 1px;
+  font-family: "Iosevka Nerd Font", "SourceCodePro Black";
+  font-size: 13pt;
+  padding-bottom: 3px;
 }
 
 tooltip {

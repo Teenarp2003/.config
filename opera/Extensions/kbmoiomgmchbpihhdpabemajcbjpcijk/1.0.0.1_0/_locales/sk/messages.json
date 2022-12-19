@@ -1,0 +1,36 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "Pokračovať"
+   },
+   "AMAZON_PROMOTION_ASSISTANT_LINK": {
+      "message": "nástrojom Amazon Assistant"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "Teraz nie"
+   },
+   "AMAZON_PROMOTION_DESCRIPTION_LABEL": {
+      "message": "Okamžité priradenie produktov, keď nakupujete na internete s $1$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_LEGAL_LABEL": {
+      "message": "Pokračovaním prijímate naše $1$ a $2$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "Povolenia"
+   },
+   "AMAZON_PROMOTION_TERMS_LINK": {
+      "message": "podmienky"
+   }
+}

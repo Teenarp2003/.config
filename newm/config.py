@@ -17,7 +17,7 @@ from pywm import (
 logger = logging.getLogger(__name__)
 
 background = {
-    'path': os.environ["HOME"] + f"/.config/wallpaper/959309.jpg",
+    'path': os.environ["HOME"] + f"/.config/wallpaper/tron4K.jpg",
     'anim': True
 }
 
@@ -29,18 +29,43 @@ outputs = [
 wob_runner = WobRunner("wob -a bottom -M 100")
 backlight_manager = BacklightManager(anim_time=1., bar_display=wob_runner)
 kbdlight_manager = BacklightManager(args="--device='*::kbd_backlight'", anim_time=1., bar_display=wob_runner)
-def on_startup():
-    os.system("waybar &")
+#def on_startup():
+#    os.system("waybar &")
+pywm = {
+    "enable_xwayland": True,
+    # "xkb_model": "PLACEHOLDER_xkb_model",
+    # "xkb_layout": "es",
+    # "xkb_options": "caps:swapescape",
+    "xcursor_size": 30,
+    "contstrain_popups_to_toplevel": True,
+    "encourage_csd": False,
+    "renderer_mode": "pywm",
+}
 
-    float_apps = {"Blueman"}
-    common_rules = {"float":True, "float_size": (750, 750), "float_pos":(0.5, 0.35)}
-    blur_apps = {"rofi","waybar","alacritty","Kitty"}
+blur_apps={"Alacritty","Rofi","kitty","waybar"}
 def rules(view):
-    if view.app_id in float_apps:
-        return common_rules
-    if view.app_id in blur_apps:
-        return {"blur": {"radius": 6, "passes": 4}}
-    return None
+  if view.app_id in blur_apps:
+    return {
+      'blur': { 'radius': 5, 'passes': 3 },
+      'opacity': 0.8
+    }
+  return None
+
+    #view = {
+#  'rules': rules
+#}
+view = {
+    "padding": 10,
+    "fullscreen_padding": 0,
+    "send_fullscreen": False,
+    "sticky_fullscreen": True,
+    "accept_fullscreen": False,
+    "rules": rules,
+    "floating_min_size": False,
+    "debug_scaling": False,
+    "ssd": {"enabled": True},
+}
+
 
 def synchronous_update() -> None:
     backlight_manager.update()
@@ -72,9 +97,10 @@ def key_bindings(layout: Layout) -> list[tuple[str, Callable[[], Any]]]:
         ("L-q", lambda: layout.close_focused_view()),
 
         ("L-p", lambda: layout.ensure_locked(dim=True)),
-        ("L-P", lambda: layout.terminate()),
-        ("L-C", lambda: layout.update_config()),
-
+        ("L-Q", lambda: layout.terminate()),
+        ("L-R", lambda: layout.update_config()),
+        ("L-a", lambda: os.system("~/.config/rofi/launcher.sh")),
+   
         ("L-f", lambda: layout.toggle_fullscreen()),
 
         ("L-", lambda: layout.toggle_overview()),
@@ -95,23 +121,10 @@ panels = {
     'launcher': {
         'cmd': 'alacritty -e newm-panel-basic launcher'
     },
-    #'top_bar': {
-    #   'native': {
-    #       'enabled': True,
-    #           'texts': lambda: [
-#               pwd.getpwuid(os.getuid())[0],
-#               time.strftime("%c"),
-#       ],
-    #   }
-    #},
-    'bottom_bar': {
-        'native': {
-            'enabled': True,
-            'texts': lambda: [
-                "newm",
-                "Praneet Guha Roy"
-            ],
-        }
+    "bar":{
+        "cmd": "waybar",
+        "visible_normal" : True,
+        "visible_fullscreen": False,
     },
 }
 

@@ -1,0 +1,36 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "Jatka"
+   },
+   "AMAZON_PROMOTION_ASSISTANT_LINK": {
+      "message": "Amazon Assistantin kanssa"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "Ei nyt"
+   },
+   "AMAZON_PROMOTION_DESCRIPTION_LABEL": {
+      "message": "Näet nopeasti yhteensopivia tuotteita kun shoppailet verkossa $1$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_LEGAL_LABEL": {
+      "message": "Jatkamalla hyväksyt meidän $1$ ja $2$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "Käyttöoikeudet"
+   },
+   "AMAZON_PROMOTION_TERMS_LINK": {
+      "message": "Ehdot"
+   }
+}

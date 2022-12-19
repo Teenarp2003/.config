@@ -1,0 +1,36 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "தொடர்க"
+   },
+   "AMAZON_PROMOTION_ASSISTANT_LINK": {
+      "message": "Amazon Assistant"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "இப்பொழுது இல்லை"
+   },
+   "AMAZON_PROMOTION_DESCRIPTION_LABEL": {
+      "message": "உடன் இணையத்தில் ஷாப்பிங் செய்யும்போது ஒத்திருக்கும் பொருந்துகிறது தயாரிப்புகளை வழங்குகிறது. $1$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_LEGAL_LABEL": {
+      "message": "தொடர்வதன் மூலம் நீங்கள் எங்களுடைய $1$ $2$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "அனுமதிகள்"
+   },
+   "AMAZON_PROMOTION_TERMS_LINK": {
+      "message": "விதிமுறைகள் ஏற்கிறீர்கள்"
+   }
+}

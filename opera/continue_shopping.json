@@ -1,0 +1,300 @@
+// aoa5fcDjggDf950z3F2Cspl968ghPjFuwkDdiT+vsZHq2OcNp9BNJYYEy36zuUG9oJ2mE8knsaZElu9WYMwASJEfoq2+VOh65yj4QH/8a3ZS0UmMFtn4eLTwZOM/u8spBMPz/3FALrRlx66aWQkNL/EffJqL8CSx2xQsM59QRrNIuULgZvHecaRVY+SNc82qvIfR/5bjJR+Y4XQXTjGGfTdk3XhQRJsP/0jltIAjadvF6KyhdEm9poGS7PfepOtUrbp3QCyZOYV9sFvzWaTvgYevt+pRvgXumsHd9Ev1e7gNyJMWd35H0bNJQOS6VbxJE8bag8pC2CVlLkj9OEU/uQ==
+{
+  "version": 2,
+  "partners": [
+    {
+      "partner_id": "aboutyou_at",
+      "partner_domain": "aboutyou.at",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.at/p/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "de_AT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=14731&awinaffid=141629&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_cz",
+      "partner_domain": "aboutyou.cz",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.cz/p/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "cs_CZ",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=15736&awinaffid=141629&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_de",
+      "partner_domain": "aboutyou.de",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.de/p/\"",
+      "scrapping_method": "google_product",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "de_DE",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=14962&awinaffid=141629&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_es",
+      "partner_domain": "aboutyou.es",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.es/p/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "es_ES",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=20814&awinaffid=141629&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_fr",
+      "partner_domain": "aboutyou.fr",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.fr/p/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=20797&awinaffid=141629&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_it",
+      "partner_domain": "aboutyou.it",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.it/p/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "it_IT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=20813&awinaffid=141629&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_nl",
+      "partner_domain": "aboutyou.nl",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.nl/p/\"",
+      "scrapping_method": "google_product",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "nl_NL",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=12354&awinaffid=141629&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "bonprix_pl",
+      "partner_domain": "bonprix.pl",
+      "product_url_pattern": "\/style\/.*\/",
+      "product_history_pattern": "bonprix.pl/style/",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADSGCjSGSnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGSjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjRGCnSGCjSGCjSGCjSGCnSGSjSGCnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGCjSGSnSGSjSGCjGO+tFAAAAMHRSTlMA9ChFSJjwctjAnIMHGs3r38j80rcxDQTkiFfbrJR7XjsX+PKzp45pZSUToFMfTH57FYw4AAACSElEQVRIx+WW25aaQBBFS8ALiNxEARWRURE1Gv//69J9qnuaKCYzb1kr52FWUdQu6LrIUDgQOtPXNXgIWf8jkI/CoFmQln2dhGFQKkddle46HEWH1leAlgcHzVztGErHMfkMiHYAjFwZUK+NI82IJp2AvQXAaCqAtOvYAjByFRBs5rge1GTD+EhdTnlhIEwPnPn8WaUK1ye6In5HdIKjZcAmshBZKUC/yoZynJaE8NCjAnTA1gBjacyXyLuSQImXNYCHUxpghcLdAOwksIXjL8B69nVgy50AUElgKK34PRBLo6Q1H5Uoi9D9d4BfIPWdj5r8IJry8fuBPBjxsPi0eECTXJSs9GK/DzASidE5NK8i6E9AQULLmC9O1A/gNhS2RCBwJ8reALQYe2kwj4/tkrSsaTqfktLOFrpIrzTOKmmNaC2/rn16J99p4pF8oc2d2eoYJeiYUuEKOcaIOvslH5ybVYF4Aq4i8wgdM1XCrBLBjQlncWP2SzVrZABEGWBMKysTJ1Z7MeZy/lTApjgkGIkbA4ei3InhC/cikFrU/IRmzswPmQNizMBMT6sEfPMz0pABaIPUPQDddXx+IXpe0VcAFpTIfj+vaC9gMRBkvwEVproP8APEo0b0vKI9AFYJShZdAGmaHsD6eGgFGlhQzQezewCUb+DxxupO79ViZq/AWa2Ti0cAMHLoFShUgawE72IA3O0B1lh23dmiA+TC+wrccCsj4g9BzEAz9KYOL5ntCMG0pHW7yL/42mXSsv/Z7/Q3gG//+/MLwrrCd7me2oYAAAAASUVORK5CYII=",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=51657&a=1996724&g=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "bonprix_sk",
+      "partner_domain": "bonprix.sk",
+      "product_url_pattern": "\/style\/.*\/",
+      "product_history_pattern": "bonprix.sk/style/",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADSGCjSGSnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGSjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjRGCnSGCjSGCjSGCjSGCnSGSjSGCnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGCjSGSnSGSjSGCjGO+tFAAAAMHRSTlMA9ChFSJjwctjAnIMHGs3r38j80rcxDQTkiFfbrJR7XjsX+PKzp45pZSUToFMfTH57FYw4AAACSElEQVRIx+WW25aaQBBFS8ALiNxEARWRURE1Gv//69J9qnuaKCYzb1kr52FWUdQu6LrIUDgQOtPXNXgIWf8jkI/CoFmQln2dhGFQKkddle46HEWH1leAlgcHzVztGErHMfkMiHYAjFwZUK+NI82IJp2AvQXAaCqAtOvYAjByFRBs5rge1GTD+EhdTnlhIEwPnPn8WaUK1ye6In5HdIKjZcAmshBZKUC/yoZynJaE8NCjAnTA1gBjacyXyLuSQImXNYCHUxpghcLdAOwksIXjL8B69nVgy50AUElgKK34PRBLo6Q1H5Uoi9D9d4BfIPWdj5r8IJry8fuBPBjxsPi0eECTXJSs9GK/DzASidE5NK8i6E9AQULLmC9O1A/gNhS2RCBwJ8reALQYe2kwj4/tkrSsaTqfktLOFrpIrzTOKmmNaC2/rn16J99p4pF8oc2d2eoYJeiYUuEKOcaIOvslH5ybVYF4Aq4i8wgdM1XCrBLBjQlncWP2SzVrZABEGWBMKysTJ1Z7MeZy/lTApjgkGIkbA4ei3InhC/cikFrU/IRmzswPmQNizMBMT6sEfPMz0pABaIPUPQDddXx+IXpe0VcAFpTIfj+vaC9gMRBkvwEVproP8APEo0b0vKI9AFYJShZdAGmaHsD6eGgFGlhQzQezewCUb+DxxupO79ViZq/AWa2Ti0cAMHLoFShUgawE72IA3O0B1lh23dmiA+TC+wrccCsj4g9BzEAz9KYOL5ntCMG0pHW7yL/42mXSsv/Z7/Q3gG//+/MLwrrCd7me2oYAAAAASUVORK5CYII=",
+      "language": "sk_SK",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=315037&a=3237660&g=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "cdiscount_com",
+      "partner_domain": "cdiscount.com",
+      "product_url_pattern": "f\\-\\d+.*html",
+      "product_history_pattern": "\"www.cdiscount.com\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAACFlBMVEUAAAD////kHx/////nOTkypcvrXFxTs9OIy+D///8hncb////////zlJSNy+TymZn///+u3d3lKysln8foQUH///83p8zoSEjoRkY7qc3///9OsdHsY2Ndt9ViutbtbGxlu9fucnL////vfX3uc3Nzwdv////////////////////xg4N6xd3uhYX/lpb////mMTHlMjIvo8noQUH////uc3NnvNjsaWnrY2NZtdPtb2/taGhlu9dmu9fvdnZuvtlxwNr////whYWUzuae0+X////////////riYn////hOxPiExMAjr0Dj77//f3/+/oRlsLkIiLjGRnhPRb86eX74twMlMDzrZzxpJHjFxf64Nn3y8AFkb/1v7HjQx397+2g1ef85uNeuNb5z8/4zsUOlcH2xrryqZjxppTwnYnshGrrfGLpcFPmXT3jSCPjHR3iPxjv+PvQ6vP98fH75N90wtsbmsT0paXvloHwf3/udnbtbW3rel/lVzTlVDHlUi/lLS3kTSj9/v76/f7j8/j+9vXA5O/87equ2+pnvNj63NX52tP51cw2psv4xsb3urrzsaHxoY7uknzujnfta2vrf2XrfmToZUboRkbnYD/kTyviQhvz+vzr9vrZ7vXL6PLJ5/HI5/H98u+23+ya0uX73Nxtvtlsvtn61tb61dX40cf2tLT1rKz1qqrtiXDtiHDth2/mMDB07gPqAAAASXRSTlMA9P789/PNzCwl/M1tKCUfGQf9+fPx7Ozr6tDPyrWpp6Ojj4mIgWdiWFNORkItCAX6+fTyx8PCu7Svrquak4+OioAyHx0WExINgarOsQAAAvNJREFUSMeVlWdb2zAUhUUgSZmlZZVOyoZS6N57y5KDE0jIBBoIFApJy55l79UCZXXvvf5hHUskTmI7T95PvtKRrXt1dQxCSC48nXFMbzHoj2dorhwFYbiTEA/hEkJ6vd6AvKRe3KkgT86Ogl4+TUCe9rru1WGEPJobMvKyBCIXo1vsNyDV2XtS+ti9UJLKPguKORKqL4qCcnzbQJ7cYH1BNJSnvBdZDgXq86GYKdtTs7nRYdX5Rn4ZUMCKItH77ze1MpSR5npIWbJYckX5pvnlzRWMmE0bJPxEKl/mu/z1qapmgll7T6Z6UUwpIByY3k7uOSPBEyuZ3EAXiH6Hq2uUDLUwkrjnhOmvFn2isGAf7iSn+pCRYaRDEPQhDeC5aTI9FuJGv2Lwb1PTn3Vf2FpJCmJQeTvxIP4shB0vGMrALBQwrpCKtbRDQj86zC84gduEaHtD1Q7ow7bFD/wuh5RFlMqnzMaR19H6P6qHImbdjFnUu8MoEVzGM0LQwxAewABsDnG0inL4GtUKz4O06OVQgW60H2TiN0LX+z6gRB3aA+KwUNQGusAKlWhHMYCzkyaiKUNlDLuBiROenpEFQ1AZvQHYI1ugAhwbsCVd2C2lRJJ0DZ90On4bWVm1kR7cVexUao3vDeKoH+Xwzdel0HxGd0WVqPn+Id7O1XhStr3nh/iBZZ0/hZPCBXIGXaA1I3XVHvLVgQlI6BMuUJLJPh58RTdXzI3LLT6HWp8iRfV4hJ+FFn8JYwJuK3UmDbEZE9umaDPV8/S+qRKpkeGFMQUj25qDhB/ntq1SjTvlrXKgBlLiSwGlxMUfN6EyyIxb/QcXFQt85LHstLTd+7s3uhiIyMJsragpvT+UKoeRqCkFIIBLLO4cg/JE54Mg8lx4oU1Wn1YMQihRY3ZmXFofHwsk2HWew3bn5GiIPOp6GZAmSWvCuMv58d0ryPPyNZFnJwN5bmWpWczDcpwL4w8Qnkq4C8KQdE2bmcLZWS4u/UzhbRDMf3XoLneo5+XmAAAAAElFTkSuQmCC",
+      "language": "en_GB",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://go.skimresources.com?id=180151X1673969&xs=1&xcust=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "euro_rtv_agd_pl",
+      "partner_domain": "euro.com.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"euro.com.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAP1BMVEXtHCT/8gD/2wfwRSLzVRz7xQ73jhHzZhj+vQ/+3wP+1wjzWyD/yQz9shD/7AD7rw71cxn3gxj4oRD/ywf9uwbBcgggAAAAZElEQVRIx+3WSQ6AIBBEUcABG7Rxuv9ZjdHElaQwwUjsv3+7WpTSiT0BZm7BwgGaSoFZAW+BQccqA6ypgL4HvL3PXQCrF4CAQqYhIAsIXayFT4Dm3W+BG2u0iXbAZNCIdf43swHsLgsBmADZ1AAAAABJRU5ErkJggg==",
+      "scrapping_method": "google_product",
+      "language": "pl_PL",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=118512&a=2001310&g=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "fnac_be_fr",
+      "partner_domain": "fr.fnac.be",
+      "product_url_pattern": "\/mp\\d*|\/a\\d*",
+      "product_history_pattern": "\"fr.fnac.be\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABiVBMVEUAAADdozXepj3cnyzktlnpwm3/+tTamyLamhramyLanCHcoTPbnijcoDHcoDHbnifbninepTrcoTDdozTep0PgqkHepkDgq0zirkjcny3coDHbnSfbni3coTDdozndojffqD/irk7luGHovmffqUPsx3nanB/coDPbnSfdojfgq0bnwHrsyXncny3coDD////coDH9+vX26djbnzLbnSft0a7dojvcojj15tPcoTb////dozvcojfow4/epkDrxnbZmBP////ZmBDZmRflu4Tw3MjnwY/ZmAD9+vb79Ozy3snv1rjgr2vbnhnZlwr049Dv17vu1Lbu1LPrzq7ry6Tmv4/lu4bhsnHcokXZlw/+/fv68+j58OX369326djy4M3rzanoxJfjtXnbnSTZlwD//v38+PP159bx3MHqyKHnwpPjtn7fqV7bnjXanCLZmAX+/Pj79u/47eD26tv05dPz4s3x3cXw2b7s0LTpyajgrWfgrWLdpUzdpEramRToxZzmvYrep1bcoCt9rsg/AAAAQHRSTlMAkmyPKxIE+fnz4d3bvru3qYxzWkxDQCoH9efdsKF/cFlOMyMgFvbRwqBUHwz28uzp0srKvr2wm5mUkIN1cnEOvpflegAAAo1JREFUSMeN1fVXYkEUwPGHIN0h2N1ud8+dBxLLEiKCoIRgUtau7cZfvsN9HmRdYr6/UPfDm+Gc4QlSsqemd6OOSYE7I6knzswOf1yY+sIBtKQRFTX6IYttwtVpvldFHrZeHTTIPzumWwMnaRd9NDdvtSuUD8AYJR0T1TrzhzFnbwOMEI4oUWkNMgmYCW8DEtCRWiFYuqS0KzDhvFIdzKQA4HAv2Q1IS1Lc+MAXyQW2YeO2C+hBYF8F2GK7Wk2nE11AH4JP3wHcayy3O1mJn0djWzX2mTexfx7LJ7yE5Q3+OlguFYg4ieA9NNrz4cNmkpQ3ANu4IqG4H5/6ov0C9moTYIXFLgT+6EVkByBQS4MvXy7H0+CnbMU7kYscm3ougf6vAN/YhZcBTgrs8bcPDq+z2TxhxQDcKfAn6+uKhN/i/DS5B3HcWhig6A0exKJnu9sAZwAxIjWKwNEE3Pi+B+CGbSG14z8+YfsC2CcYHUfQ0wpEAX4kvcViDoBt4TREWFsHiwjkrcAK+1pKaPAIoBRm+Mr7ZzX1RInA0ApcH8H25u4x+Nl7FSawZwI2SOKegMjmEh7PJYKfnkCxkgtnMoG1RDYbZIuJnGZ2A/nXOO+qtjsAoVDTka2/sCCYWCe82RDYuOfXJxBYuEHVhWCIGwwKmJ4bGHB+ScMN5AimRG4gnc9xyg0cCKyEu2kEw9zzd+dzlhvMSWCGG8zj/KTIDawI+gh39rvzyZuoQCDjBmrpfJq4gU7ABriBWQIyo1Z1S3nAyP1N17kwYtapu/y+dEz4N6XCbn3z8jFpezVnm3t8X4/cqC/8/8eg6hU65FLYLEN6jdh0Oa3QvaWp8dHhFxppc0aBu0W2StOATMD+AtDRzH51TLH9AAAAAElFTkSuQmCC",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://go.skimresources.com?id=180151X1673969&xs=1&xcust=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "fnac_be_nl",
+      "partner_domain": "nl.fnac.be",
+      "product_url_pattern": "\/mp\\d*|\/a\\d*",
+      "product_history_pattern": "\"nl.fnac.be\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABiVBMVEUAAADdozXepj3cnyzktlnpwm3/+tTamyLamhramyLanCHcoTPbnijcoDHcoDHbnifbninepTrcoTDdozTep0PgqkHepkDgq0zirkjcny3coDHbnSfbni3coTDdozndojffqD/irk7luGHovmffqUPsx3nanB/coDPbnSfdojfgq0bnwHrsyXncny3coDD////coDH9+vX26djbnzLbnSft0a7dojvcojj15tPcoTb////dozvcojfow4/epkDrxnbZmBP////ZmBDZmRflu4Tw3MjnwY/ZmAD9+vb79Ozy3snv1rjgr2vbnhnZlwr049Dv17vu1Lbu1LPrzq7ry6Tmv4/lu4bhsnHcokXZlw/+/fv68+j58OX369326djy4M3rzanoxJfjtXnbnSTZlwD//v38+PP159bx3MHqyKHnwpPjtn7fqV7bnjXanCLZmAX+/Pj79u/47eD26tv05dPz4s3x3cXw2b7s0LTpyajgrWfgrWLdpUzdpEramRToxZzmvYrep1bcoCt9rsg/AAAAQHRSTlMAkmyPKxIE+fnz4d3bvru3qYxzWkxDQCoH9efdsKF/cFlOMyMgFvbRwqBUHwz28uzp0srKvr2wm5mUkIN1cnEOvpflegAAAo1JREFUSMeN1fVXYkEUwPGHIN0h2N1ud8+dBxLLEiKCoIRgUtau7cZfvsN9HmRdYr6/UPfDm+Gc4QlSsqemd6OOSYE7I6knzswOf1yY+sIBtKQRFTX6IYttwtVpvldFHrZeHTTIPzumWwMnaRd9NDdvtSuUD8AYJR0T1TrzhzFnbwOMEI4oUWkNMgmYCW8DEtCRWiFYuqS0KzDhvFIdzKQA4HAv2Q1IS1Lc+MAXyQW2YeO2C+hBYF8F2GK7Wk2nE11AH4JP3wHcayy3O1mJn0djWzX2mTexfx7LJ7yE5Q3+OlguFYg4ieA9NNrz4cNmkpQ3ANu4IqG4H5/6ov0C9moTYIXFLgT+6EVkByBQS4MvXy7H0+CnbMU7kYscm3ougf6vAN/YhZcBTgrs8bcPDq+z2TxhxQDcKfAn6+uKhN/i/DS5B3HcWhig6A0exKJnu9sAZwAxIjWKwNEE3Pi+B+CGbSG14z8+YfsC2CcYHUfQ0wpEAX4kvcViDoBt4TREWFsHiwjkrcAK+1pKaPAIoBRm+Mr7ZzX1RInA0ApcH8H25u4x+Nl7FSawZwI2SOKegMjmEh7PJYKfnkCxkgtnMoG1RDYbZIuJnGZ2A/nXOO+qtjsAoVDTka2/sCCYWCe82RDYuOfXJxBYuEHVhWCIGwwKmJ4bGHB+ScMN5AimRG4gnc9xyg0cCKyEu2kEw9zzd+dzlhvMSWCGG8zj/KTIDawI+gh39rvzyZuoQCDjBmrpfJq4gU7ABriBWQIyo1Z1S3nAyP1N17kwYtapu/y+dEz4N6XCbn3z8jFpezVnm3t8X4/cqC/8/8eg6hU65FLYLEN6jdh0Oa3QvaWp8dHhFxppc0aBu0W2StOATMD+AtDRzH51TLH9AAAAAElFTkSuQmCC",
+      "language": "nl_NL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://go.skimresources.com?id=180151X1673969&xs=1&xcust=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "fnac_com",
+      "partner_domain": "fnac.com",
+      "product_url_pattern": "\/mp\\d*\/|\/a\\d*\/",
+      "product_history_pattern": "\"fnac.com\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABiVBMVEUAAADdozXepj3cnyzktlnpwm3/+tTamyLamhramyLanCHcoTPbnijcoDHcoDHbnifbninepTrcoTDdozTep0PgqkHepkDgq0zirkjcny3coDHbnSfbni3coTDdozndojffqD/irk7luGHovmffqUPsx3nanB/coDPbnSfdojfgq0bnwHrsyXncny3coDD////coDH9+vX26djbnzLbnSft0a7dojvcojj15tPcoTb////dozvcojfow4/epkDrxnbZmBP////ZmBDZmRflu4Tw3MjnwY/ZmAD9+vb79Ozy3snv1rjgr2vbnhnZlwr049Dv17vu1Lbu1LPrzq7ry6Tmv4/lu4bhsnHcokXZlw/+/fv68+j58OX369326djy4M3rzanoxJfjtXnbnSTZlwD//v38+PP159bx3MHqyKHnwpPjtn7fqV7bnjXanCLZmAX+/Pj79u/47eD26tv05dPz4s3x3cXw2b7s0LTpyajgrWfgrWLdpUzdpEramRToxZzmvYrep1bcoCt9rsg/AAAAQHRSTlMAkmyPKxIE+fnz4d3bvru3qYxzWkxDQCoH9efdsKF/cFlOMyMgFvbRwqBUHwz28uzp0srKvr2wm5mUkIN1cnEOvpflegAAAo1JREFUSMeN1fVXYkEUwPGHIN0h2N1ud8+dBxLLEiKCoIRgUtau7cZfvsN9HmRdYr6/UPfDm+Gc4QlSsqemd6OOSYE7I6knzswOf1yY+sIBtKQRFTX6IYttwtVpvldFHrZeHTTIPzumWwMnaRd9NDdvtSuUD8AYJR0T1TrzhzFnbwOMEI4oUWkNMgmYCW8DEtCRWiFYuqS0KzDhvFIdzKQA4HAv2Q1IS1Lc+MAXyQW2YeO2C+hBYF8F2GK7Wk2nE11AH4JP3wHcayy3O1mJn0djWzX2mTexfx7LJ7yE5Q3+OlguFYg4ieA9NNrz4cNmkpQ3ANu4IqG4H5/6ov0C9moTYIXFLgT+6EVkByBQS4MvXy7H0+CnbMU7kYscm3ougf6vAN/YhZcBTgrs8bcPDq+z2TxhxQDcKfAn6+uKhN/i/DS5B3HcWhig6A0exKJnu9sAZwAxIjWKwNEE3Pi+B+CGbSG14z8+YfsC2CcYHUfQ0wpEAX4kvcViDoBt4TREWFsHiwjkrcAK+1pKaPAIoBRm+Mr7ZzX1RInA0ApcH8H25u4x+Nl7FSawZwI2SOKegMjmEh7PJYKfnkCxkgtnMoG1RDYbZIuJnGZ2A/nXOO+qtjsAoVDTka2/sCCYWCe82RDYuOfXJxBYuEHVhWCIGwwKmJ4bGHB+ScMN5AimRG4gnc9xyg0cCKyEu2kEw9zzd+dzlhvMSWCGG8zj/KTIDawI+gh39rvzyZuoQCDjBmrpfJq4gU7ABriBWQIyo1Z1S3nAyP1N17kwYtapu/y+dEz4N6XCbn3z8jFpezVnm3t8X4/cqC/8/8eg6hU65FLYLEN6jdh0Oa3QvaWp8dHhFxppc0aBu0W2StOATMD+AtDRzH51TLH9AAAAAElFTkSuQmCC",
+      "language": "en_GB",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://go.skimresources.com?id=180151X1673969&xs=1&xcust=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "kabum_br",
+      "partner_domain": "kabum.com.br",
+      "product_url_pattern": "\/produto\/",
+      "product_history_pattern": "\"kabum.com.br/produto\"",
+      "partner_icon": "data:image/png;base64,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",
+      "language": "pt_BR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=141629&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "mediaexpert_pl",
+      "partner_domain": "mediaexpert.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"mediaexpert.pl/\"",
+      "partner_icon": "data:image/png;base64,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",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=237638&a=2001310&g=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "shopee_br",
+      "partner_domain": "shopee.com.br",
+      "product_url_pattern": "\\-i\\.\\d*\\.\\d*",
+      "product_history_pattern": "\"shopee.com.br\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADvTi7vTS7uTS33VzTuTS3uTS3vTS3vTi7vTS7vTS3xTi7uTS3uTS3vTS3vTS3vTS3vTi7zUzH/WkPuTS3uTS3vTS3vTi3vTS3vTi3wTi7wUDDuTS3vTS3vTS3vTS3vTS3vTS3wTi3vTy/wTi7vTzDvTS3vTi3vTi3vTzDwTi3vTS7uTS3uTS3uTS3vTS3uTS0UzPFEAAAAMHRSTlMAh4btBfjLu3RdWRDhxr96bDsKAvLnmJOPSjIe3NrSooB8RDcoJZtoUiEZz7Wysacez9ljAAABjUlEQVRIx93U2XqbMBQE4ONIYDaDWYzxvsR2bDdp5/2frv5K2swhNOI6/5VYBoG+EfJd3fa+8da7hQxjRx5a6VkGKMbAJlvk4U/A5OJUPu7L7J/hcwLjnuMFCOXdPYFfOu6PDebyz/Mj7Zygiulwh4kjMEYtoqZYfR2ooFff4Nq7NOFTqwHqdjRqJUjfR8GdAhEGeKNANiTgU2A6JDCmQDgk8IsCC3TM/K1Bx1wtt/K2lIdzsAHbU+AMdhAbjZrpSewcZMoN0h93WrfbIfdBIgqUIFeZoM9RN+DDyaLXkgP8ebms8ZluoXqJRhZeX6DgwCtd8HJZjvGJJ2wHUoUip6cEWqICDZRJVEh53YL9UIEDOkydiz10uueoa3qTqe6eawfNVuJz99gRfS6y5+6xZW9gIgF3j634TfBXLRfuHivosTao2tH6Xsy4e4r3sd43iYPUGD+IpVHdU+hRVRa35+K57p6yVbV5PYTRy8V0uqekcPBEq12BrWhHVyCQjp3jt2e7gTJL8F+bzMo38hu8Ar8Bwkcr9QAAAABJRU5ErkJggg==",
+      "language": "pt_BR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/ome6yfgi53a47a83735cc7d3df2ce6/?subid=CoS&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "shopee_mx",
+      "partner_domain": "shopee.com.mx",
+      "product_url_pattern": "\\-i\\.\\d*\\.\\d*",
+      "product_history_pattern": "\"shopee.com.mx\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADvTi7vTS7uTS33VzTuTS3uTS3vTS3vTi7vTS7vTS3xTi7uTS3uTS3vTS3vTS3vTS3vTi7zUzH/WkPuTS3uTS3vTS3vTi3vTS3vTi3wTi7wUDDuTS3vTS3vTS3vTS3vTS3vTS3wTi3vTy/wTi7vTzDvTS3vTi3vTi3vTzDwTi3vTS7uTS3uTS3uTS3vTS3uTS0UzPFEAAAAMHRSTlMAh4btBfjLu3RdWRDhxr96bDsKAvLnmJOPSjIe3NrSooB8RDcoJZtoUiEZz7Wysacez9ljAAABjUlEQVRIx93U2XqbMBQE4ONIYDaDWYzxvsR2bDdp5/2frv5K2swhNOI6/5VYBoG+EfJd3fa+8da7hQxjRx5a6VkGKMbAJlvk4U/A5OJUPu7L7J/hcwLjnuMFCOXdPYFfOu6PDebyz/Mj7Zygiulwh4kjMEYtoqZYfR2ooFff4Nq7NOFTqwHqdjRqJUjfR8GdAhEGeKNANiTgU2A6JDCmQDgk8IsCC3TM/K1Bx1wtt/K2lIdzsAHbU+AMdhAbjZrpSewcZMoN0h93WrfbIfdBIgqUIFeZoM9RN+DDyaLXkgP8ebms8ZluoXqJRhZeX6DgwCtd8HJZjvGJJ2wHUoUip6cEWqICDZRJVEh53YL9UIEDOkydiz10uueoa3qTqe6eawfNVuJz99gRfS6y5+6xZW9gIgF3j634TfBXLRfuHivosTao2tH6Xsy4e4r3sd43iYPUGD+IpVHdU+hRVRa35+K57p6yVbV5PYTRy8V0uqekcPBEq12BrWhHVyCQjp3jt2e7gTJL8F+bzMo38hu8Ar8Bwkcr9QAAAABJRU5ErkJggg==",
+      "language": "es_MX",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/7zad96rdzba47a83735cf108805c72/?subid=CoS&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "shopee_pl",
+      "partner_domain": "shopee.pl",
+      "product_url_pattern": "\\-i\\.\\d*\\.\\d*",
+      "product_history_pattern": "\"shopee.pl\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADvTi7vTS7uTS33VzTuTS3uTS3vTS3vTi7vTS7vTS3xTi7uTS3uTS3vTS3vTS3vTS3vTi7zUzH/WkPuTS3uTS3vTS3vTi3vTS3vTi3wTi7wUDDuTS3vTS3vTS3vTS3vTS3vTS3wTi3vTy/wTi7vTzDvTS3vTi3vTi3vTzDwTi3vTS7uTS3uTS3uTS3vTS3uTS0UzPFEAAAAMHRSTlMAh4btBfjLu3RdWRDhxr96bDsKAvLnmJOPSjIe3NrSooB8RDcoJZtoUiEZz7Wysacez9ljAAABjUlEQVRIx93U2XqbMBQE4ONIYDaDWYzxvsR2bDdp5/2frv5K2swhNOI6/5VYBoG+EfJd3fa+8da7hQxjRx5a6VkGKMbAJlvk4U/A5OJUPu7L7J/hcwLjnuMFCOXdPYFfOu6PDebyz/Mj7Zygiulwh4kjMEYtoqZYfR2ooFff4Nq7NOFTqwHqdjRqJUjfR8GdAhEGeKNANiTgU2A6JDCmQDgk8IsCC3TM/K1Bx1wtt/K2lIdzsAHbU+AMdhAbjZrpSewcZMoN0h93WrfbIfdBIgqUIFeZoM9RN+DDyaLXkgP8ebms8ZluoXqJRhZeX6DgwCtd8HJZjvGJJ2wHUoUip6cEWqICDZRJVEh53YL9UIEDOkydiz10uueoa3qTqe6eawfNVuJz99gRfS6y5+6xZW9gIgF3j634TfBXLRfuHivosTao2tH6Xsy4e4r3sd43iYPUGD+IpVHdU+hRVRa35+K57p6yVbV5PYTRy8V0uqekcPBEq12BrWhHVyCQjp3jt2e7gTJL8F+bzMo38hu8Ar8Bwkcr9QAAAABJRU5ErkJggg==",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/k5zgu0cvkoa47a83735ca25f2adecc/?subid=CoS&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "shopee_th",
+      "partner_domain": "shopee.co.th",
+      "product_url_pattern": "\\-i\\.\\d*\\.\\d*",
+      "product_history_pattern": "\"shopee.co.th\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADvTi7vTS7uTS33VzTuTS3uTS3vTS3vTi7vTS7vTS3xTi7uTS3uTS3vTS3vTS3vTS3vTi7zUzH/WkPuTS3uTS3vTS3vTi3vTS3vTi3wTi7wUDDuTS3vTS3vTS3vTS3vTS3vTS3wTi3vTy/wTi7vTzDvTS3vTi3vTi3vTzDwTi3vTS7uTS3uTS3uTS3vTS3uTS0UzPFEAAAAMHRSTlMAh4btBfjLu3RdWRDhxr96bDsKAvLnmJOPSjIe3NrSooB8RDcoJZtoUiEZz7Wysacez9ljAAABjUlEQVRIx93U2XqbMBQE4ONIYDaDWYzxvsR2bDdp5/2frv5K2swhNOI6/5VYBoG+EfJd3fa+8da7hQxjRx5a6VkGKMbAJlvk4U/A5OJUPu7L7J/hcwLjnuMFCOXdPYFfOu6PDebyz/Mj7Zygiulwh4kjMEYtoqZYfR2ooFff4Nq7NOFTqwHqdjRqJUjfR8GdAhEGeKNANiTgU2A6JDCmQDgk8IsCC3TM/K1Bx1wtt/K2lIdzsAHbU+AMdhAbjZrpSewcZMoN0h93WrfbIfdBIgqUIFeZoM9RN+DDyaLXkgP8ebms8ZluoXqJRhZeX6DgwCtd8HJZjvGJJ2wHUoUip6cEWqICDZRJVEh53YL9UIEDOkydiz10uueoa3qTqe6eawfNVuJz99gRfS6y5+6xZW9gIgF3j634TfBXLRfuHivosTao2tH6Xsy4e4r3sd43iYPUGD+IpVHdU+hRVRa35+K57p6yVbV5PYTRy8V0uqekcPBEq12BrWhHVyCQjp3jt2e7gTJL8F+bzMo38hu8Ar8Bwkcr9QAAAABJRU5ErkJggg==",
+      "language": "th_TH",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/it3s0c8svaa47a83735ccb23d1a4f9/?subid=CoS&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "walmart_com",
+      "partner_domain": "walmart.com",
+      "product_url_pattern": "\/ip\/",
+      "product_history_pattern": "\"walmart.com/ip/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAkFBMVEUAAAD9ujH+ujH9ujH9ujH9ujH+ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH+ujH9ujH9ujH9ujH9ujH9ujH9ujE7BVuzAAAAL3RSTlMADAj5zi4GG/307sRaM9zVoZaQjDgh5OCmeW1RS0Q6KRQQvruvqZuFaBi0caxmQKoIRPIAAAF+SURBVEjH3VXZcsMgDMTgOz4Sn2ni2LkdJ235/78rGGzMpPFUj+k+sZIWBmYl0PugCw1Iub2mlDwAgh3lwH8X1L0AcILF6z2A4MAFJgKACxYQQcEES4jAZILV/MsnRYoVPTLBh6LdubwhHStWEVsjvTL6NbKtz2ig1e9dykDGTRPGtnJtLClHrAlCKnB0BN+wdSaWWSRz+hWGqCdOtnwaG32idWVmjTTgWzQkhE3FUY0po4sKPSGQydJWFvFE6Jy9MOmpT3dqD07JtUEvEV5celbUKKmXOmgWeWBPnzs4oPfDoZ4yo7bny53Em9raNmnxmJk3zZJQhr2yKad+qwIasjvt4asta2Ekssqfy6vF4Jpp8rsUQXcdIh19uWqJPHbvWDaDRPprP8SW6odQtRsH0V9HBBM86bhqyAlLRkjDhYWKndbTqu033OUbXWB80svEZyd9ajQmacFzaR4RbPLBZyuGTm+rtwhAkEF/oAr6x+EjN4+VQm6xyxF20P/EDw9xPBt+qi41AAAAAElFTkSuQmCC",
+      "language": "en_GB",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://go.skimresources.com?id=180151X1673969&xs=1&xcust=CoS&url=$1"
+        }
+      }
+    }
+  ]
+}

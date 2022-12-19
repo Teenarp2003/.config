@@ -13,7 +13,7 @@
   // Modules configuration
   "custom/arch-pill": {
     "format": "",
-    "on-click": "~/.config/rofi/scripts/launcher",
+    "on-click": "~/.config/rofi/launcher.sh",
     "tooltip": false
   },
   "clock": {
@@ -48,7 +48,7 @@
     "format-icons": ["", "", "", "", ""]
   },
   "network": {
-    "interface": "wlan0",
+    "interface": "wlp4s0",
     "format": "Loading",
     "format-wifi": "{essid} ({signalStrength}%)",
     "format-ethernet": "{ipaddr}/{cidr} ",

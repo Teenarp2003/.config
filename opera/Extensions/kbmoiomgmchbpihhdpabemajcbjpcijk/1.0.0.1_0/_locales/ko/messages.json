@@ -1,0 +1,36 @@
+{
+   "AMAZON_PROMOTION_ACCEPT_BUTTON": {
+      "message": "계속"
+   },
+   "AMAZON_PROMOTION_ASSISTANT_LINK": {
+      "message": "Amazon Assistant"
+   },
+   "AMAZON_PROMOTION_CANCEL_BUTTON": {
+      "message": "나중에"
+   },
+   "AMAZON_PROMOTION_DESCRIPTION_LABEL": {
+      "message": "웹을 통해 쇼핑하는 동안 즉각적인 제품 일치 $1$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_LEGAL_LABEL": {
+      "message": "계속하려면 $1$ 수락 및 $2$",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "AMAZON_PROMOTION_PERMISSIONS_LINK": {
+      "message": "권한"
+   },
+   "AMAZON_PROMOTION_TERMS_LINK": {
+      "message": "약관"
+   }
+}
