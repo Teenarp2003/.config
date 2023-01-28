@@ -29,7 +29,8 @@ super + m
 # Rotate tree
 super + shift + {d,a}
     bspc node @/ -C {forward,backward}
-
+Print
+  spectacle -rcb
 # open browser
 super + c
 	google-chrome-stable
@@ -37,29 +38,22 @@ super + c
 super + v
 	code
 # cycle between desktops
-super + bracket{left,right}
+super + {Left,Right}
 	bspc desktop -f {prev,next}
 # Focus the next/previous node in the current desktop:
 alt + {_,shift +}Tab
 	bspc node -f {next,prev}.local
 #Sound Controls
-XF86AudioRaiseVolume
-    pactl set-sink-volume 0 +5%
-XF86AudioLowerVolume
-    pactl set-sink-volume 0 -5% 
+XF86Audio{Raise,Lower}Volume
+    amixer set Master 1%{+,-} 1>/dev/null && volume-up
 XF86AudioMute
-    pactl set-sink-mute 0 toggle 
-XF86AudioPlay
-	playerctl --player=spotify play-pause
-XF86AudioStop
-	playerctl --player=spotify stop
-XF86AudioPrev
-	playerctl --player=spotify previous
-XF86AudioNext
-	playerctl --player=spotify next
+    amixer -D pulse set Master 1+ toggle 1>/dev/null
+XF86MonBrightness{Up,Down}  
+  brightnessctl s 10{+,-} && brightness
+XF86Audio{Play,Stop,Prev,Next}
+	playerctl --player=spotify {play-pause,stop,previous,next
 super + s 
-	env LD_PRELOAD=/usr/lib/spotify-adblock.so spotify %U
-
+  spotify --uri=%U & sleep 3s && picom-trans -n "Spotify" -o 70
 # Toggle floating
 alt + d
 	bspc node -t "~"{floating,tiled}
@@ -69,24 +63,22 @@ super + e
 #rofi
 super + a
 	exec rofi -show drun -theme ~/.config/rofi/config.rasi
-#spotify
-super + s 
-	flatpak run com.spotify.Client
 
 # Move focused window to the next workspace and then switch to that workspace
 super + shift + {Left,Right}
     set id $(bspc query --nodes --node); bspc node --to-desktop {prev,next}; bspc desktop --focus next; bspc node --focus ${id}
 
-# Show help
-super + slash
-    sxhkd-help
+# Power menu
+super + q
+  exec bash ~/.config/polybar/scripts/run.sh
 
-# Show clipmenu
-alt + v
-    CM_LAUNCHER=rofi clipmenu \
-        -location 1 \
-        -m -3 \
-        -no-show-icons \
-        -theme-str '* \{ font: 10px; \}' \
-        -theme-str 'listview \{ spacing: 0; \}' \
-        -theme-str 'window \{ width: 20em; \}'
+super + l
+  exec betterlockscreen -l blur
+# expand a window by moving one of its side outward
+super + alt + {Left,Down,Up,Right}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+
+# contract a window by moving one of its side inward
+super + alt + ctrl + {Left,Down,Up,Right}
+	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
+

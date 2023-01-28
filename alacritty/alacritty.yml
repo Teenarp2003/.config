@@ -8,7 +8,7 @@ env:
 
 ## window settings
 window:
-  opacity: 0
+  opacity: 0.3
   padding:
     x: 10
     y: 10
@@ -51,18 +51,18 @@ shell:
 font:
   normal:
     family: SourceCodePro
-    style: Black
+    style:  Black
 
   bold:
-    family: Monospace
-    style: Bold
+    family: Victor Mono
+    style: Semibold Italic
 
   italic:
-    family: Monospace
+    family: Victor Mono
     style: Italic
 
   bold_italic:
-    family: Monospace
+    family: Victor Mono
     style: Bold Italic
 
   size: 10
