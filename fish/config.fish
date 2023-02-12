@@ -14,7 +14,6 @@ end
 end
 
 starship init fish | source
-
 alias ls='exa -lah --icons'
 alias vim='nvim'
 alias vi='nvim'
