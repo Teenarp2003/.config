@@ -1,7 +1,7 @@
 if status is-interactive
   ## Adding paths
   set -e fish_user_paths
-  set -U fish_user_paths ~/bin ~/.local/bin /opt/anaconda/bin 
+  set -U fish_user_paths ~/bin ~/.local/bin /opt/miniconda3/bin/
 function fish_greeting
    
     #   echo 
@@ -39,19 +39,12 @@ alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 
 alias rm='rm -i'
-
-
-export EDITOR=nvim;
+alias mount-phone='sshfs -p 8022 u0_a588@192.168.29.88:/sdcard/ ~/Phone'
+alias feh='feh --scale-down'
+export EDITOR=/usr/bin/nvim;
 export VISUAL=nvim;
 
 fish_add_path /home/teenarp2026/.spicetify
-fish_add_path /home/teenarp2026/anaconda3/bin 
 
 
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-if test -f /opt/anaconda/bin/conda
-    eval /opt/anaconda/bin/conda "shell.fish" "hook" $argv | source
-end
-# <<< conda initialize <<<
 

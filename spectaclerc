@@ -1,0 +1,17 @@
+[General]
+autoSaveImage=true
+clipboardGroup=PostScreenshotCopyImage
+onLaunchAction=DoNotTakeScreenshot
+printKeyActionRunning=FocusWindow
+rememberLastRectangularRegion=Never
+
+[GuiConfig]
+captureDelay=3
+quitAfterSaveCopyExport=true
+window-position=615,334
+
+[Save]
+compressionQuality=100
+defaultSaveImageFormat=JPEG
+lastSaveAsLocation=file:///home/teenarp2026/Desktop/Screenshot_20230625_003011.jpg
+lastSaveLocation=file:///home/teenarp2026/Desktop/Screenshot_20230625_003011.jpg

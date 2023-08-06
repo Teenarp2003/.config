@@ -7,13 +7,21 @@
 /// <reference path="../../spicetify-cli/globals.d.ts" />
 
 (function adblock() {
-    const { Platform} = Spicetify;
+    const { Platform } = Spicetify;
     if (!(Platform)) {
         setTimeout(adblock, 300)
         return
     }
-    
 
+    var styleSheet = document.createElement("style")
+
+    styleSheet.innerHTML =
+        `
+    .MnW5SczTcbdFHxLZ_Z8j, .WiPggcPDzbwGxoxwLWFf, .ReyA3uE3K7oEz7PTTnAn, .main-leaderboardComponent-container, .sponsor-container, a.link-subtle.main-navBar-navBarLink.GKnnhbExo0U9l7Jz2rdc, button[title="Upgrade to Premium"], button[aria-label="Upgrade to Premium"], .main-contextMenu-menuItem a[href="https://www.spotify.com/premium/"] {
+    display: none !important;
+    }
+    `
+    document.body.appendChild(styleSheet)
     delayAds()
     var billboard = Spicetify.Platform.AdManagers.billboard.displayBillboard;
     Spicetify.Platform.AdManagers.billboard.displayBillboard = function (arguments) {
@@ -21,7 +29,6 @@
         // hook before call
         var ret = billboard.apply(this, arguments);
         // hook after call
-        console.log("Adblock.js: Billboard blocked! Leave a star!")
         Spicetify.Platform.AdManagers.billboard.finish()
         const observer = new MutationObserver((mutations, obs) => {
             const billboardAd = document.getElementById('view-billboard-ad');
@@ -39,11 +46,11 @@
         return ret;
     };
     function delayAds() {
-        console.log("Adblock.js: Ads delayed!")
+        console.log("Ads delayed: Adblock.js")
         Spicetify.Platform.AdManagers.audio.audioApi.cosmosConnector.increaseStreamTime(-100000000000)
         Spicetify.Platform.AdManagers.billboard.billboardApi.cosmosConnector.increaseStreamTime(-100000000000)
     }
-    setInterval(delayAds, 720 *10000);
+    setInterval(delayAds, 720 * 10000);
 
-   
-})() 
+
+})()

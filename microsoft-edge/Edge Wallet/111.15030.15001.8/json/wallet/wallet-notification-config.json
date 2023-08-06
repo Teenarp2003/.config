@@ -1,0 +1,13 @@
+{
+  "eligible_types": [
+    "CardExpiring",
+    "PasswordLeakage",
+    "PersonalizedOffersAvailable",
+    "UpcomingHotelReservations",
+    "SignupCryptoWallet"
+  ],
+  "snooze_time_in_hour": 168,
+  "refresh_time_in_hour": 12,
+  "rotate_time_in_hour": 12,
+  "notification_build_time_after_start_up_in_second": 60
+}

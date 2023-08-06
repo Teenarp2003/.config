@@ -1,0 +1,98 @@
+19:49:41.394: Using EGL/X11
+19:49:41.394: CPU Name: AMD Ryzen 5 4600H with Radeon Graphics
+19:49:41.394: CPU Speed: 3981.064MHz
+19:49:41.394: Physical Cores: 6, Logical Cores: 12
+19:49:41.394: Physical Memory: 15359MB Total, 12363MB Free
+19:49:41.394: Kernel Version: Linux 6.2.12-arch1-1
+19:49:41.394: Distribution: "Arch Linux" Unknown
+19:49:41.394: Session Type: x11
+19:49:41.394: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+19:49:41.396: Qt Version: 6.5.0 (runtime), 6.4.2 (compiled)
+19:49:41.396: Portable mode: false
+19:49:41.460: OBS 29.0.2-2 (linux)
+19:49:41.460: ---------------------------------
+19:49:41.461: ---------------------------------
+19:49:41.461: audio settings reset:
+19:49:41.461: 	samples per sec: 48000
+19:49:41.461: 	speakers:        2
+19:49:41.461: 	max buffering:   960 milliseconds
+19:49:41.461: 	buffering type:  dynamically increasing
+19:49:41.465: ---------------------------------
+19:49:41.465: Initializing OpenGL...
+19:49:41.520: Loading up OpenGL on adapter AMD AMD Radeon Graphics (renoir, LLVM 15.0.7, DRM 3.49, 6.2.12-arch1-1)
+19:49:41.520: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 23.0.3, shading language 4.60
+19:49:41.624: ---------------------------------
+19:49:41.624: video settings reset:
+19:49:41.624: 	base resolution:   1920x1080
+19:49:41.624: 	output resolution: 1920x1080
+19:49:41.624: 	downscale filter:  Bicubic
+19:49:41.624: 	fps:               60/1
+19:49:41.624: 	format:            NV12
+19:49:41.624: 	YUV mode:          Rec. 709/Partial
+19:49:41.625: NV12 texture support not available
+19:49:41.625: P010 texture support not available
+19:49:41.629: Audio monitoring device:
+19:49:41.629: 	name: Default
+19:49:41.629: 	id: default
+19:49:41.629: ---------------------------------
+19:49:41.638: Failed to load 'en-US' text for module: 'decklink-captions.so'
+19:49:41.647: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+19:49:41.654: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:49:41.654: Failed to initialize module 'decklink.so'
+19:49:41.792: [pipewire] No captures available
+19:49:41.812: v4l2loopback not installed, virtual camera disabled
+19:49:41.844: NVENC supported
+19:49:41.844: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+19:49:41.844: FFmpeg VAAPI H264 encoding not supported
+19:49:41.857: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.2: cannot open shared object file: No such file or directory
+19:49:41.857: 
+19:49:41.860: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.2: cannot open shared object file: No such file or directory
+19:49:41.860: 
+19:49:41.860: Module '/usr//lib/obs-plugins/obs-libfdk.so' not loaded
+19:49:41.915: ---------------------------------
+19:49:41.915:   Loaded Modules:
+19:49:41.915:     text-freetype2.so
+19:49:41.915:     rtmp-services.so
+19:49:41.915:     obs-x264.so
+19:49:41.915:     obs-vst.so
+19:49:41.915:     obs-transitions.so
+19:49:41.915:     obs-outputs.so
+19:49:41.915:     obs-filters.so
+19:49:41.915:     obs-ffmpeg.so
+19:49:41.915:     linux-v4l2.so
+19:49:41.915:     linux-pulseaudio.so
+19:49:41.915:     linux-pipewire.so
+19:49:41.915:     linux-jack.so
+19:49:41.915:     linux-capture.so
+19:49:41.915:     linux-alsa.so
+19:49:41.915:     image-source.so
+19:49:41.915:     frontend-tools.so
+19:49:41.915:     decklink-output-ui.so
+19:49:41.915:     decklink-captions.so
+19:49:41.915: ---------------------------------
+19:49:41.916: ==== Startup complete ===============================================
+19:49:41.952: All scene data cleared
+19:49:41.952: ------------------------------------------------
+19:49:41.957: pulse-input: Server name: 'pulseaudio 16.1'
+19:49:41.957: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+19:49:41.957: pulse-input: Started recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor' (default)
+19:49:41.957: [Loaded global audio device]: 'Desktop Audio'
+19:49:41.957: pulse-input: Server name: 'pulseaudio 16.1'
+19:49:41.958: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+19:49:41.958: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.analog-stereo' (default)
+19:49:41.958: [Loaded global audio device]: 'Mic/Aux'
+19:49:41.958: v4l2-input: Start capture from /dev/video0
+19:49:41.958: v4l2-input: Unable to open device
+19:49:41.958: v4l2-input: Initialization failed, errno: No such file or directory
+19:49:41.958: xshm-input: Geometry 1920x1080 @ 0,0
+19:49:41.961: Switched to scene 'Scene'
+19:49:41.961: ------------------------------------------------
+19:49:41.961: Loaded scenes:
+19:49:41.961: - scene 'Scene':
+19:49:41.961:     - source: 'Screen Capture (XSHM)' (xshm_input)
+19:49:41.961:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+19:49:41.961: ------------------------------------------------
+19:49:42.485: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Mic/Aux)
+19:49:42.485: 
+19:49:43.008: [rtmp-services plugin] Successfully updated file 'services.json' (version 220)
+19:49:43.008: [rtmp-services plugin] Successfully updated package (version 220)

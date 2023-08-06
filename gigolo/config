@@ -1,0 +1,18 @@
+[general]
+file_manager=gio open
+terminal=xterm
+autoconnect_interval=60
+
+[ui]
+geometry=964;570;946;500;0;
+save_geometry=true
+show_in_systray=true
+start_in_systray=false
+show_toolbar=true
+toolbar_style=2
+toolbar_orientation=0
+view_mode=0
+show_panel=false
+last_panel_page=0
+panel_position=200
+show_autoconnect_errors=true

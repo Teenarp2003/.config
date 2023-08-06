@@ -99,8 +99,6 @@ def key_bindings(layout: Layout) -> list[tuple[str, Callable[[], Any]]]:
         ("L-p", lambda: layout.ensure_locked(dim=True)),
         ("L-Q", lambda: layout.terminate()),
         ("L-R", lambda: layout.update_config()),
-        ("L-a", lambda: os.system("~/.config/rofi/launcher.sh")),
-   
         ("L-f", lambda: layout.toggle_fullscreen()),
 
         ("L-", lambda: layout.toggle_overview()),

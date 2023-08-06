@@ -1,0 +1,932 @@
+:root {
+
+}
+a {
+	color: var(--theme-accent-color);
+	transition: all 0.3s ease;
+}
+html, body {
+	height: 100%;
+}
+body {
+	color: var(--theme-text-color);
+	height: 600px;
+	width: 410px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	display: flex;
+	flex-direction: column;
+	-webkit-font-smoothing: antialiased; /*For Mac OS / OSX*/
+	overflow: hidden;
+}
+svg{
+	fill: var(--theme-accent-color-lowlight);
+    transition: all 0.3s ease;
+}
+svg:hover {
+	fill: var(--theme-accent-color);
+}
+li:hover > svg {
+	fill: var(--theme-accent-color-dark);
+}
+body.popout {
+	width: 100%;
+	height: 100%;
+}
+#devices {
+	background-color: var(--theme-background-color);
+	height: 100vh;
+	overflow: auto;
+}
+#tabsplaceholder {
+	overflow: hidden;
+	text-align: center;
+}
+.devicecommands {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+.devicecommandsleft {
+	background-color: var(--theme-background-color);
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+.commands {
+	flex: 1;
+	overflow-y: auto;
+	height: 100vh;
+}
+
+.button-container {
+	align-items: flex-start;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.dropzone {
+	position: absolute;
+    /* top: 50%; */
+    /* left: 50%; */
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    background-color: rgba(255, 100, 0, .8);
+    display: flex;
+    align-items: center;
+    align-content: center;
+  	outline: 2px dashed black;
+  	outline-offset: -20px;
+}
+.dropzone div {
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+    //text-shadow: 1px 1px #ffffff;
+}
+.dropzone div.small {
+    font-size: 20px;
+}
+.dropzone a {
+	color: blue;
+}
+#deviceiconcontainer {
+	border-radius: 100%;
+	display: flex;
+	height: 50px;
+	width: 50px;
+	overflow: visible;
+}
+.deviceicon {
+	display: block;
+	height: 30px;
+	margin: auto;
+}
+#deviceiconcontainer:hover .deviceinfo {
+	display: block;
+}
+.devicelocalnetwork{
+	position: absolute;
+    width: 20px;
+    height: 20px;
+    bottom: 0px;
+    left: 0px;
+    fill: var(--theme-text-color);
+	opacity: 1;
+}
+.devicelocalnetwork:hover{
+    fill: var(--theme-text-color);
+}
+.devicelocalnetworktext {
+	display: none;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	background-color: var(--theme-accent-color);
+	color: var(--theme-background-color);
+	border-radius: 100%;
+}
+#devicelocalnetworkcontainer{
+	z-index: 100;
+}
+#devicelocalnetworkcontainer:hover .devicelocalnetworktext {
+	display: block;
+}
+.deviceinfo{
+	display: none;
+	position: absolute;
+    width: 20px;
+    height: 20px;
+    bottom: 0px;
+    right: -8px;
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: var(--theme-text-color);
+    opacity: 0.4;
+    z-index: 20;
+    fill: var(--theme-background-color);
+}
+.deviceinfo:hover{
+	opacity: 1;
+    fill: var(--theme-background-color);
+}
+.device {
+	align-items: center;
+	cursor: pointer;
+	display: flex;
+	flex-direction: column;
+	margin-top: 5px;
+	opacity: 0.4;
+	transition: all 0.3s ease;
+	width: 66px;
+}
+.device:hover{
+	opacity: 0.8;
+}
+.selecteddevice {
+	opacity: 1 !important;
+}
+.device #deviceiconcontainer {
+	background-color: var(--theme-accent-color);
+}
+.devicecommands .selecteddevice::after {
+	background: antiquewhite;
+	content: ' ';
+	height: 100%;
+	position: absolute;
+	right: -2px;
+	top: 0;
+	width: 2px;
+}
+.devicebutton {
+	align-items: center;
+	cursor: pointer;
+	display: flex;
+	padding: 8px;
+	width: 100%;
+}
+.devicebutton.disabled {
+	display: none;
+}
+.devicebutton:hover {
+	background: var(--theme-background-color-hover);
+}
+.devicebutton:hover a#link {
+	color: var(--theme-accent-color);
+}
+#devicebuttondrag {
+	visibility: hidden;
+	transition: all 0.1s ease;
+}
+.devicebutton:hover #devicebuttondrag {
+	visibility: visible;
+}
+#devicebuttondrag {
+	margin-left: auto;
+	opacity: 0.2;
+}
+#devicebuttondrag:hover{
+	opacity: 0.9 !important;
+}
+#devicebuttonimage {
+	height: 24px;
+	width: 24px;
+	margin: 4px 24px 4px 16px;
+}
+a#link {
+	color: var(--theme-accent-color-lowlight);
+	font-size: 18px;
+	font-weight: 400;
+}
+.devicename {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	width: 69px;
+	word-break: break-word;
+	padding-top:4px;
+}
+#devicelist {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	padding: 6px;
+	box-shadow: 0 -2px 6px black;
+	text-align: center;
+}
+#notifications {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	padding: 8px;
+	background-color: var(--theme-background-color-panel);
+	overflow-y: scroll;
+}
+.button {
+	color: white;
+	height: 20px;
+	line-height: 20px;
+	margin-right: 5px;
+	margin-top: 5px;
+	padding: 5px;
+	text-align: center;
+	width: 130px !important;
+}
+.button-link {
+	background: #424242;
+	border-radius: 4px;
+	height: 30px !important;
+	line-height: 30px !important;
+	margin: 5px;
+	padding: 0px;
+	width: 190px !important;
+}
+.button-link:hover {
+	background: var(--theme-accent-color);
+}
+td {
+	padding: 0px !important;
+	text-align: center !important;
+}
+#topbar {
+	display: none;
+}
+.tabselement {
+	background-color: var(--theme-tab-color);
+	display: flex;
+	//font-size: 8px;
+}
+#tabscontainer {
+	box-shadow: 0px -1px 6px black;
+	z-index:100;
+	flex: 0 0 48px;
+}
+#tabs {
+	flex-grow: 1;
+}
+#tabs .tab {
+	padding: 0 1em;
+}
+#tools {
+	align-items: center;
+	justify-content: flex-end;
+}
+#currenttabtitle {
+	color: white;
+	display: none;
+	padding-bottom: 3px;
+	padding-left: 10px;
+}
+.tab {
+	cursor: hand;
+	cursor: pointer;
+	opacity: 0.6;
+	padding: 0px 6px 0px 6px;
+	transition: all 0.3s ease;
+}
+.tab svg {
+	fill: #fff;
+}
+.tab:not(.selected):hover {
+	background-color: var(--theme-accent-color-light);
+}
+.tabIcon {
+	cursor: pointer;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	color: white;
+	font-weight: 500;
+	height:100%;
+}
+.small {
+	font-size: smaller;
+}
+#tools .tab {
+	display: flex;
+	align-items: center;
+	opacity: 1;
+	padding:0;
+}
+img.tabIcon {
+	padding: 8px;
+	width: 40px;
+}
+.selected {
+	box-shadow: 0px -4px 0px white inset;
+	opacity: 1;
+}
+#usericon {
+	border-radius: 50%;
+	cursor: pointer;
+	height: 30px;
+	margin: 2px;
+	width: 30px;
+}
+#topBarText {
+	text-align: center;
+	flex-grow: 1;
+}
+.rotating {
+	animation: rotating 0.5s linear infinite;
+}
+@keyframes rotating {
+	from {
+	-ms-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	transform: rotate(0deg);
+	}
+	to {
+	-ms-transform: rotate(360deg);
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-o-transform: rotate(360deg);
+	transform: rotate(360deg);
+	}
+}
+
+#notifications {
+	flex: auto;
+	overflow-y: auto;
+}
+#sms {
+	height: 100vh;
+  	display: flex;
+  	flex-direction: column;
+	background-color: var(--theme-background-color-panel);
+}
+#smsback {
+	display: flex;
+	flex-direction: column;
+}
+#smsback img {
+	width: 24px;
+}
+#smstitlecontainer {
+	background-color: var(--theme-tab-color);
+	color: white;
+	cursor: pointer;
+	flex-direction: row;
+	position: absolute;
+	transition: all 0.3s ease;
+	z-index:80;
+	display: flex;
+	font-size: 18px;
+	margin: 1em;
+	padding: 10px 19px 10px 8px;
+	border-radius: 24px;
+}
+#smstitlecontainer:hover {
+	background-color: var(--theme-accent-color-light);
+}
+#smstitlecontainer.hidden {
+	display: none;
+}
+#smstitle {
+	margin-left: 8px;
+	max-height: 25px;
+    overflow: hidden;
+}
+#smstitle:hover {
+
+}
+#contactpictureconversation {
+	max-height: 25px;
+	border-radius: 25px;
+}
+#smssendcontainer {
+	align-items: center;
+	background-color: var(--theme-background-color-panel);
+	display: flex;
+	margin: 0;
+	padding: 8px;
+	z-index: 60;
+	flex: 0 0 auto;
+}
+#smssendcontainer.hidden {
+	display: none;
+}
+#smssend {
+	display: flex;
+	cursor: pointer;
+	box-shadow: 0 0 2px rgba(0,0,0,0.12), 0 2px 2px rgba(0,0,0,0.24);
+	border-radius: 50%;
+	margin-left: 5px;
+    z-index: 1;
+    padding: 10px;
+	background: var(--theme-background-color);
+	width: 55px;
+}
+#smssend img {
+	opacity: 0.8;
+    width: 0;
+    height: 0;
+    padding: 12px;
+    margin-right: 8px;
+}
+#smsattachment {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 1px;
+}
+#smsattachment img{
+	/*width: 0;
+	height: 0;
+	position: absolute;*/
+    width: 48px;
+    height: 48px;
+	padding: 8px;
+    margin-right: 8px;
+}
+#smsattachmentimage {
+	transform: rotate(90deg);
+	margin-right: 6px;
+}
+#smsattachmentimagepreview {
+	position: relative;
+}
+#smsattachmentimagepreviewdelete{
+	position: absolute;
+	width: 16px;
+    top: 0px;
+    right: 8px;
+    cursor: pointer;
+}
+#smsattachmentimageloading{
+    z-index: 1000;
+	cursor: pointer;
+    position: absolute;
+    margin-left: 32px;
+}
+#smsemoji{
+	cursor: pointer;
+}
+.hidden{
+	display: none !important;
+}
+#smsinput {
+	background-color: var(--theme-background-color);
+	border-radius: 26px;
+	border: none;
+	box-shadow: none;
+	font-size: 1rem;
+	min-height: 1.5rem;
+	height: 1.5rem;
+	max-height: 5rem;
+	overflow: auto;
+	margin: 8px;
+	padding: 8px;
+	resize: none;
+	box-shadow: 0 1px 5px 0 rgba(60,64,67,.15), 0 4px 4px 0 rgba(60,64,67,.10), 0 -0.1px 3px 0 rgba(60,64,67,.08);
+	min-height: 24px;
+}
+#smssubject {
+	background-color: var(--theme-background-color);
+	border-radius: 4px;
+	border: none;
+	box-shadow: none;
+	font-size: 1rem;
+	min-height: 1.5rem;
+	height: 1.5rem;
+	max-height: 5rem;
+	overflow: auto;
+	padding: 8px;
+	resize: none;
+}
+#smsurgent {
+	margin-left: 8px;
+	position: relative;
+    left: 0px;
+    visibility: visible;
+}
+#smsmessageurgent {
+	font-weight: bold;
+}
+#smsmessage {
+	margin: 0 2em;
+}
+#smsurgenttext {
+	font-size: 1rem;
+}
+#mmsextras {
+	position: absolute;
+    bottom: 50px;
+    max-width: 50%;
+    left: 50px;
+    display: flex;
+    align-items: center;
+}
+#smsinput::-webkit-resizer {
+	background: url("icons/resize_handle.png") right bottom/50% 50% no-repeat;
+}
+#smsinput:focus {
+	outline: none;
+}
+#smscontainer {
+	background-color: var(--theme-background-color-panel);
+	height: 100%;
+	flex: 1 1 auto;
+	position: relative;
+	overflow: auto;
+}
+div#smscontainer > #smsmessagecontainer:first-child {
+	padding-top: 50px;
+}
+.smscontact {
+	background-color: var(--theme-background-color);
+	box-sizing: initial;
+	cursor: pointer;
+	transition: all 0.1s ease;
+	z-index:20;
+	padding: 10px 12px 10px 12px;
+	display:flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+.smscontact:hover {
+	background-color: var(--theme-accent-color-light);
+}
+.smscontactpicture {
+	margin-right: 16px;
+	align-self: center;
+}
+.smscontactnameandtext {
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+	justify-content: space-between;
+	font-size: small;
+}
+.smscontactname {
+	flex-grow: 1;
+	font-size: 16px;
+}
+.smscontactpicture > img {
+	width: 45px;
+    border-radius: 45px;
+    vertical-align: middle;
+}
+.smscontactpicture > svg {
+	width: 45px;
+	height: 45px;
+    vertical-align: middle;
+    fill: var(--theme-accent-color-dark);
+}
+.smscontactcall {
+	text-align: end;
+	color: #aaaaaa;
+	visibility: hidden;
+	opacity: 0.5;
+}
+.smscontact:hover .smscontactcall{
+	visibility: visible;
+}
+.smscontactcall:hover{
+	opacity: 1;
+}
+.smscontactcall:hover > svg{
+	fill: var(--theme-accent-color-dark);
+}
+.smscontactcallanddate {
+	display: flex;
+	flex-direction: column;
+	/*font-size: small;*/
+	justify-content: space-between;
+	align-self: stretch;
+	margin-left:12px;
+}
+.smscontacttext {
+	max-width: 320px;
+	overflow: hidden;
+	color: var(--theme-text-color);
+/*	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;*/
+	max-height:1.5em;
+	opacity: 0.7;
+}
+.smscontactdate {
+	text-align: end;
+	white-space: nowrap;
+	color: #aaaaaa;
+}
+.smsmessagecontainer {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	margin-top: 12px;
+	margin-bottom: 6px;
+	z-index:50;
+}
+.smsmessagecontainer.sent {
+	justify-content: flex-end;
+}
+.smsmessage {
+	padding: 8px 14px 8px 14px;
+	background-color: var(--theme-background-color);
+	border-radius: 4px;
+	display: flex;
+	position: relative;
+	margin-left: 16px;
+	margin-right: 0;
+	flex-direction: column;
+	min-width: 0;
+	border-radius: 24px;
+	max-width: calc(60% + 40px);
+}
+.smsmessage.received {
+	background-color: var(--theme-accent-color-light);
+	margin-left: 0;
+	margin-right: 16px;
+}
+.received a {
+	color: var(--theme-background-color);
+}
+.smsbubbletriangle {
+	position: relative;
+	right: 4px;
+}
+.smsbubbletriangle polygon {
+	fill: var(--theme-background-color);
+}
+.smsmessagetext {
+	word-wrap: break-word;
+	font-size: 16px;
+}
+.smsmessagesubject {
+	word-wrap: break-word;
+	font-size: 16px;
+	font-weight: bold;
+}
+.smsmessagesubject.hidden  {
+	display: none;
+}
+.smsmessageattachment  {
+	font-size: 16px;
+}
+.smsmessageattachment svg {
+	vertical-align: middle;
+}
+.smsmessageattachment img  {
+	max-width: 90%;
+}
+.smsmessageattachment a  {
+	cursor: pointer;
+}
+.smsmessageattachment img.loading  {
+	width: 16px;
+}
+.smsmessageattachment.hidden  {
+	display: none;
+}
+.mmsimage {
+	cursor: pointer;
+}
+.smsmessagedate {
+	flex-grow: 1;
+	color: var(--theme-accent-color-lowlight);
+	margin-top: 2px;
+	text-align: left;
+}
+#smsmessagebottom {
+	align-items: baseline;
+	display: flex;
+	flex-direction: row;
+}
+#smsmessageprogress.hidden {
+	display: none;
+}
+#smsmessageprogress img {
+	height: 15px;
+	width: 15px;
+}
+.btn-floating:hover {
+	background-color: var(--theme-accent-color-light);
+	transition: all 0.3s ease;
+}
+#newsmscall {
+	font-size: 250%;
+}
+#newsmsbuttonicon {
+	height: 100%;
+	width: 100%;
+	background: url('icons/compose.png') center/50% 50% no-repeat;
+}
+#newcallbuttonicon {
+	height: 100%;
+	width: 100%;
+	background: url('icons/call_white.png') center/50% 50% no-repeat;
+}
+#newsmsbutton.hidden {
+	display: none;
+}
+#contactfindcontainer {
+	align-items: center;
+	background-color: var(--theme-background-color-panel);
+	display: flex;
+	margin:0;
+	padding:16px;
+}
+#contactfindcontainer.hidden {
+	display: none;
+}
+#contactfindinput {
+	background-color: var(--theme-background-color);
+	border-radius: 4px;
+	border: none;
+	box-shadow: none;
+	margin: 6px 8px 8px 144px;
+	padding: 0px 8px 0px 8px;
+}
+.btn-floating {
+	background-color: var(--theme-accent-color);
+}
+
+/*Notification Cards*/
+#notification.card {
+	background-color: var(--theme-background-color);
+	width: 95%;
+	margin: 0.5rem !important;
+	cursor: default;
+	overflow: visible !important;
+}
+#notification.card:hover #closebutton {
+	display: block;
+}
+.notification{
+	color: var(--theme-accent-color-lowlight);
+	flex-direction: column;
+	padding: 8px;
+	box-sizing: initial;
+	position: relative;
+	align-self: center;
+}
+#closebutton{
+	position: absolute;
+	height: 13px;
+	top: 4px;
+	right: 4px;
+	padding: 4px;
+	opacity: 0.5;
+	cursor: pointer; cursor: hand;
+	display:none;
+	z-index: 80;
+	transition: all 0.3s ease;
+	fill: var(--theme-accent-color-lowlight);
+}
+#closebutton:hover {
+	opacity: 1;
+	background-color: var(--theme-background-color-panel);
+}
+.notificationBody{
+	display:flex;
+	background-color: var(--theme-background-color);
+	margin: 8px 0px 8px 0px;
+}
+.notificationright{
+	display:flex;
+	flex-direction: column;
+	flex-grow: 1;
+	margin: 8px;
+	width: 0px;
+}
+.notificationtitle{
+	font-size: 160%;
+	font-family: 'Roboto', sans-serif;
+	flex-grow: 1;
+}
+.notificationtext{
+	font-size: 130%;
+	word-wrap: break-word;
+	font-family: 'Roboto', sans-serif;
+	color: var(--theme-accent-color-lowlight);
+	overflow:hidden;
+	line-height:1.5em;
+	//max-height:7.5em;
+	opacity: 0.8;
+}
+#date{
+	display: flex;
+	align-items: center;
+	font-family: 'Roboto', sans-serif;
+	color: var(--theme-accent-color-lowlight);
+	margin-left: auto;
+	font-size: 110%;
+	opacity: 0.8;
+}
+.notificationleft{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 8px;
+}
+.notificationicon{
+	width: 48px;
+	height: 48px;
+	border-radius: 50%;
+}
+.notificationiconapp{
+	position: absolute;
+	bottom: 5px;
+	right: -5px;
+	width: 30px;
+}
+.notificationimage{
+	border-top: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+	margin-top: 10px;
+	width: 100%;
+}
+.notificationbuttons{
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+.notificationbutton {
+	border-radius: 2px;
+	cursor: pointer; cursor: hand;
+	display:flex;
+	padding: 8px;
+	transition: all 0.3s ease;
+}
+.notificationbutton:hover {
+	background-color: var(--theme-background-color-panel);
+}
+.notificationbutton:hover div.buttontext {
+	//color: var(--theme-accent-color-light);
+}
+.notificationbutton:active {
+	background-color:var(--theme-accent-color);
+}
+.notificationbutton:active div.buttontext {
+	color: white;
+}
+.buttonicon{
+	height:24px;
+	opacity: 0.5;
+	width:24px;
+}
+.buttontext{
+	align-self: center;
+	color: var(--theme-accent-color-lowlight);
+	flex-grow: 1;
+	font-family: 'Roboto', sans-serif;
+	font-size: 130%;
+	font-weight: 500;
+	margin-left: 8px;
+	margin-right: 8px;
+	text-transform: uppercase;
+	transition: all 0.3s ease;
+}
+#appname{
+	align-self: center;
+	margin-right: 8px;
+}
+.notificationdevice{
+	margin-left: 8px;
+}
+#notificationTop{
+	color: gray;
+	display: flex;
+	font-family: 'Roboto', sans-serif;
+}
+#textanddate{
+	display: flex;
+}
+#clearAllNotificationButtonIcon {
+	height: 100%;
+	width: 100%;
+	background: url('icons/clear_all.png') center/60% 60% no-repeat;
+}
+
+
+

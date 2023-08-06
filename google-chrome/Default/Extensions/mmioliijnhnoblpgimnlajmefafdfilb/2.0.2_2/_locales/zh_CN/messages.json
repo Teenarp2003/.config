@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "播放试听 • 用 Apple Music 播放完整歌曲"
+   },
+   "am_button_connect": {
+      "message": "连接"
+   },
+   "am_button_disconnect": {
+      "message": "断开连接"
+   },
+   "am_button_openin": {
+      "message": "打开方式"
+   },
+   "am_button_playfull": {
+      "message": "播放完整歌曲"
+   },
+   "am_offer_3": {
+      "message": "免费使用 Apple Music 多至 3 个月"
+   },
+   "am_offer_4": {
+      "message": "免费使用 Apple Music 多至 4 个月"
+   },
+   "button_back": {
+      "message": "返回"
+   },
+   "button_cancel": {
+      "message": "取消"
+   },
+   "button_done": {
+      "message": "完成"
+   },
+   "button_hide": {
+      "message": "隐藏"
+   },
+   "button_not_now": {
+      "message": "稍后再说"
+   },
+   "button_rate": {
+      "message": "评分"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "删除所有 Shazam 歌曲"
+   },
+   "delete_sub": {
+      "message": "确定要删除所有 Shazam 历史记录吗？"
+   },
+   "disconnect_main": {
+      "message": "断开连接 Apple Music"
+   },
+   "disconnect_sub": {
+      "message": "歌曲试听仍将可用"
+   },
+   "extDesc": {
+      "message": "识别音乐、搜索歌词与更多内容"
+   },
+   "extName": {
+      "message": "Shazam：在浏览器中直接识别歌曲"
+   },
+   "general_shazams": {
+      "message": "歌曲数"
+   },
+   "library_clear": {
+      "message": "清除音乐库"
+   },
+   "library_new": {
+      "message": "新"
+   },
+   "library_no_shazams_main": {
+      "message": "尚无用 Shazam 识别的歌曲"
+   },
+   "library_no_shazams_sub": {
+      "message": "使用 Shazam 标记歌曲并在此处找到歌曲"
+   },
+   "library_toggle": {
+      "message": "切换音乐库"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "没听清楚"
+   },
+   "nomatch_no_audio": {
+      "message": "确保您位于正在播放音乐的选项卡中"
+   },
+   "nomatch_no_audio_main": {
+      "message": "此选项卡中没有音乐正在播放"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "请确保您位于正在播放音乐的选项卡中，然后重试"
+   },
+   "nomatch_no_result": {
+      "message": "无结果"
+   },
+   "nomatch_please_try_again": {
+      "message": "请重试"
+   },
+   "nomatch_try_again": {
+      "message": "再试一次"
+   },
+   "rate_shazam_main": {
+      "message": "喜欢 Shazam 吗？"
+   },
+   "rate_shazam_sub": {
+      "message": "那就向更多人推广吧。请在应用商店为我们评分"
+   },
+   "shazambutton_click": {
+      "message": "单击 Shazam"
+   },
+   "shazambutton_listening_main1": {
+      "message": "搜索中"
+   },
+   "shazambutton_listening_main2": {
+      "message": "正在搜索匹配结果"
+   },
+   "shazambutton_listening_main3": {
+      "message": "正在扩大搜索范围"
+   },
+   "shazambutton_listening_main4": {
+      "message": "好难哦"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "请勿刷新或关闭此选项卡"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "请稍候"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "再等一下"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "再试最后一次"
+   },
+   "shazambutton_subtext": {
+      "message": "前往播放音乐的选项卡，然后单击 Shazam 按钮"
+   }
+}

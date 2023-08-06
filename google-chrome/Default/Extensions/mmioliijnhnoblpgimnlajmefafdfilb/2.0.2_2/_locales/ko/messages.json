@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "재생 미리듣기 • Apple Music으로 전곡을 재생할 수 있습니다."
+   },
+   "am_button_connect": {
+      "message": "연결"
+   },
+   "am_button_disconnect": {
+      "message": "연결해제하기"
+   },
+   "am_button_openin": {
+      "message": "다음에서 열기:"
+   },
+   "am_button_playfull": {
+      "message": "전곡 재생"
+   },
+   "am_offer_3": {
+      "message": "Apple Music을 최대 3개월간 무료로 체험하세요."
+   },
+   "am_offer_4": {
+      "message": "Apple Music을 최대 4개월 동안 무료로 체험해 보세요"
+   },
+   "button_back": {
+      "message": "뒤로가기"
+   },
+   "button_cancel": {
+      "message": "취소"
+   },
+   "button_done": {
+      "message": "완료"
+   },
+   "button_hide": {
+      "message": "숨기기"
+   },
+   "button_not_now": {
+      "message": "나중에 하기"
+   },
+   "button_rate": {
+      "message": "평가"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "Shazam한 곡 모두 삭제"
+   },
+   "delete_sub": {
+      "message": "Shazam 내역을 모두 삭제하시겠습니까?"
+   },
+   "disconnect_main": {
+      "message": "Apple Music 연결 해제"
+   },
+   "disconnect_sub": {
+      "message": "음악 미리듣기는 계속 이용 가능합니다."
+   },
+   "extDesc": {
+      "message": "음악을 찾거나 가사를 검색하는 등 곡과 관련된 다양한 정보를 확인하세요\n"
+   },
+   "extName": {
+      "message": "Shazam: 브라우저에서 지금 듣고 있는 노래의 제목을 찾아보세요"
+   },
+   "general_shazams": {
+      "message": "Shazam 횟수"
+   },
+   "library_clear": {
+      "message": "라이브러리 지우기"
+   },
+   "library_new": {
+      "message": "새 항목"
+   },
+   "library_no_shazams_main": {
+      "message": "아직 Shazam한 곡 없음"
+   },
+   "library_no_shazams_sub": {
+      "message": "여기에서 Shazam으로 음악을 검색하고 찾으세요."
+   },
+   "library_toggle": {
+      "message": "라이브러리 켜기"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "일치하는 콘텐츠를 찾을 수 없습니다."
+   },
+   "nomatch_no_audio": {
+      "message": "음악을 재생하는 탭에 있는지 확인하세요."
+   },
+   "nomatch_no_audio_main": {
+      "message": "이 탭에서 재생 중인 음악이 없습니다"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "음악이 재생 중인 탭인지 확인한 후 다시 시도해 보세요"
+   },
+   "nomatch_no_result": {
+      "message": "결과 없음"
+   },
+   "nomatch_please_try_again": {
+      "message": "다시 시도해 보세요"
+   },
+   "nomatch_try_again": {
+      "message": "재시도"
+   },
+   "rate_shazam_main": {
+      "message": "Shazam을 즐기고 계신가요?"
+   },
+   "rate_shazam_sub": {
+      "message": "의견을 들려 주세요. 앱 스토어에서 평가하기"
+   },
+   "shazambutton_click": {
+      "message": "클릭하여 Shazam하기"
+   },
+   "shazambutton_listening_main1": {
+      "message": "확인중"
+   },
+   "shazambutton_listening_main2": {
+      "message": "일치하는 음악 검색 중"
+   },
+   "shazambutton_listening_main3": {
+      "message": "검색 확장 중"
+   },
+   "shazambutton_listening_main4": {
+      "message": "현재까지 검색 결과가 없습니다."
+   },
+   "shazambutton_listening_sub1": {
+      "message": "이 탭을 새로고침하거나 닫지 마세요."
+   },
+   "shazambutton_listening_sub2": {
+      "message": "기다려주세요"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "기다려 주세요"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "마지막 시도"
+   },
+   "shazambutton_subtext": {
+      "message": "음악 재생 탭으로 이동하여 Shazam 버튼을 클릭하세요."
+   }
+}

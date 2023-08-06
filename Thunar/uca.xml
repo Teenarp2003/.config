@@ -3,11 +3,53 @@
 <action>
 	<icon>utilities-terminal</icon>
 	<name>Open Terminal Here</name>
+	<submenu></submenu>
 	<unique-id>1667627759065174-1</unique-id>
 	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
 	<description>Example for a custom action</description>
+	<range></range>
 	<patterns>*</patterns>
 	<startup-notify/>
 	<directories/>
+	<other-files/>
+</action>
+<action>
+	<icon>application-x-zip</icon>
+	<name>Unzip</name>
+	<submenu></submenu>
+	<unique-id>1674920170031343-1</unique-id>
+	<command>unzip %n -d %n.</command>
+	<description>unzip file here</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<other-files/>
+</action>
+<action>
+	<icon>application-x-bzip-compressed-tar</icon>
+	<name>Zip </name>
+	<submenu></submenu>
+	<unique-id>1674920733021836-1</unique-id>
+	<command>zip -r %n.zip %n</command>
+	<description>Zip files into .zip file</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>phone</icon>
+	<name>Android-Mount</name>
+	<submenu></submenu>
+	<unique-id>1686137961151837-1</unique-id>
+	<command>mount-phone</command>
+	<description>Mount ssh enabled Android Phone</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<other-files/>
 </action>
 </actions>

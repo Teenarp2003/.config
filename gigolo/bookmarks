@@ -1,0 +1,7 @@
+[Phone]
+host=192.168.29.43
+folder=/sdcard/DCIM
+user=teenarp2026
+scheme=sftp
+color=rgb(246,97,81)
+port=8022

@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "Voorproefje afspelen • Volledig nummer afspelen met Apple Music"
+   },
+   "am_button_connect": {
+      "message": "Verbinding maken"
+   },
+   "am_button_disconnect": {
+      "message": "Verbinding verbreken"
+   },
+   "am_button_openin": {
+      "message": "Openen in"
+   },
+   "am_button_playfull": {
+      "message": "Volledige song afspelen"
+   },
+   "am_offer_3": {
+      "message": "Ontvang Apple Music tot 3 maanden gratis"
+   },
+   "am_offer_4": {
+      "message": "Ontvang tot 4 maanden gratis Apple Music"
+   },
+   "button_back": {
+      "message": "Terug"
+   },
+   "button_cancel": {
+      "message": "Annuleren"
+   },
+   "button_done": {
+      "message": "Klaar"
+   },
+   "button_hide": {
+      "message": "Verbergen"
+   },
+   "button_not_now": {
+      "message": "Niet nu"
+   },
+   "button_rate": {
+      "message": "Geef een beoordeling"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "Alle Shazams verwijderen"
+   },
+   "delete_sub": {
+      "message": "Are you sure you want to delete all your Shazams?"
+   },
+   "disconnect_main": {
+      "message": "Verbinding met Apple Music verbreken"
+   },
+   "disconnect_sub": {
+      "message": "Voorproefjes van songs blijven beschikbaar"
+   },
+   "extDesc": {
+      "message": "Herken muziek, vind songteksten en meer"
+   },
+   "extName": {
+      "message": "Shazam: vind songs via je browser"
+   },
+   "general_shazams": {
+      "message": "Shazams"
+   },
+   "library_clear": {
+      "message": "Bibliotheek leegmaken"
+   },
+   "library_new": {
+      "message": "Nieuw"
+   },
+   "library_no_shazams_main": {
+      "message": "Nog geen Shazams"
+   },
+   "library_no_shazams_sub": {
+      "message": "Shazam een song en vind hem hier"
+   },
+   "library_toggle": {
+      "message": "Naar muziekbibliotheek schakelen"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "We hebben het niet goed gehoord"
+   },
+   "nomatch_no_audio": {
+      "message": "Zorg ervoor dat je het tabblad waarin de muziek wordt afgespeeld hebt openstaan"
+   },
+   "nomatch_no_audio_main": {
+      "message": "Er wordt geen muziek in dit tabblad afgespeeld"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "Ga naar het tabblad waarin muziek wordt afgespeeld en probeer het opnieuw"
+   },
+   "nomatch_no_result": {
+      "message": "Geen resultaat"
+   },
+   "nomatch_please_try_again": {
+      "message": "Probeer het opnieuw"
+   },
+   "nomatch_try_again": {
+      "message": "Opnieuw"
+   },
+   "rate_shazam_main": {
+      "message": "Vind je Shazam leuk?"
+   },
+   "rate_shazam_sub": {
+      "message": "Vertel het verder! Beoordeel het in de App Store"
+   },
+   "shazambutton_click": {
+      "message": "Klik om te Shazammen"
+   },
+   "shazambutton_listening_main1": {
+      "message": "Bezig met luisteren"
+   },
+   "shazambutton_listening_main2": {
+      "message": "Een match zoeken"
+   },
+   "shazambutton_listening_main3": {
+      "message": "Zoekopdracht uitbreiden"
+   },
+   "shazambutton_listening_main4": {
+      "message": "Dit is een lastige"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "Vernieuw of sluit dit tabblad niet"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "Even wachten"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "Nog even geduld"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "Laatste poging"
+   },
+   "shazambutton_subtext": {
+      "message": "Ga naar het tabblad waar de muziek wordt afgespeeld en klik op de Shazam-knop"
+   }
+}

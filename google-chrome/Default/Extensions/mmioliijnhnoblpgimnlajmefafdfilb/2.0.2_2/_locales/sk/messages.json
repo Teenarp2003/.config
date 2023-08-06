@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "Prehráva sa ukážka • Celú skladbu môžeš prehrať v Apple Music"
+   },
+   "am_button_connect": {
+      "message": "Pripojiť sa"
+   },
+   "am_button_disconnect": {
+      "message": "Odpojiť sa"
+   },
+   "am_button_openin": {
+      "message": "Otvoriť v"
+   },
+   "am_button_playfull": {
+      "message": "Prehrať celú skladbu"
+   },
+   "am_offer_3": {
+      "message": "Získaj Apple Music zdarma až na 3 mesiace"
+   },
+   "am_offer_4": {
+      "message": "Získaj Apple Music zdarma až na 4 mesiace"
+   },
+   "button_back": {
+      "message": "Späť"
+   },
+   "button_cancel": {
+      "message": "Zrušiť"
+   },
+   "button_done": {
+      "message": "Hotovo"
+   },
+   "button_hide": {
+      "message": "Skryť"
+   },
+   "button_not_now": {
+      "message": "Teraz nie"
+   },
+   "button_rate": {
+      "message": "Hodnotiť"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "Zmazať všetky Shazamy"
+   },
+   "delete_sub": {
+      "message": "Chceš naozaj zmazať všetky svoje Shazamy?"
+   },
+   "disconnect_main": {
+      "message": "Odpojiť od Apple Music"
+   },
+   "disconnect_sub": {
+      "message": "Ukážky skladieb budú naďalej dostupné"
+   },
+   "extDesc": {
+      "message": "Identifikuj hudbu, vyhľadávaj texty a využívaj ďalšie skvelé funkcie"
+   },
+   "extName": {
+      "message": "Shazam: Vyhľadaj názvy skladieb v prehliadači"
+   },
+   "general_shazams": {
+      "message": "Shazamy"
+   },
+   "library_clear": {
+      "message": "Vymazať knižnicu"
+   },
+   "library_new": {
+      "message": "Nové"
+   },
+   "library_no_shazams_main": {
+      "message": "Zatiaľ žiadne Shazamy"
+   },
+   "library_no_shazams_sub": {
+      "message": "Shazamované skladby nájdeš tu"
+   },
+   "library_toggle": {
+      "message": "Prepnúť knižnicu"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "Toto sa nám nepodarilo rozpoznať"
+   },
+   "nomatch_no_audio": {
+      "message": "Uisti sa, že si na karte, na ktorej sa prehráva hudba"
+   },
+   "nomatch_no_audio_main": {
+      "message": "Na tejto karte nehrá žiadna hudba"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "Uisti sa, že si na karte, na ktorej hrá hudba, a skús to znova."
+   },
+   "nomatch_no_result": {
+      "message": "Žiadne výsledky"
+   },
+   "nomatch_please_try_again": {
+      "message": "Skús to, prosím, znova."
+   },
+   "nomatch_try_again": {
+      "message": "Skús to znova"
+   },
+   "rate_shazam_main": {
+      "message": "Páči sa ti Shazam?"
+   },
+   "rate_shazam_sub": {
+      "message": "Podeľ sa o to. Ohodnoť Shazam v obchode s aplikáciami."
+   },
+   "shazambutton_click": {
+      "message": "Klikni na Shazamovanie"
+   },
+   "shazambutton_listening_main1": {
+      "message": "Počúvanie"
+   },
+   "shazambutton_listening_main2": {
+      "message": "Hľadanie zhody"
+   },
+   "shazambutton_listening_main3": {
+      "message": "Rozšírenie vyhľadávania"
+   },
+   "shazambutton_listening_main4": {
+      "message": "To bolo ťažké"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "Túto kartu neobnovuj ani nezatváraj"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "Prosím, počkaj"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "Počkaj, prosím"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "Posledný pokus"
+   },
+   "shazambutton_subtext": {
+      "message": "Prejdi na kartu, na ktorej sa prehráva hudba, a klikni na tlačidlo Shazam"
+   }
+}

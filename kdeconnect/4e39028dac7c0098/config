@@ -1,0 +1,3 @@
+[Plugins]
+kdeconnect_batteryEnabled=false
+kdeconnect_sendnotificationsEnabled=true

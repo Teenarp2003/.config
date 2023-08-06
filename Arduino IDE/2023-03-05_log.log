@@ -1,0 +1,504 @@
+2023-03-05 20:55:11 Using browser-only version of superagent in non-browser environment
+2023-03-05 20:55:11 Configuration directory URI: 'file:///home/teenarp2026/.theia'
+2023-03-05 20:55:11 Configuring to accept webviews on '^.+\.webview\..+$' hostname.
+2023-03-05 20:55:11 2023-03-05T15:25:11.256Z root INFO Backend Object.initialize: 4.6 ms [Finished 0.683 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.256Z root INFO Backend Object.configure: 3.8 ms [Finished 0.683 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.256Z root INFO Backend MessagingContribution.onStart: 1.8 ms [Finished 0.683 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.256Z root INFO Backend OSBackendApplicationContribution.configure: 0.4 ms [Finished 0.711 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.257Z root INFO Backend DefaultWorkspaceServer.onStart: 0.4 ms [Finished 0.711 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.258Z root INFO Backend PluginLocalizationBackendContribution.configure: 0.2 ms [Finished 0.711 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.259Z root INFO Backend PluginLocalizationBackendContribution.initialize: 28.1 ms [Finished 0.712 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.259Z root INFO Backend TaskBackendApplicationContribution.onStart: 0.3 ms [Finished 0.712 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.260Z root INFO Backend ElectronTokenBackendContribution.configure: 0.7 ms [Finished 0.713 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.260Z config INFO >>> Initializing CLI configuration...
+2023-03-05 20:55:11 2023-03-05T15:25:11.260Z root INFO Backend PluginDeployerContribution.initialize: 0.5 ms [Finished 0.713 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.261Z root INFO Backend ConfigServiceImpl.onStart: 0.8 ms [Finished 0.713 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.261Z config INFO Loading CLI configuration from /home/teenarp2026/.arduinoIDE/arduino-cli.yaml...
+2023-03-05 20:55:11 2023-03-05T15:25:11.262Z root INFO Backend WebviewBackendSecurityWarnings.initialize: 0.4 ms [Finished 0.714 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.262Z root INFO Backend ArduinoDaemonImpl.onStart: 1.0 ms [Finished 0.715 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.262Z root INFO Backend NodeFileUploadService.configure: 1.8 ms [Finished 0.715 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.262Z daemon INFO Starting daemon from /opt/arduino-ide/resources/app/node_modules/arduino-ide-extension/build/arduino-cli...
+2023-03-05 20:55:11 2023-03-05T15:25:11.262Z discovery-log INFO start
+2023-03-05 20:55:11 2023-03-05T15:25:11.262Z discovery-log INFO start new deferred
+2023-03-05 20:55:11 2023-03-05T15:25:11.262Z root INFO Backend HostedPluginLocalizationService.initialize: 0.5 ms [Finished 0.716 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.262Z root INFO Backend BoardDiscovery.onStart: 0.9 ms [Finished 0.717 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.262Z root INFO Backend FileDownloadEndpoint.configure: 0.8 ms [Finished 0.717 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.263Z root INFO Backend AuthenticationServiceImpl.onStart: 0.5 ms [Finished 0.718 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.263Z root INFO Backend PluginApiContribution.configure: 0.4 ms [Finished 0.718 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.263Z root INFO Backend HostedPluginReader.configure: 0.2 ms [Finished 0.719 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.263Z root INFO Backend HostedPluginReader.configure: 0.1 ms [Finished 0.719 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.263Z root INFO Backend PlotterBackendContribution.configure: 0.3 ms [Finished 0.719 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.265Z root INFO Theia app listening on http://localhost:46745.
+2023-03-05 20:55:11 2023-03-05T15:25:11.265Z root INFO Finished starting backend application: 3.0 ms [Finished 0.721 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.278Z root WARN The local plugin referenced by local-dir:/home/teenarp2026/.arduinoIDE/plugins does not exist.
+2023-03-05 20:55:11 2023-03-05T15:25:11.278Z root WARN The local plugin referenced by local-dir:/home/teenarp2026/.arduinoIDE/extensions does not exist.
+2023-03-05 20:55:11 2023-03-05T15:25:11.278Z root WARN The local plugin referenced by local-dir:/home/teenarp2026/.arduinoProIDE/plugins does not exist.
+2023-03-05 20:55:11 2023-03-05T15:25:11.287Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.287Z root INFO Resolved "cortex-debug" to a VS Code extension "cortex-debug@1.5.1" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.287Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.287Z root INFO Resolved "vscode-arduino-tools" to a VS Code extension "vscode-arduino-tools@0.0.2-beta.7" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.287Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.287Z root INFO Resolved "vscode-builtin-cpp" to a VS Code extension "cpp@1.52.1" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.287Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.287Z root INFO Resolved "vscode-builtin-json" to a VS Code extension "json@1.46.1" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.287Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-builtin-json-language-features" to a VS Code extension "json-language-features@1.46.1" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-bg" to a VS Code extension "vscode-language-pack-bg@1.48.3" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-cs" to a VS Code extension "vscode-language-pack-cs@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-de" to a VS Code extension "vscode-language-pack-de@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-es" to a VS Code extension "vscode-language-pack-es@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-fr" to a VS Code extension "vscode-language-pack-fr@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-hu" to a VS Code extension "vscode-language-pack-hu@1.48.3" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-it" to a VS Code extension "vscode-language-pack-it@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-ja" to a VS Code extension "vscode-language-pack-ja@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-ko" to a VS Code extension "vscode-language-pack-ko@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-nl" to a VS Code extension "vscode-language-pack-nl@1.48.3" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-pl" to a VS Code extension "vscode-language-pack-pl@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-pt-BR" to a VS Code extension "vscode-language-pack-pt-BR@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-ru" to a VS Code extension "vscode-language-pack-ru@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO Resolved "vscode-language-pack-tr" to a VS Code extension "vscode-language-pack-tr@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.288Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.289Z root INFO Resolved "vscode-language-pack-uk" to a VS Code extension "vscode-language-pack-uk@1.48.3" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.289Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-03-05 20:55:11 2023-03-05T15:25:11.289Z root INFO Resolved "vscode-language-pack-zh-hans" to a VS Code extension "vscode-language-pack-zh-hans@1.53.2" with engines:
+2023-03-05 20:55:11 2023-03-05T15:25:11.301Z daemon INFO [36mINFO[0m[0000] Using config file: /home/teenarp2026/.arduinoIDE/arduino-cli.yaml 
+[36mINFO[0m[0000] arduino-cli version 0.31.0                   
+[36mINFO[0m[0000] Executing `arduino-cli daemon`               
+{"IP":"127.0.0.1","Port":"44511"}
+
+2023-03-05 20:55:11 2023-03-05T15:25:11.301Z daemon INFO Daemon is running.
+2023-03-05 20:55:11 2023-03-05T15:25:11.302Z config INFO Loading CLI configuration from /home/teenarp2026/.arduinoIDE/arduino-cli.yaml...
+2023-03-05 20:55:11 2023-03-05T15:25:11.323Z config INFO Loaded CLI configuration: {"board_manager":{"additional_urls":[]},"build_cache":{"compilations_before_purge":10,"ttl":"720h0m0s"},"daemon":{"port":"50051"},"directories":{"data":"/home/teenarp2026/.arduino15","downloads":"/home/teenarp2026/.arduino15/staging","user":"/home/teenarp2026/Arduino"},"library":{"enable_unsafe_install":false},"logging":{"file":"","format":"text","level":"info"},"metrics":{"addr":":9090","enabled":true},"output":{"no_color":false},"sketch":{"always_export_binaries":false},"updater":{"enable_notification":true}}
+2023-03-05 20:55:11 2023-03-05T15:25:11.323Z config INFO 'directories.data' and 'directories.user' are set in the CLI configuration model.
+2023-03-05 20:55:11 2023-03-05T15:25:11.323Z config INFO Loaded the CLI configuration.
+2023-03-05 20:55:11 2023-03-05T15:25:11.324Z config INFO Mapped the CLI configuration: {"dataDirUri":"file:///home/teenarp2026/.arduino15","sketchDirUri":"file:///home/teenarp2026/Arduino","additionalUrls":[],"network":"none","locale":"en"}
+2023-03-05 20:55:11 2023-03-05T15:25:11.324Z config INFO Validating the CLI configuration...
+2023-03-05 20:55:11 2023-03-05T15:25:11.325Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Loading index file: loading json index file /home/teenarp2026/.arduino15/package_index.json: open /home/teenarp2026/.arduino15/package_index.json: no such file or directory
+2023-03-05 20:55:11 2023-03-05T15:25:11.326Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Error loading hardware platform: discovery builtin:serial-discovery not found
+2023-03-05 20:55:11 2023-03-05T15:25:11.326Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Error loading hardware platform: discovery builtin:mdns-discovery not found
+2023-03-05 20:55:11 2023-03-05T15:25:11.327Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Loading index file: reading library_index.json: open /home/teenarp2026/.arduino15/library_index.json: no such file or directory
+2023-03-05 20:55:11 2023-03-05T15:25:11.328Z daemon INFO [36mINFO[0m[0000] Loading hardware from: /home/teenarp2026/.arduino15/packages 
+[36mINFO[0m[0000] Loading libraries index file                  [36mindex[0m=/home/teenarp2026/.arduino15/library_index.json
+[36mINFO[0m[0000] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0000] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/Arduino/libraries [36mlocation[0m=user
+
+2023-03-05 20:55:11 2023-03-05T15:25:11.330Z config INFO The CLI config is valid.
+2023-03-05 20:55:11 2023-03-05T15:25:11.330Z config INFO <<< Initialized the CLI configuration.
+2023-03-05 20:55:11 2023-03-05T15:25:11.331Z root ERROR The primary packages indexes are missing. Running indexes update before initializing the core gRPC client
+2023-03-05 20:55:11 2023-03-05T15:25:11.332Z daemon INFO [36mINFO[0m[0000] Updating libraries index                     
+[36mINFO[0m[0000] Updating index                                [36murl[0m="https://downloads.arduino.cc/packages/package_index.tar.bz2"
+[36mINFO[0m[0000] Starting download                             [36murl[0m="https://downloads.arduino.cc/libraries/library_index.tar.bz2"
+[36mINFO[0m[0000] Starting download                             [36murl[0m="https://downloads.arduino.cc/packages/package_index.tar.bz2"
+
+2023-03-05 20:55:11 2023-03-05T15:25:11.333Z root INFO core-client-provider [library-index]
+2023-03-05 20:55:11 2023-03-05T15:25:11.334Z root INFO core-client-provider [platform-index]
+2023-03-05 20:55:11 2023-03-05T15:25:11.341Z root INFO Resolve plugins list: 80.0 ms [Finished 0.797 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.345Z root INFO Deployed backend plugin "marus25.cortex-debug@1.5.1" from "/opt/arduino-ide/resources/app/plugins/cortex-debug/extension/dist/extension.js": 3.6 ms [Finished 0.801 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.348Z root INFO Deployed backend plugin "arduino.vscode-arduino-tools@0.0.2-beta.7" from "/opt/arduino-ide/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle": 2.7 ms [Finished 0.804 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.354Z root INFO Deployed backend plugin "vscode.cpp@1.52.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-cpp/extension": 6.1 ms [Finished 0.810 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.355Z root INFO Deployed backend plugin "vscode.json@1.46.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-json/extension": 1.0 ms [Finished 0.811 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.355Z root INFO Deployed backend plugin "vscode.json-language-features@1.46.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain": 0.4 ms [Finished 0.812 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.405Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-bg@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-bg/extension": 49.8 ms [Finished 0.861 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.444Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-cs@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-cs/extension": 38.5 ms [Finished 0.900 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.503Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-de@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-de/extension": 59.4 ms [Finished 0.959 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.561Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-es@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-es/extension": 57.9 ms [Finished 1.017 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.593Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-fr@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-fr/extension": 32.3 ms [Finished 1.050 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.619Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-hu@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-hu/extension": 25.4 ms [Finished 1.075 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.647Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-it@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-it/extension": 27.8 ms [Finished 1.103 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.674Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ja@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ja/extension": 27.4 ms [Finished 1.131 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.702Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ko@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ko/extension": 28.2 ms [Finished 1.159 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.712Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-nl@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-nl/extension": 9.8 ms [Finished 1.169 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.740Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-pl@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-pl/extension": 27.3 ms [Finished 1.196 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.779Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-pt-br@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-pt-BR/extension": 38.8 ms [Finished 1.235 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.808Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ru@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ru/extension": 29.2 ms [Finished 1.264 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.834Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-tr@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-tr/extension": 26.5 ms [Finished 1.291 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.853Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-uk@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-uk/extension": 18.6 ms [Finished 1.309 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.884Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-zh-hans@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-zh-hans/extension": 26.9 ms [Finished 1.336 s after backend start]
+2023-03-05 20:55:11 2023-03-05T15:25:11.884Z root INFO Deploy plugins list: 80.0 ms [Finished 1.340 s after backend start]
+2023-03-05 20:55:12 2023-03-05T15:25:12.822Z root WARN Frontend a.configure took longer than the expected maximum 100 milliseconds: 244.6 ms [Finished 1.479 s after frontend start]
+2023-03-05 20:55:14 2023-03-05T15:25:14.501Z daemon INFO [36mINFO[0m[0003] Loading hardware from: /home/teenarp2026/.arduino15/packages 
+
+2023-03-05 20:55:14 2023-03-05T15:25:14.506Z daemon INFO [36mINFO[0m[0003] Checking signature                            [36mindex[0m=/home/teenarp2026/.arduino15/package_index.json [36msignatureFile[0m=/home/teenarp2026/.arduino15/package_index.json.sig [36mtrusted[0m=true
+
+2023-03-05 20:55:14 2023-03-05T15:25:14.507Z daemon INFO [36mINFO[0m[0003] Starting download                             [36murl[0m="https://downloads.arduino.cc/discovery/mdns-discovery/mdns-discovery_v1.0.8_Linux_64bit.tar.gz"
+
+2023-03-05 20:55:15 2023-03-05T15:25:15.512Z daemon INFO [36mINFO[0m[0004] Installing tool                               [36mTool[0m="builtin:mdns-discovery@1.0.8"
+
+2023-03-05 20:55:15 2023-03-05T15:25:15.598Z daemon INFO [36mINFO[0m[0004] Skipping tool configuration.                  [36mTool[0m="builtin:mdns-discovery@1.0.8"
+[36mINFO[0m[0004] Tool installed                                [36mTool[0m="builtin:mdns-discovery@1.0.8"
+[36mINFO[0m[0004] Starting download                             [36murl[0m="https://downloads.arduino.cc/monitor/serial-monitor/serial-monitor_v0.13.0_Linux_64bit.tar.gz"
+
+2023-03-05 20:55:16 2023-03-05T15:25:16.446Z daemon INFO [36mINFO[0m[0005] Installing tool                               [36mTool[0m="builtin:serial-monitor@0.13.0"
+
+2023-03-05 20:55:16 2023-03-05T15:25:16.477Z daemon INFO [36mINFO[0m[0005] Skipping tool configuration.                  [36mTool[0m="builtin:serial-monitor@0.13.0"
+[36mINFO[0m[0005] Tool installed                                [36mTool[0m="builtin:serial-monitor@0.13.0"
+
+2023-03-05 20:55:16 2023-03-05T15:25:16.477Z daemon INFO [36mINFO[0m[0005] Starting download                             [36murl[0m="https://downloads.arduino.cc/tools/ctags-5.8-arduino11-pm-x86_64-pc-linux-gnu.tar.bz2"
+
+2023-03-05 20:55:17 2023-03-05T15:25:17.190Z daemon INFO [36mINFO[0m[0005] Installing tool                               [36mTool[0m="builtin:ctags@5.8-arduino11"
+
+2023-03-05 20:55:17 2023-03-05T15:25:17.223Z daemon INFO [36mINFO[0m[0005] Skipping tool configuration.                  [36mTool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0005] Tool installed                                [36mTool[0m="builtin:ctags@5.8-arduino11"
+
+2023-03-05 20:55:17 2023-03-05T15:25:17.224Z daemon INFO [36mINFO[0m[0005] Starting download                             [36murl[0m="https://downloads.arduino.cc/discovery/serial-discovery/serial-discovery_v1.4.0_Linux_64bit.tar.gz"
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.156Z daemon INFO [36mINFO[0m[0006] Installing tool                               [36mTool[0m="builtin:serial-discovery@1.4.0"
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.216Z daemon INFO [36mINFO[0m[0006] Skipping tool configuration.                  [36mTool[0m="builtin:serial-discovery@1.4.0"
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.216Z daemon INFO [36mINFO[0m[0006] Tool installed                                [36mTool[0m="builtin:serial-discovery@1.4.0"
+[36mINFO[0m[0006] Loading tools from dir: /home/teenarp2026/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0006] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0006] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.8"
+[36mINFO[0m[0006] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.4.0"
+[36mINFO[0m[0006] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.13.0"
+[36mINFO[0m[0006] Loading libraries index file                  [36mindex[0m=/home/teenarp2026/.arduino15/library_index.json
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.352Z daemon INFO [36mINFO[0m[0007] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0007] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/Arduino/libraries [36mlocation[0m=user
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.355Z daemon INFO [36mINFO[0m[0007] Loading hardware from: /home/teenarp2026/.arduino15/packages 
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.355Z daemon INFO [36mINFO[0m[0007] Loading package builtin from: /home/teenarp2026/.arduino15/packages/builtin 
+[36mINFO[0m[0007] Checking existence of 'tools' path: /home/teenarp2026/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0007] Loading tools from dir: /home/teenarp2026/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0007] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0007] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.8"
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.355Z daemon INFO [36mINFO[0m[0007] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.4.0"
+[36mINFO[0m[0007] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.13.0"
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.360Z daemon INFO [36mINFO[0m[0007] Checking signature                            [36mindex[0m=/home/teenarp2026/.arduino15/package_index.json [36msignatureFile[0m=/home/teenarp2026/.arduino15/package_index.json.sig [36mtrusted[0m=true
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.361Z daemon INFO [36mINFO[0m[0007] Loading libraries index file                  [36mindex[0m=/home/teenarp2026/.arduino15/library_index.json
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.490Z daemon INFO [36mINFO[0m[0007] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0007] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/Arduino/libraries [36mlocation[0m=user
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.493Z root INFO Downloaded the primary package indexes, and successfully initialized the core gRPC client.
+2023-03-05 20:55:18 2023-03-05T15:25:18.494Z discovery-log INFO start request start watch
+2023-03-05 20:55:18 2023-03-05T15:25:18.494Z discovery-log INFO start requested start watch
+2023-03-05 20:55:18 2023-03-05T15:25:18.494Z discovery-log INFO start resolved watching
+2023-03-05 20:55:18 2023-03-05T15:25:18.495Z daemon INFO [36mINFO[0m[0007] starting discovery builtin:mdns-discovery process 
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.496Z daemon INFO [36mINFO[0m[0007] starting discovery builtin:serial-discovery process 
+[36mINFO[0m[0007] started discovery builtin:mdns-discovery process 
+[36mINFO[0m[0007] sending command HELLO 1 "arduino-cli 0.31.0" to discovery builtin:mdns-discovery 
+[36mINFO[0m[0007] started discovery builtin:serial-discovery process 
+[36mINFO[0m[0007] sending command HELLO 1 "arduino-cli 0.31.0" to discovery builtin:serial-discovery 
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.498Z daemon INFO [36mINFO[0m[0007] from discovery builtin:serial-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0007] sending command START_SYNC to discovery builtin:serial-discovery 
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.503Z daemon INFO [36mINFO[0m[0007] from discovery builtin:mdns-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0007] sending command START_SYNC to discovery builtin:mdns-discovery 
+[36mINFO[0m[0007] from discovery builtin:mdns-discovery received message type: start_sync, message: OK 
+[36mINFO[0m[0007] from discovery builtin:serial-discovery received message type: start_sync, message: OK 
+
+2023-03-05 20:55:18 2023-03-05T15:25:18.531Z root WARN Frontend l.onStart took longer than the expected maximum 100 milliseconds: 5642.2 ms [Finished 7.208 s after frontend start]
+2023-03-05 20:55:18 2023-03-05T15:25:18.593Z root INFO Start frontend contributions: 6063.9 ms [Finished 7.220 s after frontend start]
+2023-03-05 20:55:18 2023-03-05T15:25:18.593Z root INFO Changed application state from 'init' to 'started_contributions'.
+2023-03-05 20:55:18 2023-03-05T15:25:18.607Z root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2023-03-05 20:55:18 2023-03-05T15:25:18.607Z root INFO >>> Restoring the layout state...
+2023-03-05 20:55:18 2023-03-05T15:25:18.607Z root INFO <<< Nothing to restore.
+2023-03-05 20:55:18 2023-03-05T15:25:18.646Z root INFO Initialize the workbench layout: 31.6 ms [Finished 7.318 s after frontend start]
+2023-03-05 20:55:18 2023-03-05T15:25:18.663Z root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+2023-03-05 20:55:18 2023-03-05T15:25:18.698Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d] Waiting for backend deployment: 164.4 ms [Finished 7.376 s after frontend start]
+2023-03-05 20:55:18 2023-03-05T15:25:18.782Z root ERROR Request initAuthSession failed with error: The name org.freedesktop.secrets was not provided by any .service files
+2023-03-05 20:55:19 2023-03-05T15:25:19.043Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006) starting instance
+2023-03-05 20:55:19 2023-03-05T15:25:19.428Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d] Sync of 21 plugins: 703.6 ms [Finished 8.079 s after frontend start]
+2023-03-05 20:55:19 2023-03-05T15:25:19.430Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][marus25.cortex-debug]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.431Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][arduino.vscode-arduino-tools]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.431Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][vscode.cpp]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.431Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][vscode.json]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.431Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][vscode.json-language-features]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.434Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-bg]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.434Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-cs]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.434Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-de]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.434Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-es]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-fr]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-hu]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-it]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-ja]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-ko]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-nl]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-pl]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-pt-br]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-ru]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-tr]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-uk]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-zh-hans]: Loaded contributions.
+2023-03-05 20:55:19 2023-03-05T15:25:19.435Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d] Load contributions of 21 plugins: 26.4 ms [Finished 8.106 s after frontend start]
+2023-03-05 20:55:19 2023-03-05T15:25:19.638Z root WARN 'cpp' language is remapped from 'source.cpp.embedded.macro' to 'source.cpp' scope
+2023-03-05 20:55:19 2023-03-05T15:25:19.638Z root WARN a registered grammar configuration for 'cpp' language is overridden
+2023-03-05 20:55:20 2023-03-05T15:25:20.025Z root INFO Frontend application start: 7231.9 ms [Finished 9.481 s after backend start]
+2023-03-05 20:55:20 2023-03-05T15:25:20.035Z root INFO Replace loading indicator with ready workbench UI (animation): 1003.6 ms [Finished 8.330 s after frontend start]
+2023-03-05 20:55:20 2023-03-05T15:25:20.081Z root INFO Changed application state from 'initialized_layout' to 'ready'.
+2023-03-05 20:55:20 2023-03-05T15:25:20.081Z root WARN Linked preference "workbench.colorCustomizations" not found. Source: "editor.bracketPairColorization.enabled"
+2023-03-05 20:55:21 2023-03-05T15:25:21.198Z root ERROR ---- !!!SLOW!!! DURATION: search took 911.050 ms. Args: [{"type":"Updatable"}] ----
+2023-03-05 20:55:21 2023-03-05T15:25:21.200Z root ERROR ---- !!!SLOW!!! DURATION: search took 720.299 ms. Args: [{"query":"Arduino_BuiltIn"}] ----
+2023-03-05 20:55:21 2023-03-05T15:25:21.205Z root INFO >>> Starting boards package installation...
+2023-03-05 20:55:21 2023-03-05T15:25:21.205Z discovery-log INFO stop
+2023-03-05 20:55:21 2023-03-05T15:25:21.205Z discovery-log INFO >>> Stopping boards watcher...
+2023-03-05 20:55:21 2023-03-05T15:25:21.205Z discovery-log INFO Canceling boards watcher...
+2023-03-05 20:55:21 2023-03-05T15:25:21.205Z discovery-log INFO disposing requesting cancel
+2023-03-05 20:55:21 2023-03-05T15:25:21.205Z discovery-log INFO disposing canceled
+2023-03-05 20:55:21 2023-03-05T15:25:21.206Z discovery-log INFO error received
+2023-03-05 20:55:21 2023-03-05T15:25:21.207Z discovery-log INFO cancel error received!
+2023-03-05 20:55:21 2023-03-05T15:25:21.207Z discovery-log INFO stop received event: either end or cancel
+2023-03-05 20:55:21 2023-03-05T15:25:21.207Z discovery-log INFO stop stopped
+2023-03-05 20:55:21 2023-03-05T15:25:21.207Z discovery-log INFO received end
+2023-03-05 20:55:21 2023-03-05T15:25:21.209Z daemon INFO [36mINFO[0m[0009] boards watcher stream closed                 
+[36mINFO[0m[0009] Starting download                             [36murl[0m="http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-pc-linux-gnu.tar.bz2"
+
+2023-03-05 20:55:21 2023-03-05T15:25:21.345Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): PluginManagerExtImpl/init()
+2023-03-05 20:55:21 2023-03-05T15:25:21.347Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(cortex-debug@1.5.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.349Z root INFO [hosted-plugin: 654006] Debugger contribution has been registered: cortex-debug
+2023-03-05 20:55:21 2023-03-05T15:25:21.350Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-arduino-tools@0.0.2-beta.7 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.350Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(cpp@1.52.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.351Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(json@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.351Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(json-language-features@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.352Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-bg@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.353Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-cs@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.354Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-de@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+PLUGIN_HOST(654006): initializing(vscode-language-pack-es@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.355Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-fr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.355Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-hu@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.356Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-it@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.356Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-ja@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.357Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-ko@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.357Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-nl@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.357Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-pl@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.358Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-pt-BR@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.358Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-ru@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.358Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-tr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.359Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-uk@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.359Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): initializing(vscode-language-pack-zh-hans@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2023-03-05 20:55:21 2023-03-05T15:25:21.362Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain)
+2023-03-05 20:55:21 2023-03-05T15:25:21.396Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][marus25.cortex-debug]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.399Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][arduino.vscode-arduino-tools]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.400Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][vscode.cpp]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.400Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][vscode.json]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.400Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][vscode.json-language-features]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.400Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-bg]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.400Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-cs]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.400Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-de]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.400Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-es]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.401Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-fr]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.401Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-hu]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.401Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-it]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.401Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-ja]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.401Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-ko]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.401Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-nl]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.402Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-pl]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.402Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-pt-br]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.402Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-ru]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.402Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-tr]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.402Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-uk]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.402Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d][ms-ceintl.vscode-language-pack-zh-hans]: Started plugin.
+2023-03-05 20:55:21 2023-03-05T15:25:21.415Z root INFO [hosted-plugin: 654006] PLUGIN_HOST(654006): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/cortex-debug/extension/dist/extension.js)
+2023-03-05 20:55:21 2023-03-05T15:25:21.442Z root INFO [hosted-plugin: 654006] Debug configuration provider has been registered: cortex-debug, trigger: 1
+2023-03-05 20:55:21 2023-03-05T15:25:21.444Z root INFO [hosted-plugin: 654006] GDB server console created
+2023-03-05 20:55:21 2023-03-05T15:25:21.453Z root INFO [e98ce54e-9fdf-4050-8177-3a2f889af43d] Start of 21 plugins: 2010.6 ms [Finished 10.132 s after frontend start]
+2023-03-05 20:55:32 2023-03-05T15:25:32.480Z daemon INFO [36mINFO[0m[0021] Starting download                             [36murl[0m="http://downloads.arduino.cc/tools/avrdude-6.3.0-arduino17-x86_64-pc-linux-gnu.tar.bz2"
+
+2023-03-05 20:55:32 2023-03-05T15:25:32.841Z daemon INFO [36mINFO[0m[0021] Starting download                             [36murl[0m="http://downloads.arduino.cc/tools/arduinoOTA-1.3.0-linux_amd64.tar.bz2"
+
+2023-03-05 20:55:33 2023-03-05T15:25:33.922Z daemon INFO [36mINFO[0m[0022] Starting download                             [36murl[0m="http://downloads.arduino.cc/cores/staging/avr-1.8.6.tar.bz2"
+
+2023-03-05 20:55:36 2023-03-05T15:25:36.878Z daemon INFO [36mINFO[0m[0025] Installing tool                               [36mTool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2023-03-05 20:55:46 2023-03-05T15:25:46.435Z daemon INFO [36mINFO[0m[0035] Running tool post_install script              [36mTool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0035] Tool installed                                [36mTool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2023-03-05 20:55:46 2023-03-05T15:25:46.435Z daemon INFO [36mINFO[0m[0035] Installing tool                               [36mTool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2023-03-05 20:55:46 2023-03-05T15:25:46.540Z daemon INFO [36mINFO[0m[0035] Running tool post_install script              [36mTool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2023-03-05 20:55:46 2023-03-05T15:25:46.540Z daemon INFO [36mINFO[0m[0035] Tool installed                                [36mTool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0035] Installing tool                               [36mTool[0m="arduino:arduinoOTA@1.3.0"
+
+2023-03-05 20:55:47 2023-03-05T15:25:47.031Z daemon INFO [36mINFO[0m[0035] Running tool post_install script              [36mTool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0035] Tool installed                                [36mTool[0m="arduino:arduinoOTA@1.3.0"
+
+2023-03-05 20:55:47 2023-03-05T15:25:47.031Z daemon INFO [36mINFO[0m[0035] Installing platform                           [36mplatform[0m="arduino:avr@1.8.6"
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.132Z daemon INFO [36mINFO[0m[0036] Running post_install script                   [36mplatform[0m="arduino:avr@1.8.6"
+[36mINFO[0m[0036] Platform installed                            [36mplatform[0m="arduino:avr@1.8.6"
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.133Z daemon INFO [36mINFO[0m[0036] Loading hardware from: /home/teenarp2026/.arduino15/packages 
+[36mINFO[0m[0036] Loading package arduino from: /home/teenarp2026/.arduino15/packages/arduino/hardware 
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.134Z daemon INFO [36mINFO[0m[0036] Checking signature                            [36merror[0m="opening signature file: open /home/teenarp2026/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig: no such file or directory" [36mindex[0m=/home/teenarp2026/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json [36msignatureFile[0m=/home/teenarp2026/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.135Z daemon INFO [36mINFO[0m[0036] Adding monitor tool                           [36mprotocol[0m=serial [36mtool[0m="builtin:serial-monitor"
+[36mINFO[0m[0036] Loaded platform                               [36mplatform[0m="arduino:avr@1.8.6"
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.136Z daemon INFO [36mINFO[0m[0036] Checking existence of 'tools' path: /home/teenarp2026/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0036] Loading tools from dir: /home/teenarp2026/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0036] Loaded tool                                   [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0036] Loaded tool                                   [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0036] Loaded tool                                   [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0036] Loading package builtin from: /home/teenarp2026/.arduino15/packages/builtin 
+[36mINFO[0m[0036] Checking existence of 'tools' path: /home/teenarp2026/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0036] Loading tools from dir: /home/teenarp2026/.arduino15/packages/builtin/tools 
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.136Z daemon INFO [36mINFO[0m[0036] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0036] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.8"
+[36mINFO[0m[0036] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.4.0"
+[36mINFO[0m[0036] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.13.0"
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.140Z daemon INFO [36mINFO[0m[0036] Checking signature                            [36mindex[0m=/home/teenarp2026/.arduino15/package_index.json [36msignatureFile[0m=/home/teenarp2026/.arduino15/package_index.json.sig [36mtrusted[0m=true
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.141Z daemon INFO [36mINFO[0m[0036] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0036] Loading libraries index file                  [36mindex[0m=/home/teenarp2026/.arduino15/library_index.json
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.368Z daemon INFO [36mINFO[0m[0037] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0037] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/Arduino/libraries [36mlocation[0m=user
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.465Z discovery-log INFO start
+2023-03-05 20:55:48 2023-03-05T15:25:48.465Z discovery-log INFO start new deferred
+2023-03-05 20:55:48 2023-03-05T15:25:48.465Z discovery-log INFO start request start watch
+2023-03-05 20:55:48 2023-03-05T15:25:48.465Z discovery-log INFO start requested start watch
+2023-03-05 20:55:48 2023-03-05T15:25:48.466Z discovery-log INFO start resolved watching
+2023-03-05 20:55:48 2023-03-05T15:25:48.466Z daemon INFO [36mINFO[0m[0037] starting discovery builtin:mdns-discovery process 
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.467Z daemon INFO [36mINFO[0m[0037] starting discovery builtin:serial-discovery process 
+[36mINFO[0m[0037] started discovery builtin:mdns-discovery process 
+[36mINFO[0m[0037] sending command HELLO 1 "arduino-cli 0.31.0" to discovery builtin:mdns-discovery 
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.469Z daemon INFO [36mINFO[0m[0037] started discovery builtin:serial-discovery process 
+[36mINFO[0m[0037] sending command HELLO 1 "arduino-cli 0.31.0" to discovery builtin:serial-discovery 
+[36mINFO[0m[0037] from discovery builtin:serial-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0037] sending command START_SYNC to discovery builtin:serial-discovery 
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.469Z daemon INFO [36mINFO[0m[0037] from discovery builtin:mdns-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0037] sending command START_SYNC to discovery builtin:mdns-discovery 
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.469Z daemon INFO [36mINFO[0m[0037] from discovery builtin:mdns-discovery received message type: start_sync, message: OK 
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.469Z daemon INFO [36mINFO[0m[0037] from discovery builtin:serial-discovery received message type: start_sync, message: OK 
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.498Z root INFO <<< Boards package installation done.
+2023-03-05 20:55:48 2023-03-05T15:25:48.503Z root INFO Boards package installed: 
+2023-03-05 20:55:48 2023-03-05T15:25:48.514Z root INFO >>> Starting library package installation...
+2023-03-05 20:55:48 2023-03-05T15:25:48.514Z discovery-log INFO stop
+2023-03-05 20:55:48 2023-03-05T15:25:48.514Z discovery-log INFO >>> Stopping boards watcher...
+2023-03-05 20:55:48 2023-03-05T15:25:48.514Z discovery-log INFO Canceling boards watcher...
+2023-03-05 20:55:48 2023-03-05T15:25:48.514Z discovery-log INFO disposing requesting cancel
+2023-03-05 20:55:48 2023-03-05T15:25:48.514Z discovery-log INFO disposing canceled
+2023-03-05 20:55:48 2023-03-05T15:25:48.515Z discovery-log INFO error received
+2023-03-05 20:55:48 2023-03-05T15:25:48.515Z discovery-log INFO cancel error received!
+2023-03-05 20:55:48 2023-03-05T15:25:48.515Z discovery-log INFO stop received event: either end or cancel
+2023-03-05 20:55:48 2023-03-05T15:25:48.515Z discovery-log INFO stop stopped
+2023-03-05 20:55:48 2023-03-05T15:25:48.515Z discovery-log INFO received end
+2023-03-05 20:55:48 2023-03-05T15:25:48.518Z daemon INFO [36mINFO[0m[0037] boards watcher stream closed                 
+
+2023-03-05 20:55:48 2023-03-05T15:25:48.534Z daemon INFO [36mINFO[0m[0037] Starting download                             [36murl[0m="https://downloads.arduino.cc/libraries/github.com/arduino-libraries/SD-1.2.4.zip?query=depends"
+
+2023-03-05 20:55:49 2023-03-05T15:25:49.525Z daemon INFO [36mINFO[0m[0038] Installing library                            [36mlibrary[0m=SD@1.2.4
+
+2023-03-05 20:55:49 2023-03-05T15:25:49.528Z daemon INFO [36mINFO[0m[0038] Starting download                             [36murl[0m="https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Arduino_BuiltIn-1.0.0.zip?query=install-builtin"
+
+2023-03-05 20:55:50 2023-03-05T15:25:50.502Z daemon INFO [36mINFO[0m[0039] Installing library                            [36mlibrary[0m=Arduino_BuiltIn@1.0.0
+
+2023-03-05 20:55:50 2023-03-05T15:25:50.505Z daemon INFO [36mINFO[0m[0039] Starting download                             [36murl[0m="https://downloads.arduino.cc/libraries/github.com/arduino-libraries/LiquidCrystal-1.0.7.zip?query=depends"
+
+2023-03-05 20:55:51 2023-03-05T15:25:51.126Z daemon INFO [36mINFO[0m[0039] Installing library                            [36mlibrary[0m=LiquidCrystal@1.0.7
+
+2023-03-05 20:55:51 2023-03-05T15:25:51.130Z daemon INFO [36mINFO[0m[0039] Starting download                             [36murl[0m="https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Mouse-1.0.1.zip?query=depends"
+
+2023-03-05 20:55:51 2023-03-05T15:25:51.850Z daemon INFO [36mINFO[0m[0040] Installing library                            [36mlibrary[0m=Mouse@1.0.1
+
+2023-03-05 20:55:51 2023-03-05T15:25:51.852Z daemon INFO [36mINFO[0m[0040] Starting download                             [36murl[0m="https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Servo-1.1.8.zip?query=depends"
+
+2023-03-05 20:55:52 2023-03-05T15:25:52.653Z daemon INFO [36mINFO[0m[0041] Installing library                            [36mlibrary[0m=Servo@1.1.8
+
+2023-03-05 20:55:52 2023-03-05T15:25:52.662Z daemon INFO [36mINFO[0m[0041] Starting download                             [36murl[0m="https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Stepper-1.1.3.zip?query=depends"
+
+2023-03-05 20:55:53 2023-03-05T15:25:53.378Z daemon INFO [36mINFO[0m[0042] Installing library                            [36mlibrary[0m=Stepper@1.1.3
+
+2023-03-05 20:55:53 2023-03-05T15:25:53.381Z daemon INFO [36mINFO[0m[0042] Starting download                             [36murl[0m="https://downloads.arduino.cc/libraries/github.com/arduino-libraries/TFT-1.0.6.zip?query=depends"
+
+2023-03-05 20:55:53 2023-03-05T15:25:53.727Z daemon INFO [36mINFO[0m[0042] Installing library                            [36mlibrary[0m=TFT@1.0.6
+
+2023-03-05 20:55:53 2023-03-05T15:25:53.730Z daemon INFO [36mINFO[0m[0042] Starting download                             [36murl[0m="https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Keyboard-1.0.4.zip?query=depends"
+
+2023-03-05 20:55:54 2023-03-05T15:25:54.607Z daemon INFO [36mINFO[0m[0043] Installing library                            [36mlibrary[0m=Keyboard@1.0.4
+
+2023-03-05 20:55:54 2023-03-05T15:25:54.609Z daemon INFO [36mINFO[0m[0043] Starting download                             [36murl[0m="https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Ethernet-2.0.1.zip?query=depends"
+
+2023-03-05 20:55:55 2023-03-05T15:25:55.586Z daemon INFO [36mINFO[0m[0044] Installing library                            [36mlibrary[0m=Ethernet@2.0.1
+
+2023-03-05 20:55:55 2023-03-05T15:25:55.591Z daemon INFO [36mINFO[0m[0044] Starting download                             [36murl[0m="https://downloads.arduino.cc/libraries/github.com/firmata/Firmata-2.5.9.zip?query=depends"
+
+2023-03-05 20:55:55 2023-03-05T15:25:55.874Z daemon INFO [36mINFO[0m[0044] Installing library                            [36mlibrary[0m=Firmata@2.5.9
+
+2023-03-05 20:55:55 2023-03-05T15:25:55.889Z daemon INFO [36mINFO[0m[0044] Loading hardware from: /home/teenarp2026/.arduino15/packages 
+
+2023-03-05 20:55:55 2023-03-05T15:25:55.890Z daemon INFO [36mINFO[0m[0044] Loading package arduino from: /home/teenarp2026/.arduino15/packages/arduino/hardware 
+
+2023-03-05 20:55:55 2023-03-05T15:25:55.891Z daemon INFO [36mINFO[0m[0044] Checking signature                            [36merror[0m="opening signature file: open /home/teenarp2026/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig: no such file or directory" [36mindex[0m=/home/teenarp2026/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json [36msignatureFile[0m=/home/teenarp2026/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig
+
+2023-03-05 20:55:55 2023-03-05T15:25:55.892Z daemon INFO [36mINFO[0m[0044] Adding monitor tool                           [36mprotocol[0m=serial [36mtool[0m="builtin:serial-monitor"
+[36mINFO[0m[0044] Loaded platform                               [36mplatform[0m="arduino:avr@1.8.6"
+[36mINFO[0m[0044] Checking existence of 'tools' path: /home/teenarp2026/.arduino15/packages/arduino/tools 
+
+2023-03-05 20:55:55 2023-03-05T15:25:55.893Z daemon INFO [36mINFO[0m[0044] Loading tools from dir: /home/teenarp2026/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0044] Loaded tool                                   [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0044] Loaded tool                                   [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0044] Loaded tool                                   [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0044] Loading package builtin from: /home/teenarp2026/.arduino15/packages/builtin 
+[36mINFO[0m[0044] Checking existence of 'tools' path: /home/teenarp2026/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0044] Loading tools from dir: /home/teenarp2026/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0044] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0044] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.8"
+[36mINFO[0m[0044] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.4.0"
+[36mINFO[0m[0044] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.13.0"
+
+2023-03-05 20:55:55 2023-03-05T15:25:55.901Z daemon INFO [36mINFO[0m[0044] Checking signature                            [36mindex[0m=/home/teenarp2026/.arduino15/package_index.json [36msignatureFile[0m=/home/teenarp2026/.arduino15/package_index.json.sig [36mtrusted[0m=true
+
+2023-03-05 20:55:55 2023-03-05T15:25:55.901Z daemon INFO [36mINFO[0m[0044] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0044] Loading libraries index file                  [36mindex[0m=/home/teenarp2026/.arduino15/library_index.json
+
+2023-03-05 20:55:56 2023-03-05T15:25:56.093Z daemon INFO [36mINFO[0m[0044] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0044] Adding libraries dir                          [36mdir[0m=/home/teenarp2026/Arduino/libraries [36mlocation[0m=user
+
+2023-03-05 20:55:56 2023-03-05T15:25:56.100Z discovery-log INFO start
+2023-03-05 20:55:56 2023-03-05T15:25:56.101Z discovery-log INFO start new deferred
+2023-03-05 20:55:56 2023-03-05T15:25:56.102Z discovery-log INFO start request start watch
+2023-03-05 20:55:56 2023-03-05T15:25:56.102Z discovery-log INFO start requested start watch
+2023-03-05 20:55:56 2023-03-05T15:25:56.102Z discovery-log INFO start resolved watching
+2023-03-05 20:55:56 2023-03-05T15:25:56.105Z daemon INFO [36mINFO[0m[0044] starting discovery builtin:serial-discovery process 
+[36mINFO[0m[0044] starting discovery builtin:mdns-discovery process 
+[36mINFO[0m[0044] started discovery builtin:serial-discovery process 
+[36mINFO[0m[0044] sending command HELLO 1 "arduino-cli 0.31.0" to discovery builtin:serial-discovery 
+[36mINFO[0m[0044] started discovery builtin:mdns-discovery process 
+[36mINFO[0m[0044] sending command HELLO 1 "arduino-cli 0.31.0" to discovery builtin:mdns-discovery 
+[36mINFO[0m[0044] from discovery builtin:serial-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0044] sending command START_SYNC to discovery builtin:serial-discovery 
+
+2023-03-05 20:55:56 2023-03-05T15:25:56.105Z daemon INFO [36mINFO[0m[0044] from discovery builtin:serial-discovery received message type: start_sync, message: OK 
+
+2023-03-05 20:55:56 2023-03-05T15:25:56.106Z daemon INFO [36mINFO[0m[0044] from discovery builtin:mdns-discovery received message type: hello, message: OK, protocol version: 1 
+
+2023-03-05 20:55:56 2023-03-05T15:25:56.106Z daemon INFO [36mINFO[0m[0044] sending command START_SYNC to discovery builtin:mdns-discovery 
+[36mINFO[0m[0044] from discovery builtin:mdns-discovery received message type: start_sync, message: OK 
+
+2023-03-05 20:55:56 2023-03-05T15:25:56.928Z root ERROR ---- !!!SLOW!!! DURATION: search took 828.136 ms. Args: [{}] ----
+2023-03-05 20:55:56 2023-03-05T15:25:56.929Z root INFO <<< Library package installation done.
+2023-03-05 21:06:05 2023-03-05T15:36:05.811Z root ERROR Have not received the build path from the CLI while running the compilation.

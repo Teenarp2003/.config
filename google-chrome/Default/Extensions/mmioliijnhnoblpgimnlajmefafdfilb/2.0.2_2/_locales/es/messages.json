@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "Reproduciendo fragmento • Reproduce la canción completa con Apple Music"
+   },
+   "am_button_connect": {
+      "message": "Conectar"
+   },
+   "am_button_disconnect": {
+      "message": "Desconectar"
+   },
+   "am_button_openin": {
+      "message": "Abrir con"
+   },
+   "am_button_playfull": {
+      "message": "Tocar canción completa"
+   },
+   "am_offer_3": {
+      "message": "Consigue hasta 3 meses de Apple Music gratis"
+   },
+   "am_offer_4": {
+      "message": "Consigue hasta 4 meses gratis de Apple Music"
+   },
+   "button_back": {
+      "message": "Atrás"
+   },
+   "button_cancel": {
+      "message": "Cancelar"
+   },
+   "button_done": {
+      "message": "Listo"
+   },
+   "button_hide": {
+      "message": "Ocultar"
+   },
+   "button_not_now": {
+      "message": "Ahora no"
+   },
+   "button_rate": {
+      "message": "Valora"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "Eliminar todos los Shazams"
+   },
+   "delete_sub": {
+      "message": "¿Seguro que quieres borrar todos tus Shazams?"
+   },
+   "disconnect_main": {
+      "message": "Desconectar Apple Music"
+   },
+   "disconnect_sub": {
+      "message": "La vista previa de canciones seguirá disponible"
+   },
+   "extDesc": {
+      "message": "Encuentra música, letras, vídeos y mucho más"
+   },
+   "extName": {
+      "message": "Shazam: identifica música desde tu navegador"
+   },
+   "general_shazams": {
+      "message": "Shazams"
+   },
+   "library_clear": {
+      "message": "Vaciar biblioteca"
+   },
+   "library_new": {
+      "message": "Nueva"
+   },
+   "library_no_shazams_main": {
+      "message": "Todavía no hay shazams"
+   },
+   "library_no_shazams_sub": {
+      "message": "Shazamea una canción y la verás aquí"
+   },
+   "library_toggle": {
+      "message": "Mostrar/ocultar biblioteca"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "No hemos podido encontrar coincidencias"
+   },
+   "nomatch_no_audio": {
+      "message": "Comprueba que estás en la pestaña donde suena música"
+   },
+   "nomatch_no_audio_main": {
+      "message": "No se está reproduciendo música en esta pestaña"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "Comprueba que estás en la pestaña que reproduce la música y vuelve a intentarlo"
+   },
+   "nomatch_no_result": {
+      "message": "Ningún resultado"
+   },
+   "nomatch_please_try_again": {
+      "message": "Inténtalo de nuevo"
+   },
+   "nomatch_try_again": {
+      "message": "Otra vez"
+   },
+   "rate_shazam_main": {
+      "message": "¿Te gusta Shazam?"
+   },
+   "rate_shazam_sub": {
+      "message": "Corre la voz. Califícalo en la App Store"
+   },
+   "shazambutton_click": {
+      "message": "Pulsa para Shazamear"
+   },
+   "shazambutton_listening_main1": {
+      "message": "Escuchando"
+   },
+   "shazambutton_listening_main2": {
+      "message": "Buscando resultados"
+   },
+   "shazambutton_listening_main3": {
+      "message": "Ampliando la búsqueda"
+   },
+   "shazambutton_listening_main4": {
+      "message": "Esta es difícil"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "No actualices ni cierres esta pestaña"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "Por favor, espera"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "Un momento…"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "Último intento"
+   },
+   "shazambutton_subtext": {
+      "message": "Ve a la pestaña donde está sonando música y pulsa el botón de Shazam"
+   }
+}

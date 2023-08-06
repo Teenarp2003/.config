@@ -1,0 +1,35 @@
+{
+   "action": {
+      "default_icon": "icon-38.png",
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "background.bundle.js"
+   },
+   "content_scripts": [ {
+      "js": [ "contentScript.bundle.js" ],
+      "matches": [ "*://www.shazam.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self';"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "devtools_page": "devtools.html",
+   "differential_fingerprint": "1.7207af15e78dc93bb2dd5c9ad3e74696b9e0536de57838b026749635746af601",
+   "homepage_url": "https://www.shazam.com/apps",
+   "icons": {
+      "128": "icon-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgZF5kkaSe9YRaEshk1NXz0FkztiyoZ+EVgb4jfSTvG34JIPpDDi2vB/f9DQmSMUIowAYEM2wD6Etwl4Fq28wUaAFbDUBiNqFQr8aUSNypc03i2VyFht/38k6f2fDtsJBCURYXm0NMz7bayJZPAMuYt2Tn6QaaItHLVmEY3vgLG7cl5a9zUau8YGX2T8w7g2KiHDcV1F8AxOalX4jlGNXpjZ/p7svxw8XNqgBe9B4PPkfExMP8yr/8TVJyXQ9w9zch/J/wFqxbt83FZ+M8wkttYpbYa1D3KxC3PQBEIRjYeuvotXcwwOxHS41H8gzrlQb28Gh0RcvVJUhmtxSHFkJGwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "tabs", "tabCapture", "storage", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.2",
+   "web_accessible_resources": [ {
+      "matches": [  ],
+      "resources": [ "content.styles.css", "icon-128.png", "icon-38.png", "*.jpeg" ]
+   } ]
+}

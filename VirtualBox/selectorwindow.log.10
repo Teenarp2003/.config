@@ -1,22 +1,29 @@
-00:00:00.312859 VirtualBox GUI VM Selector Window 7.0.4 r154605 linux.amd64 (Nov 18 2022 12:54:46) release log
-00:00:00.312863 Log opened 2022-12-10T08:43:34.932662000Z
-00:00:00.312865 Build Type: release
-00:00:00.312868 OS Product: Linux
-00:00:00.312870 OS Release: 5.19.2-arch1-1
-00:00:00.312872 OS Version: #1 SMP PREEMPT_DYNAMIC Wed, 17 Aug 2022 13:48:51 +0000
-00:00:00.312895 DMI Product Name: 82EY
-00:00:00.312905 DMI Product Version: IdeaPad Gaming 3 15ARH05
-00:00:00.312911 Firmware type: UEFI
-00:00:00.313158 Secure Boot: Disabled
-00:00:00.313237 Host RAM: 15363MB (15.0GB) total, 14780MB (14.4GB) available
-00:00:00.313243 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:00.313245 Process ID: 2583
-00:00:00.313247 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.313386 Qt version: 5.15.7
-00:00:00.314426 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
-00:00:00.325791 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:00.754228 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 963x56 x 949x504
-00:00:00.757811 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:00:04.970523 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
-00:00:18.061627 GUI: UICommon: Handling aboutToQuit request..
-00:00:19.302934 GUI: UICommon: aboutToQuit request handled!
+00:00:00.693784 VirtualBox GUI VM Selector Window 7.0.10 r158379 linux.amd64 (Jul 18 2023 21:00:10) release log
+00:00:00.693786 Log opened 2023-08-05T04:07:28.435932000Z
+00:00:00.693788 Build Type: release
+00:00:00.693791 OS Product: Linux
+00:00:00.693792 OS Release: 6.4.7-arch1-1
+00:00:00.693793 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 27 Jul 2023 22:02:18 +0000
+00:00:00.693812 DMI Product Name: 82EY
+00:00:00.693818 DMI Product Version: IdeaPad Gaming 3 15ARH05
+00:00:00.693822 Firmware type: UEFI
+00:00:00.693964 Secure Boot: Enabled
+00:00:00.693994 Host RAM: 15359MB (14.9GB) total, 13153MB (12.8GB) available
+00:00:00.693996 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.693997 Process ID: 288724
+00:00:00.693999 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.694021 Qt version: 5.15.10
+00:00:00.695118 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.707388 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.335747 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 8x60 x 946x1010
+00:00:01.341448 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:19.841539 GUI: UIMediumEnumerator: Medium with key={{c8409684-6730-4f6d-866b-8e82350de86f}} created
+00:01:22.024353 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:28.831931 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:30.410085 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:38.891776 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:38.895684 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:39.711215 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:40.466334 GUI: UIMediumEnumerator: Medium-enumeration finished!
+04:26:56.794724 GUI: UIMediumEnumerator: Medium-enumeration finished!
+04:26:56.844741 Log rotated - Log started 2023-08-05T04:07:28.435932000Z

@@ -1,0 +1,64 @@
+HDMI-1 Window-Maximized 1600x900=true
+HDMI-1 XPosition 1600x900=0
+HDMI-1 YPosition 1600x900=29
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAADDfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAADDQAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAFhwAAAw0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[CompactMode]
+IconSize=32
+
+[General]
+EditableUrl=true
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2021,4,4,18,14,31.058
+
+[IconsMode]
+IconSize=48
+PreviewSize=256
+UseSystemFont=false
+ViewFont=Source Code Pro Medium,9,-1,5,57,0,0,0,0,0,Regular
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+eDP-1 Height 1536x864=616
+eDP-1 Height 1920x1080=616
+eDP-1 Height 1920x1080 eDP-1=460
+eDP-1 Width 1536x864=469
+eDP-1 Width 1920x1080=479
+eDP-1 Width 1920x1080 eDP-1=464
+
+[MainWindow]
+HDMI-1 Height 1600x900=500
+HDMI-1 Width 1600x900=750
+HDMI-1 Window-Maximized 1600x900=true
+HDMI-1 XPosition 1600x900=0
+HDMI-1 YPosition 1600x900=29
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 Height 1536x864=778
+eDP-1 Height 1920x1080=626
+eDP-1 Width 1536x864=762
+eDP-1 Width 1920x1080=760
+eDP-1 Window-Maximized 1536x864=true
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition 1536x864=770
+eDP-1 XPosition 1920x1080=1023
+eDP-1 YPosition 1536x864=46
+eDP-1 YPosition 1920x1080=166
+
+[Notification Messages]
+ConfirmDelete=true
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
+
+[Search]
+Location=Everywhere
+What=Content

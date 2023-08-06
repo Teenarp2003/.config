@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "पूर्वावलोकन बजाना • Apple Music के साथ पूरा गाना बजाएं"
+   },
+   "am_button_connect": {
+      "message": "कनेक्ट करें"
+   },
+   "am_button_disconnect": {
+      "message": "डिस्कनेक्ट करेंं"
+   },
+   "am_button_openin": {
+      "message": "में खुलेगा"
+   },
+   "am_button_playfull": {
+      "message": "पूरा गाना बजाएं"
+   },
+   "am_offer_3": {
+      "message": "3 महीनों तक के लिए मुफ़्त Apple Music पाएँ।"
+   },
+   "am_offer_4": {
+      "message": "4 महीने तक का निःशुल्क Apple Music पाएं"
+   },
+   "button_back": {
+      "message": "वापस जाएँ"
+   },
+   "button_cancel": {
+      "message": "रद्द करें"
+   },
+   "button_done": {
+      "message": "पूर्ण हुआ"
+   },
+   "button_hide": {
+      "message": "छिपाना"
+   },
+   "button_not_now": {
+      "message": "अभी नहींं"
+   },
+   "button_rate": {
+      "message": "रेट"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "सभी Shazam हटाएं"
+   },
+   "delete_sub": {
+      "message": "क्या आप वाकई अपने सभी Shazam डेटा को हटाना चाहते हैंं?"
+   },
+   "disconnect_main": {
+      "message": "Apple Music हटाए"
+   },
+   "disconnect_sub": {
+      "message": "गाने के पूर्वावलोकन अभी भी उपलब्ध रहेंगे"
+   },
+   "extDesc": {
+      "message": "संगीत पहचानें, गानों के नाम जानें, लिरिक्स से गाने ढूँढें। और भी बहुत कुछ।"
+   },
+   "extName": {
+      "message": "Shazam: अपने ब्राउज़र से गानों के नाम ढूँढें"
+   },
+   "general_shazams": {
+      "message": "Shazams"
+   },
+   "library_clear": {
+      "message": "पुस्तकालय साफ़ करें"
+   },
+   "library_new": {
+      "message": "नया"
+   },
+   "library_no_shazams_main": {
+      "message": "अभी तक कोई Shazam नहीं हैं"
+   },
+   "library_no_shazams_sub": {
+      "message": "Shazam एक गीत और उन्हें यहाँ खोजें"
+   },
+   "library_toggle": {
+      "message": "Toggle लाइब्रेरी"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "अच्छे से सुन नहीं पाया"
+   },
+   "nomatch_no_audio": {
+      "message": "सुनिश्चित करें कि आप उस टैब में हैं जो संगीत चला रहा है"
+   },
+   "nomatch_no_audio_main": {
+      "message": "इस टैब में कोई संगीत नहीं चल रहा है"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "सुनिश्चित करें कि आप उस टैब में हैं जिसमें संगीत चल रहा है और पुनः प्रयास करें"
+   },
+   "nomatch_no_result": {
+      "message": "कोई परिणाम नही"
+   },
+   "nomatch_please_try_again": {
+      "message": "कृपया पुनः प्रयास करें"
+   },
+   "nomatch_try_again": {
+      "message": "पुन: प्रयास करें"
+   },
+   "rate_shazam_main": {
+      "message": "शज़ाम का आनंद ले रहे हैं?"
+   },
+   "rate_shazam_sub": {
+      "message": "शब्द फैलाओ। इसे ऐप स्टोर पर रेट करें"
+   },
+   "shazambutton_click": {
+      "message": "Shazam पर क्लिक करें"
+   },
+   "shazambutton_listening_main1": {
+      "message": "सुन रहे हैं"
+   },
+   "shazambutton_listening_main2": {
+      "message": "मैच खोज रहा है"
+   },
+   "shazambutton_listening_main3": {
+      "message": "खोज को विस्तारित कर रहा है"
+   },
+   "shazambutton_listening_main4": {
+      "message": "यह कठिन है"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "कृपया इस टैब को रिफ़्रेश या बंद न करें"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "कृपया प्रतीक्षा करें"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "कुछ देर और प्रतीक्षा करें"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "अंतिम प्रयास"
+   },
+   "shazambutton_subtext": {
+      "message": "संगीत बजाने वाले टैब पर जाएं और Shazam बटन पर क्लिक करें"
+   }
+}

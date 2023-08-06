@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "Звучит отрывок • Слушай полностью в Apple Music"
+   },
+   "am_button_connect": {
+      "message": "Подключить"
+   },
+   "am_button_disconnect": {
+      "message": "Разъединить"
+   },
+   "am_button_openin": {
+      "message": "Открыть в"
+   },
+   "am_button_playfull": {
+      "message": "Слушать полностью"
+   },
+   "am_offer_3": {
+      "message": "До 3 месяцев Apple Music бесплатно"
+   },
+   "am_offer_4": {
+      "message": "Получите до 4 месяцев Apple Music бесплатно"
+   },
+   "button_back": {
+      "message": "Назад"
+   },
+   "button_cancel": {
+      "message": "Отменить"
+   },
+   "button_done": {
+      "message": "Выполнено"
+   },
+   "button_hide": {
+      "message": "Скрыть"
+   },
+   "button_not_now": {
+      "message": "Не сейчас"
+   },
+   "button_rate": {
+      "message": "Оценить"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "Удалить все шазамы"
+   },
+   "delete_sub": {
+      "message": "Удалить все шазамы?"
+   },
+   "disconnect_main": {
+      "message": "Отменить привязку к Apple Music"
+   },
+   "disconnect_sub": {
+      "message": "Отрывки песен никуда не денутся"
+   },
+   "extDesc": {
+      "message": "Распознавайте музыку, находите тексты песен и многое другое"
+   },
+   "extName": {
+      "message": "Shazam: ищите названия треков в браузере"
+   },
+   "general_shazams": {
+      "message": "Шазамы"
+   },
+   "library_clear": {
+      "message": "Очистить библиотеку"
+   },
+   "library_new": {
+      "message": "Новинка"
+   },
+   "library_no_shazams_main": {
+      "message": "Шазамов пока нет"
+   },
+   "library_no_shazams_sub": {
+      "message": "Зашазамь песню, и она появится здесь"
+   },
+   "library_toggle": {
+      "message": "Переключить библиотеку"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "Что-то мы не расслышали"
+   },
+   "nomatch_no_audio": {
+      "message": "Убедись, что открыта вкладка, где играет музыка"
+   },
+   "nomatch_no_audio_main": {
+      "message": "Из этой вкладки ничего не играет"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "Открой вкладку, где играет музыка, и повтори попытку"
+   },
+   "nomatch_no_result": {
+      "message": "Нет результатов"
+   },
+   "nomatch_please_try_again": {
+      "message": "Повтори попытку"
+   },
+   "nomatch_try_again": {
+      "message": "Попроб–ть"
+   },
+   "rate_shazam_main": {
+      "message": "Нравится Shazam?"
+   },
+   "rate_shazam_sub": {
+      "message": "Расскажи другим! Оставь нам отзыв в магазине приложений."
+   },
+   "shazambutton_click": {
+      "message": "Нажми, чтобы зашазамить"
+   },
+   "shazambutton_listening_main1": {
+      "message": "Слушает"
+   },
+   "shazambutton_listening_main2": {
+      "message": "Ищем песню"
+   },
+   "shazambutton_listening_main3": {
+      "message": "Ищем ещё"
+   },
+   "shazambutton_listening_main4": {
+      "message": "Крепкий орешек"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "Не перезагружай и не закрывай эту вкладку"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "Один момент"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "Минуточку"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "Пробуем последний раз"
+   },
+   "shazambutton_subtext": {
+      "message": "Открой вкладку, в которой проигрывается музыка, и нажми кнопку Shazam"
+   }
+}

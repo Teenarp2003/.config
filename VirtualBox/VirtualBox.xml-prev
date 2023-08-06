@@ -8,18 +8,21 @@
 <VirtualBox xmlns="http://www.virtualbox.org/" version="1.12-linux">
   <Global>
     <ExtraData>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=e7543d05-29bb-4760-9317-7aff3631830b"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="7,57,1906,1016"/>
-      <ExtraDataItem name="GUI/MediumSelector/DialogGeometry" value="0,50,1920,1030"/>
-      <ExtraDataItem name="GUI/RecentFolderCD" value="/run/media/teenarp2026/D/Big files"/>
-      <ExtraDataItem name="GUI/RecentListCD" value="/run/media/teenarp2026/D/Big files/archlinux-2022.12.01-x86_64.iso"/>
-      <ExtraDataItem name="GUI/SuppressMessages" value="confirmGoingFullscreen"/>
+      <ExtraDataItem name="GUI/Details/Elements/Preview/UpdateInterval" value="disabled"/>
+      <ExtraDataItem name="GUI/HideDescriptionForWizards" value="ExportAppliance"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=2ad6fbd7-58d9-433e-8b7b-3cb13e0b9e10"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="9,61,1902,1010"/>
+      <ExtraDataItem name="GUI/MediumSelector/DialogGeometry" value="1451,571,460,500"/>
+      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/teenarp2026/Downloads"/>
+      <ExtraDataItem name="GUI/RecentFolderHD" value="/home/teenarp2026/VirtualBox VMs/Windows Wm"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/home/teenarp2026/Downloads/Win10_22H2_English_x64v1.iso,/home/teenarp2026/Downloads/Win11_22H2_English_x64v2.iso,/home/teenarp2026/Downloads/ubuntu-23.04-desktop-amd64.iso,/run/media/teenarp2026/Z/x86 OS/archlinux-2022.12.01-x86_64.iso,/mnt/Fedora-KDE-Live-x86_64-35-1.2.iso"/>
+      <ExtraDataItem name="GUI/RecentListHD" value="/home/teenarp2026/VirtualBox VMs/Windows Wm/Windows Wm.vdi"/>
+      <ExtraDataItem name="GUI/SoftKeyboardDialogGeometry" value="965,61,946,1010"/>
+      <ExtraDataItem name="GUI/SuppressMessages" value="confirmGoingFullscreen,confirmPowerOffMachine,confirmResetMachine,remindAboutMouseIntegration,showRuntimeError.warning.DvdOrFloppyImageInaccessible,confirmInputCapture"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
+      <ExtraDataItem name="GUI/VirtualMediaManager/Details/Expanded" value="true"/>
     </ExtraData>
-    <MachineRegistry>
-      <MachineEntry uuid="{e7543d05-29bb-4760-9317-7aff3631830b}" src="/home/teenarp2026/VirtualBox VMs/Archie/Archie.vbox"/>
-      <MachineEntry uuid="{0ca1b7e6-627a-4b58-9bd7-bb6c2f6cd483}" src="/home/teenarp2026/VirtualBox VMs/Archie Clone/Archie Clone.vbox"/>
-    </MachineRegistry>
+    <MachineRegistry/>
     <NetserviceRegistry>
       <DHCPServers>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>
@@ -28,7 +31,7 @@
     <Updates enabled="false">
       <Host enabled="false" channel="1" checkFreqSec="86400" repoUrl="https://update.virtualbox.org" checkCount="0"/>
     </Updates>
-    <SystemProperties defaultMachineFolder="/home/teenarp2026/VirtualBox VMs" defaultHardDiskFormat="VDI" VRDEAuthLibrary="VBoxAuth" webServiceAuthLibrary="VBoxAuth" LogHistoryCount="3" proxyMode="0" exclusiveHwVirt="true"/>
+    <SystemProperties defaultMachineFolder="/home/teenarp2026/Virtualbox" defaultHardDiskFormat="VDI" VRDEAuthLibrary="VBoxAuth" webServiceAuthLibrary="VBoxAuth" LogHistoryCount="3" proxyMode="0" exclusiveHwVirt="true"/>
     <USBDeviceFilters/>
   </Global>
 </VirtualBox>

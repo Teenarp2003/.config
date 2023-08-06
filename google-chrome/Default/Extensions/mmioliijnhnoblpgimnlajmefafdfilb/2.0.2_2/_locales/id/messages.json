@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "Memutar Pratinjau • Putar lagu lengkap dengan Apple Music"
+   },
+   "am_button_connect": {
+      "message": "Hubungkan"
+   },
+   "am_button_disconnect": {
+      "message": "Putuskan koneksi"
+   },
+   "am_button_openin": {
+      "message": "Buka Di"
+   },
+   "am_button_playfull": {
+      "message": "Putar Lagu Lengkap"
+   },
+   "am_offer_3": {
+      "message": "Dapatkan Apple Music gratis hingga 3 bulan"
+   },
+   "am_offer_4": {
+      "message": "Dapatkan hingga 4 bulan Apple Music gratis"
+   },
+   "button_back": {
+      "message": "Kembali"
+   },
+   "button_cancel": {
+      "message": "Batalkan"
+   },
+   "button_done": {
+      "message": "Selesai"
+   },
+   "button_hide": {
+      "message": "Sembunyikan"
+   },
+   "button_not_now": {
+      "message": "Tidak Sekarang"
+   },
+   "button_rate": {
+      "message": "Nilai"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "Hapus semua Shazam"
+   },
+   "delete_sub": {
+      "message": "Yakin ingin menghapus semua Shazam Anda?"
+   },
+   "disconnect_main": {
+      "message": "Putuskan hubungan Apple Music"
+   },
+   "disconnect_sub": {
+      "message": "Pratinjau lagu akan tetap tersedia"
+   },
+   "extDesc": {
+      "message": "Identifikasi musik, cari lirik, dan banyak lagi"
+   },
+   "extName": {
+      "message": "Shazam: Temukan judul lagu dari peramban Anda"
+   },
+   "general_shazams": {
+      "message": "Shazam"
+   },
+   "library_clear": {
+      "message": "Kosongkan Pustaka"
+   },
+   "library_new": {
+      "message": "Baru"
+   },
+   "library_no_shazams_main": {
+      "message": "Belum Ada Shazam"
+   },
+   "library_no_shazams_sub": {
+      "message": "Shazam sebuah lagu dan temukan hasilnya di sini"
+   },
+   "library_toggle": {
+      "message": "Alihkan Pustaka"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "Tidak bisa mengenalinya"
+   },
+   "nomatch_no_audio": {
+      "message": "Pastikan Anda berada di tab yang memutar musik"
+   },
+   "nomatch_no_audio_main": {
+      "message": "Tidak ada musik yang diputar di tab ini"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "Pastikan Anda membuka tab yang memutar musik dan coba lagi"
+   },
+   "nomatch_no_result": {
+      "message": "Tidak Ada Hasil"
+   },
+   "nomatch_please_try_again": {
+      "message": "Silakan coba lagi"
+   },
+   "nomatch_try_again": {
+      "message": "Coba Lagi"
+   },
+   "rate_shazam_main": {
+      "message": "Menikmati Shazam?"
+   },
+   "rate_shazam_sub": {
+      "message": "Beri tahu semua orang. Beri nilai di app store"
+   },
+   "shazambutton_click": {
+      "message": "Klik untuk Shazam"
+   },
+   "shazambutton_listening_main1": {
+      "message": "Mendengarkan"
+   },
+   "shazambutton_listening_main2": {
+      "message": "Mencari kecocokan"
+   },
+   "shazambutton_listening_main3": {
+      "message": "Memperluas pencarian"
+   },
+   "shazambutton_listening_main4": {
+      "message": "Ini sulit"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "Jangan segarkan atau tutup tab ini"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "Mohon tunggu"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "Tunggu sebentar"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "Percobaan terakhir"
+   },
+   "shazambutton_subtext": {
+      "message": "Buka tab yang memutar musik dan klik Tombol Shazam"
+   }
+}

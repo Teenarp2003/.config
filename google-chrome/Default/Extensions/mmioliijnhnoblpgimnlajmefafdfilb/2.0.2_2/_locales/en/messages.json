@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "Playing Preview • Play full song with Apple Music"
+   },
+   "am_button_connect": {
+      "message": "Connect"
+   },
+   "am_button_disconnect": {
+      "message": "Disconnect"
+   },
+   "am_button_openin": {
+      "message": "Open In"
+   },
+   "am_button_playfull": {
+      "message": "Play Full Song"
+   },
+   "am_offer_3": {
+      "message": "Get up to 3 months free of Apple Music"
+   },
+   "am_offer_4": {
+      "message": "Get up to 4 months free of Apple Music"
+   },
+   "button_back": {
+      "message": "Back"
+   },
+   "button_cancel": {
+      "message": "Cancel"
+   },
+   "button_done": {
+      "message": "Done"
+   },
+   "button_hide": {
+      "message": "Hide"
+   },
+   "button_not_now": {
+      "message": "Not Now"
+   },
+   "button_rate": {
+      "message": "Rate"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "Delete all Shazams"
+   },
+   "delete_sub": {
+      "message": "Are you sure you want to delete all your Shazams?"
+   },
+   "disconnect_main": {
+      "message": "Disconnect Apple Music"
+   },
+   "disconnect_sub": {
+      "message": "Song previews will still be available"
+   },
+   "extDesc": {
+      "message": "Identify music, search lyrics & more"
+   },
+   "extName": {
+      "message": "Shazam: Find song names from your browser"
+   },
+   "general_shazams": {
+      "message": "Shazams"
+   },
+   "library_clear": {
+      "message": "Clear Library"
+   },
+   "library_new": {
+      "message": "New"
+   },
+   "library_no_shazams_main": {
+      "message": "No Shazams Yet"
+   },
+   "library_no_shazams_sub": {
+      "message": "Shazam a song and find them here"
+   },
+   "library_toggle": {
+      "message": "Toggle Library"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "Couldn't quite catch that"
+   },
+   "nomatch_no_audio": {
+      "message": "Make sure you’re in the tab that’s playing music"
+   },
+   "nomatch_no_audio_main": {
+      "message": "No music playing in this tab"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "Make sure you’re in the tab playing music and try again"
+   },
+   "nomatch_no_result": {
+      "message": "No Result"
+   },
+   "nomatch_please_try_again": {
+      "message": "Please try again"
+   },
+   "nomatch_try_again": {
+      "message": "Try Again"
+   },
+   "rate_shazam_main": {
+      "message": "Enjoying Shazam?"
+   },
+   "rate_shazam_sub": {
+      "message": "Spread the word. Rate it on the app store"
+   },
+   "shazambutton_click": {
+      "message": "Click to Shazam"
+   },
+   "shazambutton_listening_main1": {
+      "message": "Listening"
+   },
+   "shazambutton_listening_main2": {
+      "message": "Searching for a match"
+   },
+   "shazambutton_listening_main3": {
+      "message": "Expanding search"
+   },
+   "shazambutton_listening_main4": {
+      "message": "This is a tough one"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "Please don’t refresh or close this tab"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "Please wait"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "Hang tight"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "Last try"
+   },
+   "shazambutton_subtext": {
+      "message": "Go to the tab playing music and click the Shazam Button"
+   }
+}

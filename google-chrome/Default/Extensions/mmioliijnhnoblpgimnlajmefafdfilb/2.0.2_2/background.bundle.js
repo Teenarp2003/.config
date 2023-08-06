@@ -1,0 +1,1 @@
+chrome.runtime.onMessage.addListener((e=>{const{type:t}=e;if("trackmatch"===t){const{match:s,library:a,rating:n}=e;chrome.runtime.sendMessage({type:t,match:s,library:a,rating:n})}else if("listeningState"===t){const{state:s}=e;chrome.runtime.sendMessage({type:t,state:s})}else chrome.runtime.sendMessage({type:t})}));

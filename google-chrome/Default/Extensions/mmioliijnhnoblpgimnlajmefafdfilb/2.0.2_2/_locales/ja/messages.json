@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "プレビューを再生 • Apple Music で曲全体をフル再生"
+   },
+   "am_button_connect": {
+      "message": "接続"
+   },
+   "am_button_disconnect": {
+      "message": "切断"
+   },
+   "am_button_openin": {
+      "message": "以下で開く："
+   },
+   "am_button_playfull": {
+      "message": "曲全体をフル再生"
+   },
+   "am_offer_3": {
+      "message": "Apple Musicを最大3か月無料で楽しもう。"
+   },
+   "am_offer_4": {
+      "message": "Apple Musicを4か月間無料で体験しよう"
+   },
+   "button_back": {
+      "message": "戻る"
+   },
+   "button_cancel": {
+      "message": "キャンセル"
+   },
+   "button_done": {
+      "message": "完了"
+   },
+   "button_hide": {
+      "message": "非表示"
+   },
+   "button_not_now": {
+      "message": "後で実行"
+   },
+   "button_rate": {
+      "message": "評価"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "全てのShazam曲を削除する"
+   },
+   "delete_sub": {
+      "message": "Shazamしたすべての曲を削除してよろしいですか？"
+   },
+   "disconnect_main": {
+      "message": "Apple Music から接続を切断"
+   },
+   "disconnect_sub": {
+      "message": "曲のプレビューは引き続き利用可能です"
+   },
+   "extDesc": {
+      "message": "音楽を認識したり、歌詞を検索したり"
+   },
+   "extName": {
+      "message": "Shazam：ブラウザから曲名を見つける"
+   },
+   "general_shazams": {
+      "message": "Shazam回数"
+   },
+   "library_clear": {
+      "message": "ライブラリをクリア"
+   },
+   "library_new": {
+      "message": "New"
+   },
+   "library_no_shazams_main": {
+      "message": "まだShazamした曲がありません"
+   },
+   "library_no_shazams_sub": {
+      "message": "曲を Shazam してここで検索"
+   },
+   "library_toggle": {
+      "message": "ライブラリを切り替え"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "認識できませんでした"
+   },
+   "nomatch_no_audio": {
+      "message": "音楽が流れているタブが表示されているか確認してください"
+   },
+   "nomatch_no_audio_main": {
+      "message": "このタブでは音楽は再生されていません"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "音楽が再生されているタブにアクセスしていることを確認してからもう一度お試しください"
+   },
+   "nomatch_no_result": {
+      "message": "結果なし"
+   },
+   "nomatch_please_try_again": {
+      "message": "もう一度お試しください"
+   },
+   "nomatch_try_again": {
+      "message": "再度試す"
+   },
+   "rate_shazam_main": {
+      "message": "Shazam - 音楽検索を気に入っていただけましたか？"
+   },
+   "rate_shazam_sub": {
+      "message": "ぜひこのアプリの良さをApp Storeで評価してください！"
+   },
+   "shazambutton_click": {
+      "message": "クリックしてShazamする"
+   },
+   "shazambutton_listening_main1": {
+      "message": "聞き取り中"
+   },
+   "shazambutton_listening_main2": {
+      "message": "一致する曲を探しています"
+   },
+   "shazambutton_listening_main3": {
+      "message": "検索範囲を拡大しています"
+   },
+   "shazambutton_listening_main4": {
+      "message": "なかなか見つかりません"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "タブを更新したり閉じたりしないでください"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "しばらくお待ち下さい"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "しばらくお待ちください"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "もう一度だけ検索します"
+   },
+   "shazambutton_subtext": {
+      "message": "音楽が流れているタブに移動し、Shazam ボタンをクリック"
+   }
+}

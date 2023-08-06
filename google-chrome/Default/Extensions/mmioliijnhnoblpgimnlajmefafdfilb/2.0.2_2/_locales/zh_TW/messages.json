@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "播放試聽 • 用 Apple Music 播放全曲"
+   },
+   "am_button_connect": {
+      "message": "連線"
+   },
+   "am_button_disconnect": {
+      "message": "取消連線"
+   },
+   "am_button_openin": {
+      "message": "開啟於"
+   },
+   "am_button_playfull": {
+      "message": "播放完整歌曲"
+   },
+   "am_offer_3": {
+      "message": "免費體驗 Apple Music，多達三個月"
+   },
+   "am_offer_4": {
+      "message": "免費體驗 Apple Music，多達四個月"
+   },
+   "button_back": {
+      "message": "返回"
+   },
+   "button_cancel": {
+      "message": "取消"
+   },
+   "button_done": {
+      "message": "完成"
+   },
+   "button_hide": {
+      "message": "隱藏"
+   },
+   "button_not_now": {
+      "message": "先不要"
+   },
+   "button_rate": {
+      "message": "給評"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "刪除所有 Shazam 的歌曲"
+   },
+   "delete_sub": {
+      "message": "確定要刪除所有 Shazam？"
+   },
+   "disconnect_main": {
+      "message": "中斷 Apple Music 連線"
+   },
+   "disconnect_sub": {
+      "message": "你仍可試聽歌曲"
+   },
+   "extDesc": {
+      "message": "辨識音樂、搜尋歌詞及更多內容"
+   },
+   "extName": {
+      "message": "Shazam：在瀏覽器中直接辨識歌曲"
+   },
+   "general_shazams": {
+      "message": "Shazams"
+   },
+   "library_clear": {
+      "message": "清除音樂資料庫"
+   },
+   "library_new": {
+      "message": "新"
+   },
+   "library_no_shazams_main": {
+      "message": "尚無任何 Shazam 的歌曲"
+   },
+   "library_no_shazams_sub": {
+      "message": "使用 Shazam 辨識歌曲，然後在這裡查看"
+   },
+   "library_toggle": {
+      "message": "切換音樂資料庫"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "未能清楚辨認"
+   },
+   "nomatch_no_audio": {
+      "message": "確保你位於正在播放音樂的索引標籤中"
+   },
+   "nomatch_no_audio_main": {
+      "message": "此索引標籤中未在播放音樂"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "請務必選取正在播放音樂的索引標籤，然後再試一次"
+   },
+   "nomatch_no_result": {
+      "message": "無結果"
+   },
+   "nomatch_please_try_again": {
+      "message": "請再試一次"
+   },
+   "nomatch_try_again": {
+      "message": "請重試"
+   },
+   "rate_shazam_main": {
+      "message": "喜歡 Shazam 嗎？"
+   },
+   "rate_shazam_sub": {
+      "message": "那就告訴大家吧！在 App Store 給評"
+   },
+   "shazambutton_click": {
+      "message": "按此執行 Shazam"
+   },
+   "shazambutton_listening_main1": {
+      "message": "辨識中"
+   },
+   "shazambutton_listening_main2": {
+      "message": "正在搜尋相符結果"
+   },
+   "shazambutton_listening_main3": {
+      "message": "正在擴大搜尋範圍"
+   },
+   "shazambutton_listening_main4": {
+      "message": "這有點難度"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "請勿重新整理或關閉此索引標籤"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "請稍候"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "再等我一下"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "再試最後一次"
+   },
+   "shazambutton_subtext": {
+      "message": "前往播放音樂的索引標籤，然後點按 Shazam 按鈕"
+   }
+}

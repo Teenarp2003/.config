@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "Αναπαραγωγή προεπισκόπησης • Αναπαραγωγή πλήρους τραγουδιού στο Apple Music"
+   },
+   "am_button_connect": {
+      "message": "Σύνδεση"
+   },
+   "am_button_disconnect": {
+      "message": "Αποσύνδεση"
+   },
+   "am_button_openin": {
+      "message": "Άνοιγμα σε"
+   },
+   "am_button_playfull": {
+      "message": "Αναπαραγωγή πλήρους τραγουδιού"
+   },
+   "am_offer_3": {
+      "message": "Λάβετε έως 3 μήνες δωρεάν στο Apple Music"
+   },
+   "am_offer_4": {
+      "message": "Λάβετε έως 4 μήνες δωρεάν στο Apple Music"
+   },
+   "button_back": {
+      "message": "Πίσω"
+   },
+   "button_cancel": {
+      "message": "Άκυρο"
+   },
+   "button_done": {
+      "message": "Ολοκληρώθηκε"
+   },
+   "button_hide": {
+      "message": "Απόκρυψη"
+   },
+   "button_not_now": {
+      "message": "Όχι τώρα"
+   },
+   "button_rate": {
+      "message": "Βαθμολόγηση"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "Διαγραφή όλων των shazam"
+   },
+   "delete_sub": {
+      "message": "Θέλετε σίγουρα να διαγράψετε όλα τα shazam σας;"
+   },
+   "disconnect_main": {
+      "message": "Αποσύνδεση του Apple Music"
+   },
+   "disconnect_sub": {
+      "message": "Οι προεπισκοπήσεις τραγουδιών θα εξακολουθούν να είναι διαθέσιμες"
+   },
+   "extDesc": {
+      "message": "Αναγνώρισε μουσική, αναζήτησε στίχους και άλλα, απευθείας από το πρόγραμμα περιήγησής σου."
+   },
+   "extName": {
+      "message": "Shazam: Βρες τίτλους τραγουδιών με ένα κλικ"
+   },
+   "general_shazams": {
+      "message": "Shazam"
+   },
+   "library_clear": {
+      "message": "Εκκαθάριση της Βιβλιοθήκης"
+   },
+   "library_new": {
+      "message": "Νέο"
+   },
+   "library_no_shazams_main": {
+      "message": "Κανένα shazam ακόμη"
+   },
+   "library_no_shazams_sub": {
+      "message": "Μετά την αναγνώριση ενός τραγουδιού μέσω Shazam, θα εμφανίζεται εδώ"
+   },
+   "library_toggle": {
+      "message": "Εμφάνιση/Απόκρυψη της Βιβλιοθήκης"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "Δεν αναγνωρίστηκε το τραγούδι"
+   },
+   "nomatch_no_audio": {
+      "message": "Βεβαιωθείτε ότι βρίσκεστε στην καρτέλα όπου αναπαράγεται μουσική"
+   },
+   "nomatch_no_audio_main": {
+      "message": "Δεν αναπαράγεται μουσική σε αυτήν την καρτέλα"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "Βεβαιωθείτε ότι βρίσκεστε στην καρτέλα όπου αναπαράγεται μουσική και μετά δοκιμάστε ξανά"
+   },
+   "nomatch_no_result": {
+      "message": "Κανένα αποτέλεσμα"
+   },
+   "nomatch_please_try_again": {
+      "message": "Δοκιμάστε ξανά"
+   },
+   "nomatch_try_again": {
+      "message": "Νέα δοκιμή"
+   },
+   "rate_shazam_main": {
+      "message": "Σας αρέσει το Shazam;"
+   },
+   "rate_shazam_sub": {
+      "message": "Πείτε το στους φίλους σας. Βαθμολογήστε την εφαρμογή στο App Store."
+   },
+   "shazambutton_click": {
+      "message": "Κάντε κλικ για αναγνώριση μέσω Shazam"
+   },
+   "shazambutton_listening_main1": {
+      "message": "Ακρόαση…"
+   },
+   "shazambutton_listening_main2": {
+      "message": "Αναζήτηση τραγουδιού…"
+   },
+   "shazambutton_listening_main3": {
+      "message": "Επέκταση αναζήτησης…"
+   },
+   "shazambutton_listening_main4": {
+      "message": "Προσπαθούμε σκληρά"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "Μην ανανεώσετε ή κλείσετε αυτήν την καρτέλα"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "Περιμένετε…"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "Περιμένετε λίγο…"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "Τελευταία προσπάθεια"
+   },
+   "shazambutton_subtext": {
+      "message": "Μεταβείτε στην καρτέλα όπου αναπαράγεται μουσική και κάντε κλικ στο κουμπί «Shazam»"
+   }
+}

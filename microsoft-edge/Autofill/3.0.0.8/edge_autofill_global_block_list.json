@@ -1,0 +1,95 @@
+{
+	"global_block_list": [
+		{
+			"value": "edge-webscratch|$|1697087349614708908",
+			"type": 2,
+			"feature": 0,
+			"source": 1,
+			"metadata": "global block list test form"
+		},
+		{
+			"value": "8153978097816738556|$|2376052379",
+			"type": 3,
+			"feature": 1,
+			"source": 1,
+			"metadata": "ms.portal.azure.com"
+		},
+		{
+			"value": "outlook.office365.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "outlook.office365.com"
+		},
+		{
+			"value": "tasks.office.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "tasks.office.com"
+		},
+		{
+			"value": "outlook.office.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "outlook.office.com"
+		},
+		{
+			"value": "edge-webscratch/scratch/edge/autofill/Credentials/SimpleLoginGlobalBlock.html",
+			"type": 0,
+			"feature": 2,
+			"source": 1,
+			"metadata": "Test URL for global passwords blocklist"
+		},
+		{
+			"value": "autofill.account.microsoft.com/",
+			"type": 1,
+			"feature": 2,
+			"source": 1,
+			"metadata": "AMC password management page"
+		},
+		{
+			"value": "online.canarabank.in|$|-6908686398814051166",
+			"type": 3,
+			"feature": 2,
+			"source": 1,
+			"metadata": "Canara Transaction Password"
+		},
+		{
+			"value": "online.canarabank.in|$|-5396408197698963614",
+			"type": 3,
+			"feature": 2,
+			"source": 1,
+			"metadata": "Canara Change Transaction Password"
+		},
+		{
+			"value": "online.canarabank.in|$|4190082000",
+			"type": 3,
+			"feature": 2,
+			"source": 1,
+			"metadata": "Canara Transaction Password"
+		},
+		{
+			"value": "online.canarabank.in|$|2463933404",
+			"type": 3,
+			"feature": 2,
+			"source": 1,
+			"metadata": "Canara Change Transaction Password"
+		},
+    	{
+      		"value": "dev.azure.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "dev.azure.com"
+    	},
+    	{
+      		"value": "microsoft.visualstudio.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "microsoft.visualstudio.com"
+    	}
+	]
+}

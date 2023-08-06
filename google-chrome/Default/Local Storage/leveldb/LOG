@@ -1,0 +1,9 @@
+2023/08/07-02:33:35.660 3 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/07-02:33:35.662 3 Recovering log #8
+2023/08/07-02:33:35.662 3 Reusing old log /home/teenarp2026/.config/google-chrome/Default/Local Storage/leveldb/000008.log 
+2023/08/07-02:35:34.983 5 Level-0 table #12: started
+2023/08/07-02:35:34.986 5 Level-0 table #12: 69226 bytes OK
+2023/08/07-02:35:34.989 5 Delete type=0 #8
+2023/08/07-02:36:56.167 5 Level-0 table #14: started
+2023/08/07-02:36:56.174 5 Level-0 table #14: 44701 bytes OK
+2023/08/07-02:36:56.177 5 Delete type=0 #11

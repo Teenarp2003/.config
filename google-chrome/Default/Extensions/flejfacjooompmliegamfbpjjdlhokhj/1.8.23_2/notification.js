@@ -1,0 +1,23 @@
+export var template = `
+	<div id="notification" class="notification card">
+			<img src="/icons/close.svg" id="closebutton"/>
+			<div id="notificationTop"><div id="appname">App Name</div><div>-</div><div class="notificationdevice" id="device">Nexus 6</div></div>
+			<div class="notificationBody">
+				<div id="notificationleft" class="notificationleft">
+					<div id="iconcontainer"><img class="notificationicon" id="icon" src="/icons/icon.png"/></div>
+					<img class="notificationiconapp" id="iconapp" src="/icons/icon.png" />
+				</div>
+				<div id="notificationright" class="notificationright">
+					<div id="textanddate">
+						<div class="notificationtitle" id="title">Title</div>
+						<div id="date"></div>
+					</div>
+					<div class="notificationtext" id="text">Text</div>
+				</div>
+			</div>
+			<div>
+				<img class="notificationimage" id="image"/>
+			</div>
+			<div class="notificationbuttons" id="buttons">
+			</div>
+		</div>`

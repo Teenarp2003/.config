@@ -1,0 +1,17 @@
+:root {
+	--theme-accent-color: #FF9800;
+	--theme-accent-color-lowlight: #757575;
+	--theme-text-color: black;
+	--theme-background-color: white;
+	--theme-background-color-hover: #eeeeee;
+	--theme-background-color-panel: #F0F0F0;
+
+
+	--theme-text-color-link: var(--theme-accent-color);
+	--theme-tab-color: var(--theme-accent-color);
+	--theme-title-color: var(--theme-accent-color);
+
+	/*Will be generated automaticalle*/
+	--theme-accent-color-light: var(--theme-accent-color);
+	--theme-accent-color-dark: var(--theme-accent-color);
+}

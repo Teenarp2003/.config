@@ -1,2 +1,6 @@
+audio.equalizer.low_mid_peak_gain_v2=223696213
+audio.equalizer.low_peak_gain_v2=626349397
+audio.equalizer_v2=true
 audio.play_bitrate_non_metered_migrated=true
-ui.show_friend_feed=false
+ui.right_panel_content=0
+audio.equalizer.low_shelf_gain_v2=760567125

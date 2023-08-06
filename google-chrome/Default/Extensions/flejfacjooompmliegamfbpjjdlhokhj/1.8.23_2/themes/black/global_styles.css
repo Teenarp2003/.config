@@ -1,0 +1,14 @@
+:root {
+
+}
+
+.smsmessage {
+	background-color: white;
+	color: black;
+}
+.smsbubbletriangle polygon {
+	fill: white;
+}
+.smsmessagedate {
+	color: black;
+}

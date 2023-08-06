@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "Відтворення у режимі попереднього перегляду • Відтворення повних пісень через Apple Music"
+   },
+   "am_button_connect": {
+      "message": "Підключити"
+   },
+   "am_button_disconnect": {
+      "message": "Відключити"
+   },
+   "am_button_openin": {
+      "message": "Відкрити у"
+   },
+   "am_button_playfull": {
+      "message": "Слухати повну пісню"
+   },
+   "am_offer_3": {
+      "message": "До 3 місяців Apple Music безкоштовно"
+   },
+   "am_offer_4": {
+      "message": "До 4 місяців Apple Music безкоштовно"
+   },
+   "button_back": {
+      "message": "Назад"
+   },
+   "button_cancel": {
+      "message": "Скасувати"
+   },
+   "button_done": {
+      "message": "Готово"
+   },
+   "button_hide": {
+      "message": "Сховати"
+   },
+   "button_not_now": {
+      "message": "Не зараз"
+   },
+   "button_rate": {
+      "message": "Оцінити"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "Видалити усі шазами"
+   },
+   "delete_sub": {
+      "message": "Дійсно видалити всі шазами?"
+   },
+   "disconnect_main": {
+      "message": "Відключитися від Apple Music"
+   },
+   "disconnect_sub": {
+      "message": "Попередній перегляд пісень все ще буде доступний"
+   },
+   "extDesc": {
+      "message": "Розпізнавайте музику, знаходьте тексти пісень тощо"
+   },
+   "extName": {
+      "message": "Shazam: знаходьте назви пісень у браузері"
+   },
+   "general_shazams": {
+      "message": "Шазами"
+   },
+   "library_clear": {
+      "message": "Очистити бібліотеку"
+   },
+   "library_new": {
+      "message": "Додати"
+   },
+   "library_no_shazams_main": {
+      "message": "Шазамів наразі немає"
+   },
+   "library_no_shazams_sub": {
+      "message": "Прошазамте пісню та знайдіть її тут"
+   },
+   "library_toggle": {
+      "message": "Переключити бібліотеку"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "Не вдалося визначити"
+   },
+   "nomatch_no_audio": {
+      "message": "Переконайтеся, що ви у вкладці, де відтворюється музика"
+   },
+   "nomatch_no_audio_main": {
+      "message": "У цій вкладці музика не відтворюється"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "Переконайтеся, що ви у вкладці, де відтворюється музика, та повторіть спробу"
+   },
+   "nomatch_no_result": {
+      "message": "Немає результатів"
+   },
+   "nomatch_please_try_again": {
+      "message": "Повторіть спробу."
+   },
+   "nomatch_try_again": {
+      "message": "Повторіть спробу"
+   },
+   "rate_shazam_main": {
+      "message": "Подобається Shazam?"
+   },
+   "rate_shazam_sub": {
+      "message": "Поділіться своєю думкою з іншими. Оцініть Shazam в магазині додатків"
+   },
+   "shazambutton_click": {
+      "message": "Натисніть Shazam"
+   },
+   "shazambutton_listening_main1": {
+      "message": "Прослуховується"
+   },
+   "shazambutton_listening_main2": {
+      "message": "Пошук збігу"
+   },
+   "shazambutton_listening_main3": {
+      "message": "Розширення пошуку"
+   },
+   "shazambutton_listening_main4": {
+      "message": "Це не так просто"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "Не оновлюйте і не закривайте вкладку"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "Зачекайте"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "Тримайтеся"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "Остання спроба"
+   },
+   "shazambutton_subtext": {
+      "message": "Просто відкрийте вкладку відтворення музики і натисніть кнопку Shazam"
+   }
+}

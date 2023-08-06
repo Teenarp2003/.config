@@ -1,0 +1,137 @@
+{
+   "am_banner": {
+      "message": "Çalma Önizlemesi • Apple Music ile tam şarkıyı çal"
+   },
+   "am_button_connect": {
+      "message": "Bağlan"
+   },
+   "am_button_disconnect": {
+      "message": "Bağlantıyı kes"
+   },
+   "am_button_openin": {
+      "message": "Şunda Aç:"
+   },
+   "am_button_playfull": {
+      "message": "Şarkının Tamamını Çal"
+   },
+   "am_offer_3": {
+      "message": "3 aya kadar ücretsiz Apple Music al"
+   },
+   "am_offer_4": {
+      "message": "4 aya kadar ücretsiz Apple Music üyeliği"
+   },
+   "button_back": {
+      "message": "Geri"
+   },
+   "button_cancel": {
+      "message": "İptal"
+   },
+   "button_done": {
+      "message": "Bitti"
+   },
+   "button_hide": {
+      "message": "Gizle"
+   },
+   "button_not_now": {
+      "message": "Şimdi değil"
+   },
+   "button_rate": {
+      "message": "Puan ver"
+   },
+   "delete_all": {
+      "message": "Delete All"
+   },
+   "delete_main": {
+      "message": "Tüm Shazam’ları sil"
+   },
+   "delete_sub": {
+      "message": "Bütün Shazam’larını silmek istediğinden emin misin?"
+   },
+   "disconnect_main": {
+      "message": "Apple Music'le bağlantıyı kes"
+   },
+   "disconnect_sub": {
+      "message": "Şarkı önizlemeleri yine kullanılabilecek"
+   },
+   "extDesc": {
+      "message": "Müziği tanımla, sözleri ara ve daha fazlasını yap"
+   },
+   "extName": {
+      "message": "Shazam: Tarayıcından şarkı isimlerini ara"
+   },
+   "general_shazams": {
+      "message": "Shazam"
+   },
+   "library_clear": {
+      "message": "Kitaplığı Sil"
+   },
+   "library_new": {
+      "message": "Yeni"
+   },
+   "library_no_shazams_main": {
+      "message": "Henüz Shazam Yok"
+   },
+   "library_no_shazams_sub": {
+      "message": "Bir şarkıyı Shazam'la ve burada bul"
+   },
+   "library_toggle": {
+      "message": "Kitaplığı Aç/Kapat"
+   },
+   "nomatch_couldnt_catch": {
+      "message": "Bunu pek anlayamadım"
+   },
+   "nomatch_no_audio": {
+      "message": "Müzik çalan sekmede olduğundan emin ol"
+   },
+   "nomatch_no_audio_main": {
+      "message": "Bu sekmede çalan müzik yok"
+   },
+   "nomatch_no_audio_sub": {
+      "message": "Müzik çalan sekmede olduğundan emin ol ve yeniden dene"
+   },
+   "nomatch_no_result": {
+      "message": "Sonuç yok."
+   },
+   "nomatch_please_try_again": {
+      "message": "Lütfen tekrar dene."
+   },
+   "nomatch_try_again": {
+      "message": "Tekrar Dene"
+   },
+   "rate_shazam_main": {
+      "message": "Shazam'ı beğendin mi?"
+   },
+   "rate_shazam_sub": {
+      "message": "Herkese duyur. Uygulama mağazasında puan ver"
+   },
+   "shazambutton_click": {
+      "message": "Shazam’lamak için tıkla"
+   },
+   "shazambutton_listening_main1": {
+      "message": "Dinliyor"
+   },
+   "shazambutton_listening_main2": {
+      "message": "Bir eşleşme aranıyor"
+   },
+   "shazambutton_listening_main3": {
+      "message": "Arama genişletiliyor"
+   },
+   "shazambutton_listening_main4": {
+      "message": "Bu şarkıyı tanımakta zorlanıyorum"
+   },
+   "shazambutton_listening_sub1": {
+      "message": "Lütfen bu sekmeyi yenilemeyin veya kapatmayın"
+   },
+   "shazambutton_listening_sub2": {
+      "message": "Lütfen Bekleyin"
+   },
+   "shazambutton_listening_sub3": {
+      "message": "Sıkı durun"
+   },
+   "shazambutton_listening_sub4": {
+      "message": "Son deneme"
+   },
+   "shazambutton_subtext": {
+      "message": "Müzik çalan sekmeye git ve Shazam Düğmesine tıkla"
+   }
+}
