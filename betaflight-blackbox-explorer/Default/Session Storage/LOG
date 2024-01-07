@@ -1,2 +1,3 @@
-2023/08/07-01:13:42.967 2f0f4 Creating DB /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/Session Storage since it was missing.
-2023/08/07-01:13:42.971 2f0f4 Reusing MANIFEST /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/Session Storage/MANIFEST-000001
+2023/08/13-18:25:00.603 1203b2 Reusing MANIFEST /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/Session Storage/MANIFEST-000001
+2023/08/13-18:25:00.604 1203b2 Recovering log #3
+2023/08/13-18:25:00.604 1203b2 Reusing old log /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/Session Storage/000003.log 

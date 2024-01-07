@@ -1,0 +1,79 @@
+Visual Studio Code (1.80.2, undefined, desktop)
+Jupyter Extension Version: 2023.6.1101941928.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/opencv-new, Home = /home/teenarp2026
+13:44:35.434 [info] User belongs to experiment group 'FastKernelPicker'
+13:44:35.435 [info] User belongs to experiment group 'NewRemoteUriStorage'
+13:44:35.435 [info] User belongs to experiment group 'PasswordManager'
+13:44:35.872 [info] Start refreshing Kernel Picker (1692000875872)
+13:44:35.879 [info] Using Pylance
+13:44:35.940 [info] Start refreshing Interpreter Kernel Picker
+13:44:37.569 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd08b9537a27d5af55cd71cf38fa39b3d60504c7e6272b1a3e985840b6eeaa57a79.~/Documents/opencv-new/.venv/python.~/Documents/opencv-new/.venv/python.-m#ipykernel_launcher  (Python Path: ~/Documents/opencv-new/.venv/bin/python, Venv, .venv, 3.11.3) for '~/Documents/opencv-new/mazesolve.ipynb' (disableUI=true)
+13:44:37.735 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m pip list
+13:44:37.757 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+13:44:37.772 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"facb187c-bf2a-42e5-a9df-3af3ba1a379d" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-21800FXSwHalXPzo.json
+    > cwd: ~/Documents/opencv-new
+13:44:39.514 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+13:44:39.517 [info] ipykernel version & path 6.25.1, ~/Documents/opencv-new/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/opencv-new/.venv/bin/python
+13:44:39.824 [info] Started Kernel .venv (Python 3.11.3) (pid: 2937)
+13:44:39.824 [info] Started new session 8eae371f-8c7a-4916-b8db-3b076c58b75b
+13:44:39.898 [info] End refreshing Kernel Picker (1692000875872)
+13:44:39.937 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/pythonFiles/printJupyterDataDir.py
+13:45:26.487 [info] Handle Execution of Cells 1 for ~/Documents/opencv-new/mazesolve.ipynb
+13:45:26.514 [info] Kernel acknowledged execution of cell 1 @ 1692000926499
+13:45:26.856 [info] End cell 1 execution @ 1692000926850, started @ 1692000926499, elapsed time = 0.351s
+13:45:26.856 [warn] Cancel all remaining cells due to cancellation or failure in execution
+13:45:30.396 [info] Handle Execution of Cells 0 for ~/Documents/opencv-new/mazesolve.ipynb
+13:45:30.407 [info] Kernel acknowledged execution of cell 0 @ 1692000930401
+13:45:32.419 [info] End cell 0 execution @ 1692000932415, started @ 1692000930401, elapsed time = 2.014s
+13:45:34.945 [info] Handle Execution of Cells 1 for ~/Documents/opencv-new/mazesolve.ipynb
+13:45:34.965 [info] Kernel acknowledged execution of cell 1 @ 1692000934951
+13:45:51.802 [info] End cell 1 execution @ 1692000951770, started @ 1692000934951, elapsed time = 16.819s
+13:45:55.841 [info] Handle Execution of Cells 2 for ~/Documents/opencv-new/mazesolve.ipynb
+13:45:55.854 [info] Kernel acknowledged execution of cell 2 @ 1692000955846
+13:45:58.167 [info] End cell 2 execution @ 1692000958155, started @ 1692000955846, elapsed time = 2.309s
+13:46:05.420 [info] Handle Execution of Cells 3 for ~/Documents/opencv-new/mazesolve.ipynb
+13:46:05.438 [info] Kernel acknowledged execution of cell 3 @ 1692000965425
+13:46:08.329 [info] End cell 3 execution @ 1692000968320, started @ 1692000965425, elapsed time = 2.895s
+13:46:18.182 [info] Handle Execution of Cells 4 for ~/Documents/opencv-new/mazesolve.ipynb
+13:46:18.203 [info] Kernel acknowledged execution of cell 4 @ 1692000978187
+13:46:20.103 [info] End cell 4 execution @ 1692000980074, started @ 1692000978187, elapsed time = 1.887s
+14:06:05.656 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd08b9537a27d5af55cd71cf38fa39b3d60504c7e6272b1a3e985840b6eeaa57a79.~/Documents/opencv-new/.venv/python.~/Documents/opencv-new/.venv/python.-m#ipykernel_launcher  (Python Path: ~/Documents/opencv-new/.venv/bin/python, Venv, .venv, 3.11.3) for '~/Documents/opencv-new/1.blur.ipynb' (disableUI=true)
+14:06:05.864 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m pip list
+14:06:05.885 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+14:06:05.903 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"f096ac34-25ed-4eca-a3d7-044f6a1251e3" --shell=9007 --transport="tcp" --iopub=9009 --f=~/.local/share/jupyter/runtime/kernel-v2-2180rvAwQ56qBCWJ.json
+    > cwd: ~/Documents/opencv-new
+14:06:06.353 [info] ipykernel version & path 6.25.1, ~/Documents/opencv-new/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/opencv-new/.venv/bin/python
+14:06:06.959 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+14:06:07.159 [info] Started Kernel .venv (Python 3.11.3) (pid: 164299)
+14:06:07.159 [info] Started new session b18f6175-7311-40ca-bb8d-e2530196abd4
+14:06:07.409 [warn] No interpreter for Pylance for Notebook URI "~/Documents/vscode/Untitled-1.ipynb"
+14:06:22.732 [warn] No interpreter for Pylance for Notebook URI "~/Documents/vscode/trial1.ipynb"
+14:07:28.996 [info] Handle Execution of Cells 0 for ~/Documents/vscode/trial1.ipynb
+14:07:28.999 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd08b9537a27d5af55cd71cf38fa39b3d60504c7e6272b1a3e985840b6eeaa57a79.~/Documents/opencv-new/.venv/python.~/Documents/opencv-new/.venv/python.-m#ipykernel_launcher  (Python Path: ~/Documents/opencv-new/.venv/bin/python, Venv, .venv, 3.11.3) for '~/Documents/vscode/trial1.ipynb' (disableUI=false)
+14:07:29.204 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+14:07:29.221 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9013 --control=9011 --hb=9010 --Session.signature_scheme="hmac-sha256" --Session.key=b"54aa331f-c5ea-4ce2-855f-f57e7564e64c" --shell=9012 --transport="tcp" --iopub=9014 --f=~/.local/share/jupyter/runtime/kernel-v2-2180gggaL39J0HV1.json
+    > cwd: ~/Documents/vscode
+14:07:29.637 [info] ipykernel version & path 6.25.1, ~/Documents/opencv-new/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/opencv-new/.venv/bin/python
+14:07:30.183 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+14:07:30.450 [info] Started Kernel .venv (Python 3.11.3) (pid: 174598)
+14:07:30.450 [info] Started new session 10a60964-7158-47ad-a58a-b7625996c128
+14:07:30.509 [info] Kernel acknowledged execution of cell 0 @ 1692002250504
+14:07:30.766 [warn] StdErr from Kernel Process [ WARN:0@0.022] global loadsave.cpp:248 findDecoder imread_('maze1.jpg'): can't open/read file: check file path/integrity
+14:07:31.312 [info] End cell 0 execution @ 1692002251306, started @ 1692002250504, elapsed time = 0.802s
+14:07:31.312 [warn] Cancel all remaining cells due to cancellation or failure in execution
+14:08:07.263 [info] Handle Execution of Cells 0 for ~/Documents/vscode/trial1.ipynb
+14:08:07.275 [info] Kernel acknowledged execution of cell 0 @ 1692002287268
+14:08:07.278 [warn] StdErr from Kernel Process [ WARN:0@36.528] global loadsave.cpp:248 findDecoder imread_('maze1.jpg'): can't open/read file: check file path/integrity
+14:08:07.299 [info] End cell 0 execution @ 1692002287295, started @ 1692002287268, elapsed time = 0.027s
+14:08:07.299 [warn] Cancel all remaining cells due to cancellation or failure in execution

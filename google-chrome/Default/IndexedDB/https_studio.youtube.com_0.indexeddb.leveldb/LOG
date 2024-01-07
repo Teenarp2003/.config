@@ -1,0 +1,6 @@
+2023/08/13-10:51:14.143 e1910 Creating DB /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/08/13-10:51:14.153 e1910 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/13-10:51:24.767 e1911 Level-0 table #5: started
+2023/08/13-10:51:24.769 e1911 Level-0 table #5: 2530 bytes OK
+2023/08/13-10:51:24.770 e1911 Delete type=0 #3
+2023/08/13-10:51:24.770 e1911 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

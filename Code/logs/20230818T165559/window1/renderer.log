@@ -1,0 +1,15 @@
+2023-08-18 16:56:05.663 [error] Could not find pty on pty host: CodeExpectedError: Could not find pty on pty host
+    at $.O (/opt/visual-studio-code/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:27:7243)
+    at $.updateIcon (/opt/visual-studio-code/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:27:2735)
+    at Y.<computed> (/opt/visual-studio-code/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:26:22460)
+    at Object.call (/opt/visual-studio-code/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:17:4866)
+    at O.s (/opt/visual-studio-code/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at O.q (/opt/visual-studio-code/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/opt/visual-studio-code/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at C.w (/opt/visual-studio-code/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at C.x (/opt/visual-studio-code/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:10:1972)
+    at C.fire (/opt/visual-studio-code/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:10:2188)
+    at MessagePortMain.G (/opt/visual-studio-code/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:8:27085)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-08-18 16:56:08.647 [info] [perf] Render performance baseline is 292ms

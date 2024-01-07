@@ -1,0 +1,72 @@
+Visual Studio Code (1.80.2, undefined, desktop)
+Jupyter Extension Version: 2023.6.1101941928.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/opencv-new, Home = /home/teenarp2026
+00:00:18.233 [info] User belongs to experiment group 'FastKernelPicker'
+00:00:18.233 [info] User belongs to experiment group 'NewRemoteUriStorage'
+00:00:18.233 [info] User belongs to experiment group 'PasswordManager'
+00:00:18.444 [info] Start refreshing Kernel Picker (1692469818444)
+00:00:18.448 [info] Using Pylance
+00:00:18.687 [info] Start refreshing Interpreter Kernel Picker
+00:00:19.494 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd08b9537a27d5af55cd71cf38fa39b3d60504c7e6272b1a3e985840b6eeaa57a79.~/Documents/opencv-new/.venv/python.~/Documents/opencv-new/.venv/python.-m#ipykernel_launcher  (Python Path: ~/Documents/opencv-new/.venv/bin/python, Venv, .venv, 3.11.3) for '~/Documents/opencv-new/mazesolve.ipynb' (disableUI=true)
+00:00:19.496 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd08b9537a27d5af55cd71cf38fa39b3d60504c7e6272b1a3e985840b6eeaa57a79.~/Documents/opencv-new/.venv/python.~/Documents/opencv-new/.venv/python.-m#ipykernel_launcher  (Python Path: ~/Documents/opencv-new/.venv/bin/python, Venv, .venv, 3.11.3) for '~/Documents/vscode/trial1.ipynb' (disableUI=true)
+00:00:19.614 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m pip list
+00:00:19.623 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+00:00:19.631 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"6f870977-743f-4650-a9ea-48abf9bab781" --shell=9010 --transport="tcp" --iopub=9012 --f=~/.local/share/jupyter/runtime/kernel-v2-111166GwLgF51n3tSC.json
+    > cwd: ~/Documents/vscode
+00:00:19.648 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+00:00:19.660 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"3b8f8185-d56e-417e-ba1a-1dd708d20d84" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-111166mvTkwYJyzBik.json
+    > cwd: ~/Documents/opencv-new
+00:00:20.376 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+00:00:20.376 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+00:00:20.377 [info] ipykernel version & path 6.25.1, ~/Documents/opencv-new/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/opencv-new/.venv/bin/python
+00:00:20.377 [info] ipykernel version & path 6.25.1, ~/Documents/opencv-new/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/opencv-new/.venv/bin/python
+00:00:20.600 [info] Started Kernel .venv (Python 3.11.3) (pid: 111677)
+00:00:20.600 [info] Started new session a94b7dd5-f196-439b-9122-a37b0165e676
+00:00:20.604 [info] Started Kernel .venv (Python 3.11.3) (pid: 111683)
+00:00:20.604 [info] Started new session 8607438e-e2e5-4bca-b55a-e839e72a31c4
+00:00:20.641 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/pythonFiles/printJupyterDataDir.py
+00:00:20.827 [info] End refreshing Kernel Picker (1692469818444)
+00:00:51.198 [info] Handle Execution of Cells 0 for ~/Documents/opencv-new/mazesolve.ipynb
+00:00:51.208 [info] Kernel acknowledged execution of cell 0 @ 1692469851204
+00:00:51.908 [info] Handle Execution of Cells 1 for ~/Documents/opencv-new/mazesolve.ipynb
+00:00:52.268 [info] End cell 0 execution @ 1692469852265, started @ 1692469851204, elapsed time = 1.061s
+00:00:52.279 [info] Kernel acknowledged execution of cell 1 @ 1692469852270
+00:01:06.903 [info] End cell 1 execution @ 1692469866896, started @ 1692469852270, elapsed time = 14.626s
+00:01:09.504 [info] Handle Execution of Cells 2 for ~/Documents/opencv-new/mazesolve.ipynb
+00:01:09.511 [info] Kernel acknowledged execution of cell 2 @ 1692469869507
+00:01:09.906 [info] End cell 2 execution @ 1692469869903, started @ 1692469869507, elapsed time = 0.396s
+00:01:18.722 [info] Handle Execution of Cells 3 for ~/Documents/opencv-new/mazesolve.ipynb
+00:01:18.733 [info] Kernel acknowledged execution of cell 3 @ 1692469878725
+00:01:19.475 [info] End cell 3 execution @ 1692469879473, started @ 1692469878725, elapsed time = 0.748s
+00:01:30.528 [info] Handle Execution of Cells 4 for ~/Documents/opencv-new/mazesolve.ipynb
+00:01:30.546 [info] Kernel acknowledged execution of cell 4 @ 1692469890531
+00:01:31.057 [info] End cell 4 execution @ 1692469891051, started @ 1692469890531, elapsed time = 0.52s
+00:17:06.200 [info] Disposing HostJupyterExecution
+00:17:06.200 [info] Shutting down notebooks for 8f263fd3-aec2-4551-af98-41e14df8a69c
+00:17:06.201 [info] Dispose Kernel '~/Documents/opencv-new/mazesolve.ipynb' associated with '~/Documents/opencv-new/mazesolve.ipynb'
+00:17:06.202 [info] Dispose Kernel process 111683.
+00:17:06.212 [info] Dispose Kernel '~/Documents/vscode/trial1.ipynb' associated with '~/Documents/vscode/trial1.ipynb'
+00:17:06.212 [info] Dispose Kernel process 111677.
+00:17:06.221 [info] Disposing HostJupyterExecution
+00:17:06.269 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-111166GwLgF51n3tSC.json for pid 111677 [Canceled (FileSystemError): Canceled
+	at ii.e (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:27871)
+	at Object.stat (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:24574)
+	at async mu.delete (~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:17:19237)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:24:95738] {
+  code: 'Unknown'
+}
+00:17:06.270 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-111166mvTkwYJyzBik.json for pid 111683 [Canceled (FileSystemError): Canceled
+	at ii.e (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:27871)
+	at Object.stat (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:24574)
+	at async mu.delete (~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:17:19237)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:24:95738] {
+  code: 'Unknown'
+}

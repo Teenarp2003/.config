@@ -1,2 +1,4 @@
-2023/08/07-00:56:10.006 e96e Creating DB /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
-2023/08/07-00:56:10.009 e96e Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/22-19:18:40.746 1988 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/22-19:18:40.746 1988 Recovering log #73
+2023/08/22-19:18:40.749 1988 Reusing old log /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000073.log 
+2023/08/22-19:18:40.749 1988 Delete type=2 #76

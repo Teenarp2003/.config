@@ -1,0 +1,31 @@
+2023-08-16 16:29:21.652 [info] Experiment 'pythonaa' is active
+2023-08-16 16:29:21.652 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-16 16:29:21.652 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-16 16:29:21.652 [info] Experiment 'pythonTestAdaptercf' is active
+2023-08-16 16:29:21.652 [info] Test server listening.
+2023-08-16 16:29:21.652 [info] > conda info --json
+2023-08-16 16:29:21.652 [info] Python interpreter path: ./.venv/bin/python
+2023-08-16 16:29:21.702 [info] Found: /bin/python --> /bin/python3.11
+2023-08-16 16:29:21.744 [info] Found: /bin/python3 --> /bin/python3.11
+2023-08-16 16:29:21.745 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-08-16 16:29:21.863 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2023-08-16 16:29:21.863 [info] shell: bash
+2023-08-16 16:29:21.870 [info] Found: /sbin/python --> /sbin/python3.11
+2023-08-16 16:29:21.881 [info] > ./.venv/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-16 16:29:21.882 [info] Found: /sbin/python3 --> /sbin/python3.11
+2023-08-16 16:29:21.883 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2023-08-16 16:29:21.906 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2023-08-16 16:29:21.906 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-08-16 16:29:21.906 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-08-16 16:29:21.945 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2023-08-16 16:29:21.945 [info] shell: bash
+2023-08-16 16:29:21.945 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2023-08-16 16:29:21.948 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2023-08-16 16:29:21.948 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2023-08-16 16:29:21.963 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-16 16:29:21.982 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-16 16:29:22.026 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2023-08-16 16:29:22.026 [info] shell: bash
+2023-08-16 16:29:22.141 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-16 16:29:22.175 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-16 16:29:23.828 [info] Starting Pylance language server.

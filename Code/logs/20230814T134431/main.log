@@ -1,0 +1,17 @@
+2023-08-14 13:44:31.493 [info] update#setState idle
+2023-08-14 13:44:36.085 [error] update#isLatestVersion(): failed to check for updates
+2023-08-14 13:44:36.086 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-08-14 13:45:01.499 [info] update#setState checking for updates
+2023-08-14 13:45:01.505 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-08-14 13:45:01.507 [info] update#setState idle
+2023-08-14 14:08:55.724 [error] [UtilityProcess type: shared-process, pid: 2312]: crashed with code 15 and reason 'killed'
+2023-08-14 14:08:55.730 [error] ptyHost terminated unexpectedly with code 15
+2023-08-14 14:08:55.766 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-08-14 14:08:55.766 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 2315]: crashed with code 15 and reason 'killed'
+2023-08-14 14:08:55.778 [info] Extension host with pid 2180 exited with code: 15, signal: unknown.
+2023-08-14 14:08:55.779 [error] [UtilityProcess id: 1, type: extensionHost, pid: 2180]: crashed with code 15 and reason 'killed'
+2023-08-14 14:08:55.787 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

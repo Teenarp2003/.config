@@ -1,0 +1,61 @@
+Visual Studio Code (1.80.2, undefined, desktop)
+Jupyter Extension Version: 2023.6.1101941928.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/opencv-new, Home = /home/teenarp2026
+10:35:04.436 [info] User belongs to experiment group 'FastKernelPicker'
+10:35:04.436 [info] User belongs to experiment group 'NewRemoteUriStorage'
+10:35:04.436 [info] User belongs to experiment group 'PasswordManager'
+10:35:04.672 [info] Start refreshing Kernel Picker (1692335104672)
+10:35:04.677 [info] Using Pylance
+10:35:04.891 [info] Start refreshing Interpreter Kernel Picker
+10:35:05.552 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd08b9537a27d5af55cd71cf38fa39b3d60504c7e6272b1a3e985840b6eeaa57a79.~/Documents/opencv-new/.venv/python.~/Documents/opencv-new/.venv/python.-m#ipykernel_launcher  (Python Path: ~/Documents/opencv-new/.venv/bin/python, Venv, .venv, 3.11.3) for '~/Documents/opencv-new/mazesolve.ipynb' (disableUI=true)
+10:35:05.553 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd08b9537a27d5af55cd71cf38fa39b3d60504c7e6272b1a3e985840b6eeaa57a79.~/Documents/opencv-new/.venv/python.~/Documents/opencv-new/.venv/python.-m#ipykernel_launcher  (Python Path: ~/Documents/opencv-new/.venv/bin/python, Venv, .venv, 3.11.3) for '~/Documents/vscode/trial1.ipynb' (disableUI=true)
+10:35:05.637 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m pip list
+10:35:05.664 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:35:05.672 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"e74c5e41-ce95-4380-9d60-17d759b67f55" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-163157k4p9UaCtCyxr.json
+    > cwd: ~/Documents/opencv-new
+10:35:05.688 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:35:05.699 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"be7e4efe-f95a-42d9-aae0-65ed4e10cd16" --shell=9010 --transport="tcp" --iopub=9012 --f=~/.local/share/jupyter/runtime/kernel-v2-163157XaRaGaBcuGN3.json
+    > cwd: ~/Documents/vscode
+10:35:06.484 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10:35:06.484 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10:35:06.486 [info] ipykernel version & path 6.25.1, ~/Documents/opencv-new/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/opencv-new/.venv/bin/python
+10:35:06.486 [info] ipykernel version & path 6.25.1, ~/Documents/opencv-new/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/opencv-new/.venv/bin/python
+10:35:06.538 [warn] StdErr from Kernel Process ~/Documents/opencv-new/.venv/lib/python3.11/site-packages/traitlets/traitlets.py:2548: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+10:35:06.538 [warn] StdErr from Kernel Process ~/Documents/opencv-new/.venv/lib/python3.11/site-packages/traitlets/traitlets.py:2499: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'be7e4efe-f95a-42d9-aae0-65ed4e10cd16' instead of 'b"be7e4efe-f95a-42d9-aae0-65ed4e10cd16"'.
+  warn(
+10:35:06.716 [info] Started Kernel .venv (Python 3.11.3) (pid: 163784)
+10:35:06.716 [info] Started new session e5260959-faec-4ca4-becd-98306bc75a79
+10:35:06.719 [info] Started Kernel .venv (Python 3.11.3) (pid: 163778)
+10:35:06.719 [info] Started new session 1d194ab4-2e42-4010-89fe-1296b17c3558
+10:35:06.753 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/pythonFiles/printJupyterDataDir.py
+10:35:06.928 [info] End refreshing Kernel Picker (1692335104672)
+10:35:09.302 [info] Disposing HostJupyterExecution
+10:35:09.302 [info] Shutting down notebooks for 2c95966f-24d8-4f5e-8841-2bf6770761d2
+10:35:09.302 [info] Dispose Kernel '~/Documents/opencv-new/mazesolve.ipynb' associated with '~/Documents/opencv-new/mazesolve.ipynb'
+10:35:09.303 [info] Dispose Kernel process 163778.
+10:35:09.314 [info] Dispose Kernel '~/Documents/vscode/trial1.ipynb' associated with '~/Documents/vscode/trial1.ipynb'
+10:35:09.315 [info] Dispose Kernel process 163784.
+10:35:09.326 [info] Disposing HostJupyterExecution
+10:35:09.363 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-163157XaRaGaBcuGN3.json for pid 163784 [Canceled (FileSystemError): Canceled
+	at ii.e (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:27871)
+	at Object.stat (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:24574)
+	at async mu.delete (~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:17:19237)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:24:95738] {
+  code: 'Unknown'
+}
+10:35:09.363 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-163157k4p9UaCtCyxr.json for pid 163778 [Canceled (FileSystemError): Canceled
+	at ii.e (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:27871)
+	at Object.stat (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:24574)
+	at async mu.delete (~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:17:19237)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:24:95738] {
+  code: 'Unknown'
+}

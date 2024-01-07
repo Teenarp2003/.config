@@ -1,0 +1,13 @@
+2023-08-16 16:29:19.151 [info] update#setState idle
+2023-08-16 16:29:49.155 [info] update#setState checking for updates
+2023-08-16 16:29:49.159 [info] update#setState available for download
+2023-08-16 16:39:31.298 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-08-16 16:39:31.299 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 909641]: crashed with code 15 and reason 'killed'
+2023-08-16 16:39:31.385 [info] Extension host with pid 909661 exited with code: 0, signal: unknown.
+2023-08-16 16:41:45.770 [error] ptyHost terminated unexpectedly with code 15
+2023-08-16 16:41:45.791 [info] Extension host with pid 833089 exited with code: 15, signal: unknown.
+2023-08-16 16:41:45.792 [error] [UtilityProcess id: 1, type: extensionHost, pid: 833089]: crashed with code 15 and reason 'killed'
+2023-08-16 16:41:45.798 [error] [UtilityProcess type: shared-process, pid: 833258]: crashed with code 15 and reason 'killed'
+2023-08-16 16:41:45.802 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2023-08-16 16:41:45.830 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-08-16 16:41:45.832 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 833259]: crashed with code 15 and reason 'killed'

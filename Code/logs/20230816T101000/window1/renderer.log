@@ -1,0 +1,3 @@
+2023-08-16 10:10:03.380 [error] Offline: Offline: Offline
+    at y.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:1328)
+2023-08-16 10:10:07.810 [info] [perf] Render performance baseline is 133ms

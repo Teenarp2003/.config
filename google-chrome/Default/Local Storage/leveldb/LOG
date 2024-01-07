@@ -1,9 +1,26 @@
-2023/08/07-02:33:35.660 3 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/07-02:33:35.662 3 Recovering log #8
-2023/08/07-02:33:35.662 3 Reusing old log /home/teenarp2026/.config/google-chrome/Default/Local Storage/leveldb/000008.log 
-2023/08/07-02:35:34.983 5 Level-0 table #12: started
-2023/08/07-02:35:34.986 5 Level-0 table #12: 69226 bytes OK
-2023/08/07-02:35:34.989 5 Delete type=0 #8
-2023/08/07-02:36:56.167 5 Level-0 table #14: started
-2023/08/07-02:36:56.174 5 Level-0 table #14: 44701 bytes OK
-2023/08/07-02:36:56.177 5 Delete type=0 #11
+2023/08/22-19:18:37.867 3 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/22-19:18:37.868 3 Recovering log #625
+2023/08/22-19:18:37.869 3 Reusing old log /home/teenarp2026/.config/google-chrome/Default/Local Storage/leveldb/000625.log 
+2023/08/22-19:18:59.392 3 Level-0 table #629: started
+2023/08/22-19:18:59.395 3 Level-0 table #629: 44579 bytes OK
+2023/08/22-19:18:59.398 3 Delete type=0 #625
+2023/08/22-19:18:59.398 3 Compacting 4@0 + 2@1 files
+2023/08/22-19:18:59.457 3 Generated table #630@0: 724 keys, 2231882 bytes
+2023/08/22-19:18:59.507 3 Generated table #631@0: 2633 keys, 1515028 bytes
+2023/08/22-19:18:59.507 3 Compacted 4@0 + 2@1 files => 3746910 bytes
+2023/08/22-19:18:59.509 3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/22-19:18:59.511 3 Delete type=2 #619
+2023/08/22-19:18:59.511 3 Delete type=2 #624
+2023/08/22-19:18:59.511 3 Delete type=2 #629
+2023/08/22-19:18:59.511 3 Delete type=2 #626
+2023/08/22-19:18:59.511 3 Delete type=2 #622
+2023/08/22-19:18:59.511 3 Delete type=2 #618
+2023/08/22-19:21:34.336 5 Level-0 table #633: started
+2023/08/22-19:21:34.343 5 Level-0 table #633: 18121 bytes OK
+2023/08/22-19:21:34.345 5 Delete type=0 #628
+2023/08/22-19:31:34.336 5 Level-0 table #635: started
+2023/08/22-19:31:34.343 5 Level-0 table #635: 63685 bytes OK
+2023/08/22-19:31:34.346 5 Delete type=0 #632
+2023/08/22-19:41:34.336 3 Level-0 table #637: started
+2023/08/22-19:41:34.343 3 Level-0 table #637: 13978 bytes OK
+2023/08/22-19:41:34.346 3 Delete type=0 #634

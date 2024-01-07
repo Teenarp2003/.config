@@ -1,0 +1,59 @@
+2023-08-14 13:44:41.356 [info] [Info  - 1:44:41 PM] (3280) Pylance language server 2023.8.20 (pyright fcee52c7) starting
+2023-08-14 13:44:41.357 [info] [Info  - 1:44:41 PM] (3280) Server root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist
+2023-08-14 13:44:41.378 [info] [Info  - 1:44:41 PM] (3280) Starting service instance "opencv-new"
+2023-08-14 13:44:41.511 [info] [Info  - 1:44:41 PM] (3280) Setting pythonPath for service "opencv-new": "/home/teenarp2026/Documents/opencv-new/.venv/bin/python"
+2023-08-14 13:44:41.520 [info] [Warn  - 1:44:41 PM] (3280) stubPath /home/teenarp2026/Documents/opencv-new/typings is not a valid directory.
+2023-08-14 13:44:41.623 [info] [Info  - 1:44:41 PM] (3280) Assuming Python version 3.11
+2023-08-14 13:44:41.852 [info] [Info  - 1:44:41 PM] (3280) Found 1 source file
+2023-08-14 13:44:42.833 [info] [Info  - 1:44:42 PM] (3280) Background analysis(1) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist
+2023-08-14 13:44:42.834 [info] [Info  - 1:44:42 PM] (3280) Background analysis(1) started
+2023-08-14 13:44:43.186 [info] [Info  - 1:44:43 PM] (3280) Indexer background runner(2) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist (index)
+2023-08-14 13:44:43.186 [info] [Info  - 1:44:43 PM] (3280) Indexing(2) started
+2023-08-14 13:44:44.818 [info] [Info  - 1:44:44 PM] (3280) scanned(2) 163 files over 1 exec env
+2023-08-14 13:44:45.887 [info] [Info  - 1:44:45 PM] (3280) [BG(1)] Long operation: analyzing: /home/teenarp2026/Documents/opencv-new/mazesolve.ipynb:pylance-notebook-cell:pylancePrefixCell.py (2377ms)
+2023-08-14 13:44:49.233 [info] [Info  - 1:44:49 PM] (3280) [IDX(2)] Long operation: index execution environment /home/teenarp2026/Documents/opencv-new (4236ms)
+2023-08-14 13:44:49.235 [info] [Info  - 1:44:49 PM] (3280) [IDX(2)] Long operation: index packages /home/teenarp2026/Documents/opencv-new (4280ms)
+2023-08-14 13:44:49.236 [info] [Info  - 1:44:49 PM] (3280) indexed(2) 121 files over 1 exec env
+2023-08-14 13:44:49.284 [info] [Info  - 1:44:49 PM] (3280) Indexing finished(2).
+2023-08-14 13:55:40.889 [info] [Info  - 1:55:40 PM] (3280) Indexer background runner(3) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist (refresh)
+2023-08-14 13:55:40.889 [info] [Info  - 1:55:40 PM] (3280) Indexing(3) started
+2023-08-14 13:55:41.952 [info] [Info  - 1:55:41 PM] (3280) [BG(1)] Long operation: analyzing: /home/teenarp2026/Documents/opencv-new/mazesolve.py (2134ms)
+2023-08-14 13:55:42.160 [info] [Info  - 1:55:42 PM] (3280) scanned(3) 163 files over 1 exec env
+2023-08-14 13:55:46.195 [info] [Info  - 1:55:46 PM] (3280) [IDX(3)] Long operation: index execution environment /home/teenarp2026/Documents/opencv-new (3842ms)
+2023-08-14 13:55:46.197 [info] [Info  - 1:55:46 PM] (3280) [IDX(3)] Long operation: index packages /home/teenarp2026/Documents/opencv-new (3873ms)
+2023-08-14 13:55:46.197 [info] [Info  - 1:55:46 PM] (3280) indexed(3) 121 files over 1 exec env
+2023-08-14 13:55:46.244 [info] [Info  - 1:55:46 PM] (3280) Indexing finished(3).
+2023-08-14 13:56:13.673 [info] [Info  - 1:56:13 PM] (3280) Indexer background runner(4) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist (refresh)
+2023-08-14 13:56:13.673 [info] [Info  - 1:56:13 PM] (3280) Indexing(4) started
+2023-08-14 13:56:14.803 [info] [Info  - 1:56:14 PM] (3280) scanned(4) 163 files over 1 exec env
+2023-08-14 13:56:18.455 [info] [Info  - 1:56:18 PM] (3280) [IDX(4)] Long operation: index execution environment /home/teenarp2026/Documents/opencv-new (3498ms)
+2023-08-14 13:56:18.457 [info] [Info  - 1:56:18 PM] (3280) [IDX(4)] Long operation: index packages /home/teenarp2026/Documents/opencv-new (3529ms)
+2023-08-14 13:56:18.458 [info] [Info  - 1:56:18 PM] (3280) indexed(4) 121 files over 1 exec env
+2023-08-14 13:56:18.554 [info] [Info  - 1:56:18 PM] (3280) Indexing finished(4).
+2023-08-14 14:06:07.414 [info] [Info  - 2:06:07 PM] (3280) Starting service instance "opencv-new"
+2023-08-14 14:06:07.555 [info] [Warn  - 2:06:07 PM] (3280) stubPath /home/teenarp2026/Documents/opencv-new/typings is not a valid directory.
+2023-08-14 14:06:07.718 [info] [Info  - 2:06:07 PM] (3280) Found 1 source file
+2023-08-14 14:06:08.711 [info] [Info  - 2:06:08 PM] (3280) Background analysis(5) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist
+2023-08-14 14:06:08.721 [info] [Info  - 2:06:08 PM] (3280) Background analysis(5) started
+2023-08-14 14:06:08.924 [info] [Info  - 2:06:08 PM] (3280) Indexer background runner(6) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist (index)
+2023-08-14 14:06:08.925 [info] [Info  - 2:06:08 PM] (3280) Indexing(6) started
+2023-08-14 14:06:09.900 [info] [Info  - 2:06:09 PM] (3280) scanned(6) 115 files over 1 exec env
+2023-08-14 14:06:11.352 [info] [Info  - 2:06:11 PM] (3280) [BG(5)] Long operation: analyzing: /home/teenarp2026/Documents/opencv-new/mazesolve.py (2374ms)
+2023-08-14 14:06:12.549 [info] [Info  - 2:06:12 PM] (3280) [IDX(6)] Long operation: index execution environment /home/teenarp2026/Documents/opencv-new (2494ms)
+2023-08-14 14:06:12.551 [info] [Info  - 2:06:12 PM] (3280) [IDX(6)] Long operation: index packages /home/teenarp2026/Documents/opencv-new (2510ms)
+2023-08-14 14:06:12.551 [info] [Info  - 2:06:12 PM] (3280) indexed(6) 69 files over 1 exec env
+2023-08-14 14:06:12.579 [info] [Info  - 2:06:12 PM] (3280) Indexing finished(6).
+2023-08-14 14:07:29.036 [info] [Info  - 2:07:29 PM] (3280) Starting service instance "opencv-new"
+2023-08-14 14:07:29.149 [info] [Info  - 2:07:29 PM] (3280) Setting pythonPath for service "opencv-new": "/home/teenarp2026/Documents/opencv-new/.venv/bin/python"
+2023-08-14 14:07:29.150 [info] [Warn  - 2:07:29 PM] (3280) stubPath /home/teenarp2026/Documents/opencv-new/typings is not a valid directory.
+2023-08-14 14:07:29.227 [info] [Info  - 2:07:29 PM] (3280) Assuming Python version 3.11
+2023-08-14 14:07:29.403 [info] [Info  - 2:07:29 PM] (3280) Found 1 source file
+2023-08-14 14:07:30.237 [info] [Info  - 2:07:30 PM] (3280) Background analysis(7) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist
+2023-08-14 14:07:30.247 [info] [Info  - 2:07:30 PM] (3280) Background analysis(7) started
+2023-08-14 14:07:30.725 [info] [Info  - 2:07:30 PM] (3280) Indexer background runner(8) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist (index)
+2023-08-14 14:07:30.726 [info] [Info  - 2:07:30 PM] (3280) Indexing(8) started
+2023-08-14 14:07:31.487 [info] [Info  - 2:07:31 PM] (3280) scanned(8) 163 files over 1 exec env
+2023-08-14 14:07:31.669 [info] [Info  - 2:07:31 PM] (3280) indexed(8) 0 files over 1 exec env
+2023-08-14 14:07:31.670 [info] [Info  - 2:07:31 PM] (3280) Indexing finished(8).
+2023-08-14 14:07:33.466 [info] [Info  - 2:07:33 PM] (3280) [BG(7)] Long operation: checking: /home/teenarp2026/Documents/opencv-new/mazesolve.py (2147ms)
+2023-08-14 14:07:33.466 [info] [Info  - 2:07:33 PM] (3280) [BG(7)] Long operation: analyzing: /home/teenarp2026/Documents/opencv-new/mazesolve.py (2846ms)

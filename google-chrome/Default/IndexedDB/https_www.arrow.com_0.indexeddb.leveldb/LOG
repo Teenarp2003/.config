@@ -1,0 +1,7 @@
+2023/08/21-11:58:35.246 22c1 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_www.arrow.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/21-11:58:35.247 22c1 Recovering log #3
+2023/08/21-11:58:35.247 22c1 Reusing old log /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_www.arrow.com_0.indexeddb.leveldb/000003.log 
+2023/08/21-11:59:07.281 22c2 Level-0 table #5: started
+2023/08/21-11:59:07.282 22c2 Level-0 table #5: 1376 bytes OK
+2023/08/21-11:59:07.283 22c2 Delete type=0 #3
+2023/08/21-11:59:07.283 22c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

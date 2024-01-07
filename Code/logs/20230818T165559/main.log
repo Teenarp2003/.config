@@ -1,0 +1,5 @@
+2023-08-18 16:56:00.119 [info] update#setState idle
+2023-08-18 16:56:30.126 [info] update#setState checking for updates
+2023-08-18 16:56:30.137 [info] update#setState available for download
+2023-08-18 17:01:32.221 [info] Extension host with pid 135169 exited with code: 0, signal: unknown.
+2023-08-18 17:01:35.449 [info] Extension host with pid 92518 exited with code: 0, signal: unknown.

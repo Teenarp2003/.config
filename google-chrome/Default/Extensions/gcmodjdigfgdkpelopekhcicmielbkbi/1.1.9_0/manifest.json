@@ -1,0 +1,31 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "images/icons-19.png",
+         "38": "images/icons-38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Adblocker Plus for Youtube™ "
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "contentscript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "128": "images/icons-128.png",
+      "16": "images/icons-16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArARLRU5HJ44NAkaWtxTGOPCDnVX12AESiOsMjHkCbzt1hx4t6GMTbDRwr0k70d7sTgTSDl40UTgGy0OtAxjPZw2/HBCgNyBYfm9Ub4h2O1DdRfghXGmGq0Vo1pyA33wk1HBwhwXxIhKjQTXbZ2kHhGM0jxC/aBHuvjicaZ/rex536g/qesdl44RQtFNgcGr5wPG83O59jlyCpcdgZ6ktrYL+JcijI47Y1mlpxeevGGfQdg233AOsdlpCOJNvYr6OsHbATPUnekXQsM66J0YXHaNu70XfveLHuPmJ0MfjXv4aFVlXlNxdTAuEw3Uhjb9EEWNFDOErbNZk2JjvzzOykwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "storage", "unlimitedStorage", "declarativeNetRequest", "tabs", "notifications", "gcm" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.9"
+}

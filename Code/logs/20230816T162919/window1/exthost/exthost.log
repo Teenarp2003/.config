@@ -1,0 +1,149 @@
+2023-08-16 16:29:20.220 [info] Extension host with pid 833089 started
+2023-08-16 16:29:20.220 [info] Skipping acquiring lock for /home/teenarp2026/.config/Code/User/workspaceStorage/b4f1bff40786b3b543bd6094b8a7a366.
+2023-08-16 16:29:20.255 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-08-16 16:29:20.280 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-16 16:29:20.285 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2023-08-16 16:29:20.340 [info] ExtensionService#_doActivateExtension illixion.vscode-vibrancy-continued, startup: true, activationEvent: '*'
+2023-08-16 16:29:20.379 [info] ExtensionService#_doActivateExtension nowsci.glassit-linux, startup: true, activationEvent: '*'
+2023-08-16 16:29:20.381 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2023-08-16 16:29:20.413 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-08-16 16:29:20.552 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-16 16:29:20.575 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-16 16:29:20.649 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-08-16 16:29:20.717 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-08-16 16:29:20.722 [error] Activating extension ms-toolsai.vscode-jupyter-cell-tags failed due to an error:
+2023-08-16 16:29:20.722 [error] Error: Cannot find module '/home/teenarp2026/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/out/extension-node.js'
+Require stack:
+- /opt/visual-studio-code/resources/app/out/vs/loader.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-amd.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-fork.js
+- 
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1010:15)
+	at s._resolveFilename (node:electron/js2c/utility_init:2:2740)
+	at Module._load (node:internal/modules/cjs/loader:858:27)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at l._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28070)
+	at p._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:25404)
+	at u._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:22191)
+	at Module.require (node:internal/modules/cjs/loader:1082:19)
+	at require (node:internal/modules/cjs/helpers:102:18)
+	at Function.i [as __$__nodeRequire] (/opt/visual-studio-code/resources/app/out/vs/loader.js:5:98)
+	at i.rb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:26583)
+	at async Promise.all (index 0)
+2023-08-16 16:29:20.723 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-08-16 16:29:20.723 [error] Activating extension ms-toolsai.vscode-jupyter-slideshow failed due to an error:
+2023-08-16 16:29:20.723 [error] Error: Cannot find module '/home/teenarp2026/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5/out/extension-node.js'
+Require stack:
+- /opt/visual-studio-code/resources/app/out/vs/loader.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-amd.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-fork.js
+- 
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1010:15)
+	at s._resolveFilename (node:electron/js2c/utility_init:2:2740)
+	at Module._load (node:internal/modules/cjs/loader:858:27)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at l._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28070)
+	at p._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:25404)
+	at u._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:22191)
+	at Module.require (node:internal/modules/cjs/loader:1082:19)
+	at require (node:internal/modules/cjs/helpers:102:18)
+	at Function.i [as __$__nodeRequire] (/opt/visual-studio-code/resources/app/out/vs/loader.js:5:98)
+	at i.rb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:26583)
+	at async Promise.all (index 0)
+2023-08-16 16:29:20.724 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2023-08-16 16:29:21.069 [info] Eager extensions activated
+2023-08-16 16:29:21.073 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-08-16 16:29:21.150 [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+2023-08-16 16:29:21.151 [error] Activating extension batisteo.vscode-django failed due to an error:
+2023-08-16 16:29:21.151 [error] Error: Cannot find module '/home/teenarp2026/.vscode/extensions/batisteo.vscode-django-1.10.0/out/extension'
+Require stack:
+- /opt/visual-studio-code/resources/app/out/vs/loader.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-amd.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-fork.js
+- 
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1010:15)
+	at s._resolveFilename (node:electron/js2c/utility_init:2:2740)
+	at Module._load (node:internal/modules/cjs/loader:858:27)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at l._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28070)
+	at p._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:25404)
+	at u._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:22191)
+	at Module.require (node:internal/modules/cjs/loader:1082:19)
+	at require (node:internal/modules/cjs/helpers:102:18)
+	at Function.i [as __$__nodeRequire] (/opt/visual-studio-code/resources/app/out/vs/loader.js:5:98)
+	at i.rb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:26583)
+	at async Promise.all (index 0)
+2023-08-16 16:29:21.152 [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent, startup: false, activationEvent: 'onLanguage:python'
+2023-08-16 16:29:21.157 [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+2023-08-16 16:29:21.158 [error] Activating extension njpwerner.autodocstring failed due to an error:
+2023-08-16 16:29:21.158 [error] Error: Cannot find module '/home/teenarp2026/.vscode/extensions/njpwerner.autodocstring-0.6.1/out/extension.js'
+Require stack:
+- /opt/visual-studio-code/resources/app/out/vs/loader.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-amd.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-fork.js
+- 
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1010:15)
+	at s._resolveFilename (node:electron/js2c/utility_init:2:2740)
+	at Module._load (node:internal/modules/cjs/loader:858:27)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at l._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28070)
+	at p._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:25404)
+	at u._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:22191)
+	at Module.require (node:internal/modules/cjs/loader:1082:19)
+	at require (node:internal/modules/cjs/helpers:102:18)
+	at Function.i [as __$__nodeRequire] (/opt/visual-studio-code/resources/app/out/vs/loader.js:5:98)
+	at i.rb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:26583)
+	at async Promise.all (index 0)
+2023-08-16 16:29:21.158 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2023-08-16 16:29:21.160 [error] Activating extension VisualStudioExptTeam.intellicode-api-usage-examples failed due to an error:
+2023-08-16 16:29:21.160 [error] Error: Cannot find module '/home/teenarp2026/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.7/dist/extension.js'
+Require stack:
+- /opt/visual-studio-code/resources/app/out/vs/loader.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-amd.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-fork.js
+- 
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1010:15)
+	at s._resolveFilename (node:electron/js2c/utility_init:2:2740)
+	at Module._load (node:internal/modules/cjs/loader:858:27)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at l._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28070)
+	at p._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:25404)
+	at u._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:22191)
+	at Module.require (node:internal/modules/cjs/loader:1082:19)
+	at require (node:internal/modules/cjs/helpers:102:18)
+	at Function.i [as __$__nodeRequire] (/opt/visual-studio-code/resources/app/out/vs/loader.js:5:98)
+	at i.rb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:26583)
+	at async Promise.all (index 0)
+2023-08-16 16:29:21.160 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2023-08-16 16:29:21.161 [error] Activating extension VisualStudioExptTeam.vscodeintellicode failed due to an error:
+2023-08-16 16:29:21.161 [error] Error: Cannot find module '/home/teenarp2026/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30/dist/intellicode'
+Require stack:
+- /opt/visual-studio-code/resources/app/out/vs/loader.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-amd.js
+- /opt/visual-studio-code/resources/app/out/bootstrap-fork.js
+- 
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1010:15)
+	at s._resolveFilename (node:electron/js2c/utility_init:2:2740)
+	at Module._load (node:internal/modules/cjs/loader:858:27)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at l._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28070)
+	at p._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:25404)
+	at u._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:22191)
+	at Module.require (node:internal/modules/cjs/loader:1082:19)
+	at require (node:internal/modules/cjs/helpers:102:18)
+	at Function.i [as __$__nodeRequire] (/opt/visual-studio-code/resources/app/out/vs/loader.js:5:98)
+	at i.rb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:26583)
+	at async Promise.all (index 0)
+2023-08-16 16:29:21.161 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-16 16:29:21.170 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-16 16:29:21.189 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-16 16:29:21.230 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:29:21.232 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:29:21.240 [info] ExtensionService#_doActivateExtension BenRogersWPG.transparent-minimap, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:29:21.243 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:29:21.249 [info] ExtensionService#_doActivateExtension Sudhan.neondark-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:29:21.251 [info] ExtensionService#_doActivateExtension Vikasdubey0551.jupyterlab-browser, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:29:21.459 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'onLanguage:python'
+2023-08-16 16:29:21.473 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-08-16 16:29:22.105 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-08-16 16:29:22.219 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'

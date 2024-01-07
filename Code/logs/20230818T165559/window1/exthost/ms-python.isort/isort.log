@@ -1,0 +1,81 @@
+2023-08-18 16:56:06.338 [info] Name: isort
+2023-08-18 16:56:06.338 [info] Module: isort
+2023-08-18 16:56:06.338 [info] Python extension loading
+2023-08-18 16:56:06.338 [info] Waiting for interpreter from python extension.
+2023-08-18 16:56:06.338 [info] No interpreter found from setting isort.interpreter
+2023-08-18 16:56:06.338 [info] Getting interpreter from ms-python.python extension for workspace /home/teenarp2026/Documents/opencv-new
+2023-08-18 16:56:06.338 [info] Python extension loaded
+2023-08-18 16:56:06.338 [info] Interpreter from ms-python.python extension for /home/teenarp2026/Documents/opencv-new: /home/teenarp2026/Documents/opencv-new/.venv/bin/python
+2023-08-18 16:56:06.338 [info] No interpreter found from setting isort.interpreter
+2023-08-18 16:56:06.338 [info] Getting interpreter from ms-python.python extension for workspace /home/teenarp2026/Documents/opencv-new
+2023-08-18 16:56:06.338 [info] Interpreter from ms-python.python extension for /home/teenarp2026/Documents/opencv-new: /home/teenarp2026/Documents/opencv-new/.venv/bin/python
+2023-08-18 16:56:06.338 [info] Server run command: /home/teenarp2026/Documents/opencv-new/.venv/bin/python /home/teenarp2026/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2023-08-18 16:56:06.338 [info] Server: Start requested.
+2023-08-18 16:56:09.077 [info] CWD Server: /home/teenarp2026/Documents/opencv-new
+2023-08-18 16:56:09.143 [info] sys.path used to run Server:
+   /home/teenarp2026/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/teenarp2026/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib/python311.zip
+   /usr/lib/python3.11
+   /usr/lib/python3.11/lib-dynload
+   /home/teenarp2026/Documents/opencv-new/.venv/lib/python3.11/site-packages
+2023-08-18 16:56:09.242 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/teenarp2026/Documents/opencv-new",
+        "workspace": "file:///home/teenarp2026/Documents/opencv-new",
+        "args": [],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/home/teenarp2026/Documents/opencv-new/.venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2023-08-18 16:56:09.284 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/teenarp2026",
+    "workspace": "/home/teenarp2026",
+    "args": [],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2023-08-18 16:56:09.292 [info] /home/teenarp2026/Documents/opencv-new/.venv/bin/python -m isort --version-number
+2023-08-18 16:56:09.299 [info] CWD Linter: /home/teenarp2026/Documents/opencv-new
+2023-08-18 16:56:09.302 [info] Version info for isort running for /home/teenarp2026/Documents/opencv-new:
+5.11.5
+
+2023-08-18 16:56:09.302 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2023-08-18 16:56:09.374 [info] [Trace - 4:56:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2023-08-18 16:56:09.419 [info] [Trace - 4:56:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2023-08-18 16:56:09.440 [info] [Trace - 4:56:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2023-08-18 16:56:09.445 [info] [Trace - 4:56:09 PM] Sending request 'textDocument/codeAction - (1)'.
+2023-08-18 16:56:09.451 [info] [Trace - 4:56:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2023-08-18 16:56:09.453 [info] [Trace - 4:56:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2023-08-18 16:56:09.454 [info] [Trace - 4:56:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2023-08-18 16:56:09.459 [info] [Trace - 4:56:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2023-08-18 16:56:09.472 [info] [Trace - 4:56:09 PM] Received response 'textDocument/codeAction - (1)' in 27ms.
+2023-08-18 16:56:10.951 [info] [Trace - 4:56:10 PM] Sending request 'textDocument/codeAction - (2)'.
+2023-08-18 16:56:10.963 [info] [Trace - 4:56:10 PM] Received response 'textDocument/codeAction - (2)' in 13ms.
+2023-08-18 16:57:12.894 [info] [Trace - 4:57:12 PM] Sending request 'textDocument/codeAction - (3)'.
+2023-08-18 16:57:12.900 [info] [Trace - 4:57:12 PM] Received response 'textDocument/codeAction - (3)' in 6ms.
+2023-08-18 17:01:35.384 [info] [Trace - 5:01:35 PM] Sending request 'shutdown - (4)'.
+2023-08-18 17:01:35.446 [info] [Trace - 5:01:35 PM] Received response 'shutdown - (4)' in 120ms.
+2023-08-18 17:01:35.446 [info] [Trace - 5:01:35 PM] Sending notification 'exit'.

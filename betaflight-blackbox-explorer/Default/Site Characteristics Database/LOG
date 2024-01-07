@@ -1,2 +1,3 @@
-2023/08/07-01:13:42.460 2f0b6 Creating DB /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/Site Characteristics Database since it was missing.
-2023/08/07-01:13:42.472 2f0b6 Reusing MANIFEST /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/Site Characteristics Database/MANIFEST-000001
+2023/08/13-18:25:00.088 12038c Reusing MANIFEST /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/Site Characteristics Database/MANIFEST-000001
+2023/08/13-18:25:00.088 12038c Recovering log #3
+2023/08/13-18:25:00.089 12038c Reusing old log /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/Site Characteristics Database/000003.log 

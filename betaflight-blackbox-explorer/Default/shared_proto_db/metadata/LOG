@@ -1,2 +1,3 @@
-2023/08/07-01:13:42.515 2f0b5 Creating DB /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/shared_proto_db/metadata since it was missing.
-2023/08/07-01:13:42.522 2f0b5 Reusing MANIFEST /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/shared_proto_db/metadata/MANIFEST-000001
+2023/08/13-18:25:00.129 120373 Reusing MANIFEST /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/shared_proto_db/metadata/MANIFEST-000001
+2023/08/13-18:25:00.130 120373 Recovering log #3
+2023/08/13-18:25:00.130 120373 Reusing old log /home/teenarp2026/.config/betaflight-blackbox-explorer/Default/shared_proto_db/metadata/000003.log 

@@ -2,12 +2,23 @@
 	"windowstate": {
 		"isFullScreen": false,
 		"isMaximized": false,
-		"width": 946,
+		"width": 1902,
 		"height": 1010,
-		"x": 965,
+		"x": 9,
 		"y": 61,
 		"frame": true,
 		"screenLayout": "0:0:1920:1080"
 	},
-	"workspaces": []
+	"workspaces": [
+		{
+			"x": 9,
+			"y": 61,
+			"width": 1902,
+			"height": 1010,
+			"isMaximized": false,
+			"isFullScreen": false,
+			"file": "/home/teenarp2026/Arduino/sketch_aug17a",
+			"time": 1692684087499
+		}
+	]
 }

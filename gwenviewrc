@@ -1,5 +1,6 @@
 [General]
 LastUsedVersion=210800
+SideBarPage=operations
 
 [KFileDialog Settings]
 Places Icons Auto-resize=false
@@ -7,11 +8,12 @@ Places Icons Static Size=32
 
 [MainWindow]
 1920x1080 screen: Height=1010
-1920x1080 screen: Width=946
-1920x1080 screen: XPosition=965
+1920x1080 screen: Width=1902
+1920x1080 screen: XPosition=9
 1920x1080 screen: YPosition=61
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAA7IAAAPNAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAB24AAAPNAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1=eDP-1
 eDP-1 Height 1920x1080 eDP-1=1010
@@ -20,26 +22,28 @@ eDP-1 XPosition 1920x1080 eDP-1=965
 eDP-1 YPosition 1920x1080 eDP-1=61
 
 [Recent Files]
-File1[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212000736_IMG_1985.JPG
-File10[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212001244_IMG_1997.JPG
-File2[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212000754_IMG_1986.JPG
-File3[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212000814_IMG_1987.JPG
-File4[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212000826_IMG_1988.JPG
-File5[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212000914_IMG_1990.JPG
-File6[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212001019_IMG_1992.JPG
-File7[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212001036_IMG_1993.JPG
-File8[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212001056_IMG_1994.JPG
-File9[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212001211_IMG_1996.JPG
-Name1[$e]=20211212000736_IMG_1985.JPG
-Name10[$e]=20211212001244_IMG_1997.JPG
-Name2[$e]=20211212000754_IMG_1986.JPG
-Name3[$e]=20211212000814_IMG_1987.JPG
-Name4[$e]=20211212000826_IMG_1988.JPG
-Name5[$e]=20211212000914_IMG_1990.JPG
-Name6[$e]=20211212001019_IMG_1992.JPG
-Name7[$e]=20211212001036_IMG_1993.JPG
-Name8[$e]=20211212001056_IMG_1994.JPG
-Name9[$e]=20211212001211_IMG_1996.JPG
+File1[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212000814_IMG_1987.JPG
+File10[$e]=$HOME/Documents/opencv-new/maze2.jpg
+File2[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212000826_IMG_1988.JPG
+File3[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212000914_IMG_1990.JPG
+File4[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212001019_IMG_1992.JPG
+File5[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212001036_IMG_1993.JPG
+File6[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212001056_IMG_1994.JPG
+File7[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212001211_IMG_1996.JPG
+File8[$e]=/run/media/teenarp2026/Z/Pictures/Canon EOS 750D/20211212001244_IMG_1997.JPG
+File9[$e]=$HOME/Documents/opencv-new/maze1.jpg
+Name1[$e]=20211212000814_IMG_1987.JPG
+Name10[$e]=maze2.jpg
+Name2[$e]=20211212000826_IMG_1988.JPG
+Name3[$e]=20211212000914_IMG_1990.JPG
+Name4[$e]=20211212001019_IMG_1992.JPG
+Name5[$e]=20211212001036_IMG_1993.JPG
+Name6[$e]=20211212001056_IMG_1994.JPG
+Name7[$e]=20211212001211_IMG_1996.JPG
+Name8[$e]=20211212001244_IMG_1997.JPG
+Name9[$e]=maze1.jpg
 
 [SideBar]
-InformationSplitterSizes=206,247
+InformationSplitterSizes=216,259
+IsVisible ViewMode=true
+SideBarSplitterSizes=200,1698

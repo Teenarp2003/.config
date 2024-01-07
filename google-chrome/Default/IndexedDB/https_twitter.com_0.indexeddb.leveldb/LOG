@@ -1,0 +1,6 @@
+2023/08/13-13:16:08.552 18e6b5 Creating DB /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
+2023/08/13-13:16:08.557 18e6b5 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/13-13:29:51.757 18e6b6 Level-0 table #5: started
+2023/08/13-13:29:51.758 18e6b6 Level-0 table #5: 858 bytes OK
+2023/08/13-13:29:51.760 18e6b6 Delete type=0 #3
+2023/08/13-13:29:51.760 18e6b6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

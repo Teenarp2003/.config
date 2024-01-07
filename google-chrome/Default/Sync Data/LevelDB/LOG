@@ -1,6 +1,6 @@
-2023/08/07-02:33:35.662 cbb17 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/08/07-02:33:35.663 cbb17 Recovering log #4
-2023/08/07-02:33:35.664 cbb17 Reusing old log /home/teenarp2026/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
-2023/08/07-02:43:40.054 cbb01 Level-0 table #8: started
-2023/08/07-02:43:40.064 cbb01 Level-0 table #8: 101785 bytes OK
-2023/08/07-02:43:40.066 cbb01 Delete type=0 #4
+2023/08/22-19:18:37.896 1989 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/08/22-19:18:37.897 1989 Recovering log #212
+2023/08/22-19:18:37.902 1989 Reusing old log /home/teenarp2026/.config/google-chrome/Default/Sync Data/LevelDB/000212.log 
+2023/08/22-20:32:19.632 1989 Level-0 table #217: started
+2023/08/22-20:32:19.640 1989 Level-0 table #217: 97657 bytes OK
+2023/08/22-20:32:19.642 1989 Delete type=0 #212

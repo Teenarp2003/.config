@@ -1,0 +1,15 @@
+2023/08/21-21:21:01.925 c83 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/21-21:21:01.925 c83 Recovering log #4
+2023/08/21-21:21:01.926 c83 Reusing old log /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000004.log 
+2023/08/21-21:41:34.199 c82 Level-0 table #8: started
+2023/08/21-21:41:34.201 c82 Level-0 table #8: 9107 bytes OK
+2023/08/21-21:41:34.202 c82 Delete type=0 #4
+2023/08/21-21:41:34.202 c82 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/21-21:41:34.202 c82 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 215 : 1
+2023/08/21-21:41:34.202 c82 Compacting 1@1 + 1@2 files
+2023/08/21-21:41:34.204 c82 Generated table #9@1: 36 keys, 2474 bytes
+2023/08/21-21:41:34.204 c82 Compacted 1@1 + 1@2 files => 2474 bytes
+2023/08/21-21:41:34.205 c82 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/21-21:41:34.205 c82 Delete type=2 #8
+2023/08/21-21:41:34.205 c82 Delete type=2 #5
+2023/08/21-21:41:34.205 c82 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 215 : 1 .. (end); will stop at (end)

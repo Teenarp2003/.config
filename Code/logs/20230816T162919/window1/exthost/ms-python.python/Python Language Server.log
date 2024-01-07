@@ -1,0 +1,14 @@
+2023-08-16 16:29:23.803 [info] [Info  - 4:29:23 PM] (833795) Pylance language server 2023.8.20 (pyright fcee52c7) starting
+2023-08-16 16:29:23.803 [info] [Info  - 4:29:23 PM] (833795) Server root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist
+2023-08-16 16:29:23.812 [info] [Info  - 4:29:23 PM] (833795) Starting service instance "opencv-new"
+2023-08-16 16:29:23.869 [info] [Info  - 4:29:23 PM] (833795) Setting pythonPath for service "opencv-new": "/home/teenarp2026/Documents/opencv-new/.venv/bin/python"
+2023-08-16 16:29:23.874 [info] [Warn  - 4:29:23 PM] (833795) stubPath /home/teenarp2026/Documents/opencv-new/typings is not a valid directory.
+2023-08-16 16:29:23.893 [info] [Info  - 4:29:23 PM] (833795) Assuming Python version 3.11
+2023-08-16 16:29:23.999 [info] [Info  - 4:29:23 PM] (833795) Found 1 source file
+2023-08-16 16:29:24.505 [info] [Info  - 4:29:24 PM] (833795) Background analysis(1) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist
+2023-08-16 16:29:24.505 [info] [Info  - 4:29:24 PM] (833795) Background analysis(1) started
+2023-08-16 16:29:24.507 [info] [Info  - 4:29:24 PM] (833795) Indexer background runner(2) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist (index)
+2023-08-16 16:29:24.507 [info] [Info  - 4:29:24 PM] (833795) Indexing(2) started
+2023-08-16 16:29:25.208 [info] [Info  - 4:29:25 PM] (833795) scanned(2) 163 files over 1 exec env
+2023-08-16 16:29:26.968 [info] [Info  - 4:29:26 PM] (833795) indexed(2) 121 files over 1 exec env
+2023-08-16 16:29:26.987 [info] [Info  - 4:29:26 PM] (833795) Indexing finished(2).

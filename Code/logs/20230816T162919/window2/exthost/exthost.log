@@ -1,0 +1,23 @@
+2023-08-16 16:39:30.621 [info] Extension host with pid 909661 started
+2023-08-16 16:39:30.661 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-16 16:39:30.665 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2023-08-16 16:39:30.688 [info] ExtensionService#_doActivateExtension illixion.vscode-vibrancy-continued, startup: true, activationEvent: '*'
+2023-08-16 16:39:30.712 [info] ExtensionService#_doActivateExtension nowsci.glassit-linux, startup: true, activationEvent: '*'
+2023-08-16 16:39:30.714 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2023-08-16 16:39:30.729 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-08-16 16:39:30.896 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-16 16:39:30.912 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-16 16:39:31.110 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-08-16 16:39:31.184 [info] Eager extensions activated
+2023-08-16 16:39:31.210 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:39:31.212 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:39:31.220 [info] ExtensionService#_doActivateExtension BenRogersWPG.transparent-minimap, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:39:31.222 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:39:31.229 [info] ExtensionService#_doActivateExtension Sudhan.neondark-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:39:31.231 [info] ExtensionService#_doActivateExtension Vikasdubey0551.jupyterlab-browser, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 16:39:31.265 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-16 16:39:31.281 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-16 16:39:31.295 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-16 16:39:31.302 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-08-16 16:39:31.322 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-16 16:39:31.384 [info] Extension host with pid 909661 exiting with code 0

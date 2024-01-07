@@ -10,19 +10,21 @@
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements/Preview/UpdateInterval" value="disabled"/>
       <ExtraDataItem name="GUI/HideDescriptionForWizards" value="ExportAppliance"/>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=2ad6fbd7-58d9-433e-8b7b-3cb13e0b9e10"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=95a2b973-f889-4f2b-abd9-a31cb1a4679d"/>
       <ExtraDataItem name="GUI/LastWindowPosition" value="9,61,1902,1010"/>
       <ExtraDataItem name="GUI/MediumSelector/DialogGeometry" value="1451,571,460,500"/>
-      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/teenarp2026/Downloads"/>
+      <ExtraDataItem name="GUI/RecentFolderCD" value="/run/media/teenarp2026/Z/x86 OS"/>
       <ExtraDataItem name="GUI/RecentFolderHD" value="/home/teenarp2026/VirtualBox VMs/Windows Wm"/>
-      <ExtraDataItem name="GUI/RecentListCD" value="/home/teenarp2026/Downloads/Win10_22H2_English_x64v1.iso,/home/teenarp2026/Downloads/Win11_22H2_English_x64v2.iso,/home/teenarp2026/Downloads/ubuntu-23.04-desktop-amd64.iso,/run/media/teenarp2026/Z/x86 OS/archlinux-2022.12.01-x86_64.iso,/mnt/Fedora-KDE-Live-x86_64-35-1.2.iso"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/run/media/teenarp2026/Z/x86 OS/Win10_22H2_English_x64v1.iso,/home/teenarp2026/Downloads/Win10_22H2_English_x64v1.iso,/home/teenarp2026/Downloads/Win11_22H2_English_x64v2.iso,/home/teenarp2026/Downloads/ubuntu-23.04-desktop-amd64.iso,/run/media/teenarp2026/Z/x86 OS/archlinux-2022.12.01-x86_64.iso"/>
       <ExtraDataItem name="GUI/RecentListHD" value="/home/teenarp2026/VirtualBox VMs/Windows Wm/Windows Wm.vdi"/>
       <ExtraDataItem name="GUI/SoftKeyboardDialogGeometry" value="965,61,946,1010"/>
-      <ExtraDataItem name="GUI/SuppressMessages" value="confirmGoingFullscreen,confirmPowerOffMachine,confirmResetMachine,remindAboutMouseIntegration,showRuntimeError.warning.DvdOrFloppyImageInaccessible,confirmInputCapture"/>
+      <ExtraDataItem name="GUI/SuppressMessages" value="confirmGoingFullscreen,confirmPowerOffMachine,confirmResetMachine,remindAboutMouseIntegration,showRuntimeError.warning.DvdOrFloppyImageInaccessible,confirmInputCapture,BootFailure"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
       <ExtraDataItem name="GUI/VirtualMediaManager/Details/Expanded" value="true"/>
     </ExtraData>
-    <MachineRegistry/>
+    <MachineRegistry>
+      <MachineEntry uuid="{95a2b973-f889-4f2b-abd9-a31cb1a4679d}" src="/home/teenarp2026/Virtualbox/Windows/Windows.vbox"/>
+    </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>

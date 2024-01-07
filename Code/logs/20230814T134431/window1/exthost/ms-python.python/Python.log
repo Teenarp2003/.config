@@ -1,0 +1,53 @@
+2023-08-14 13:44:37.200 [info] Experiment 'pythonaa' is active
+2023-08-14 13:44:37.200 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-14 13:44:37.200 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-14 13:44:37.200 [info] Experiment 'pythonTestAdaptercf' is active
+2023-08-14 13:44:37.200 [info] Test server listening.
+2023-08-14 13:44:37.200 [info] > conda info --json
+2023-08-14 13:44:37.200 [info] Python interpreter path: ./.venv/bin/python
+2023-08-14 13:44:37.274 [info] Found: /bin/python --> /bin/python3.11
+2023-08-14 13:44:37.334 [info] Found: /bin/python3 --> /bin/python3.11
+2023-08-14 13:44:37.336 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-08-14 13:44:37.418 [info] > ./.venv/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-14 13:44:37.431 [info] Found: /sbin/python --> /sbin/python3.11
+2023-08-14 13:44:37.432 [info] Found: /sbin/python3 --> /sbin/python3.11
+2023-08-14 13:44:37.432 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2023-08-14 13:44:37.448 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2023-08-14 13:44:37.448 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-08-14 13:44:37.449 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-08-14 13:44:37.645 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2023-08-14 13:44:37.645 [info] shell: bash
+2023-08-14 13:44:37.661 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2023-08-14 13:44:37.661 [info] shell: bash
+2023-08-14 13:44:37.718 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2023-08-14 13:44:37.791 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2023-08-14 13:44:37.795 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2023-08-14 13:44:37.833 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-14 13:44:37.871 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-14 13:44:37.956 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-14 13:44:37.987 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-14 13:44:41.426 [info] Starting Pylance language server.
+2023-08-14 13:47:00.215 [info] > ./.venv/bin/python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/normalizeSelection.py
+2023-08-14 13:47:00.401 [info] Send text to terminal: source /home/teenarp2026/Documents/opencv-new/.venv/bin/activate.fish
+2023-08-14 13:47:00.904 [info] Send text to terminal: /home/teenarp2026/Documents/opencv-new/.venv/bin/python
+2023-08-14 13:47:01.290 [info] Send text to terminal: img_name = 'maze1.jpg'
+
+2023-08-14 13:47:11.276 [info] Send text to terminal: /home/teenarp2026/Documents/opencv-new/.venv/bin/python /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 13:47:11.585 [info] Discover tests for workspace name: opencv-new - uri: /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 13:51:44.396 [info] Discover tests for workspace name: opencv-new - uri: /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 13:51:45.676 [info] Send text to terminal: /home/teenarp2026/Documents/opencv-new/.venv/bin/python /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 13:57:07.508 [info] Send text to terminal: /home/teenarp2026/Documents/opencv-new/.venv/bin/python /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 13:57:07.806 [info] Discover tests for workspace name: opencv-new - uri: /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 13:58:25.650 [info] Discover tests for workspace name: opencv-new - uri: /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 13:58:26.647 [info] Discover tests for workspace name: opencv-new - uri: /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 13:58:39.942 [info] Discover tests for workspace name: opencv-new - uri: /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 13:58:41.061 [info] Send text to terminal: /home/teenarp2026/Documents/opencv-new/.venv/bin/python /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 13:59:27.624 [info] Send text to terminal: /home/teenarp2026/Documents/opencv-new/.venv/bin/python /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 14:00:27.610 [info] Discover tests for workspace name: opencv-new - uri: /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 14:00:33.622 [info] Send text to terminal: /home/teenarp2026/Documents/opencv-new/.venv/bin/python /home/teenarp2026/Documents/opencv-new/mazesolve.py
+2023-08-14 14:06:05.753 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2023-08-14 14:06:05.753 [info] shell: bash
+2023-08-14 14:06:05.773 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2023-08-14 14:06:05.773 [info] shell: bash
+2023-08-14 14:07:29.122 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2023-08-14 14:07:29.122 [info] shell: bash

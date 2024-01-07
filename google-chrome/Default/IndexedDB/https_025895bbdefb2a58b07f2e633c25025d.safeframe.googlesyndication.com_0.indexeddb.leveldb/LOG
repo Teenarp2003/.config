@@ -1,0 +1,6 @@
+2023/08/13-12:38:57.197 18e6b5 Creating DB /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_025895bbdefb2a58b07f2e633c25025d.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2023/08/13-12:38:57.200 18e6b5 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_025895bbdefb2a58b07f2e633c25025d.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/13-12:39:02.761 18e6b6 Level-0 table #5: started
+2023/08/13-12:39:02.763 18e6b6 Level-0 table #5: 480 bytes OK
+2023/08/13-12:39:02.764 18e6b6 Delete type=0 #3
+2023/08/13-12:39:02.764 18e6b6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

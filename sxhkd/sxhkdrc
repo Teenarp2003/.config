@@ -107,3 +107,5 @@ super + h
 #Full screen
 super + f
   bspc node -t \~fullscreen
+super + b
+ rofi-bluetooth

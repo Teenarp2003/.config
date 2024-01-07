@@ -1,0 +1,17 @@
+2023-08-18 16:56:10.866 [info] [Info  - 4:56:10 PM] (93792) Pylance language server 2023.8.20 (pyright fcee52c7) starting
+2023-08-18 16:56:10.867 [info] [Info  - 4:56:10 PM] (93792) Server root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist
+2023-08-18 16:56:10.890 [info] [Info  - 4:56:10 PM] (93792) Starting service instance "opencv-new"
+2023-08-18 16:56:10.989 [info] [Info  - 4:56:10 PM] (93792) Setting pythonPath for service "opencv-new": "/home/teenarp2026/Documents/opencv-new/.venv/bin/python"
+2023-08-18 16:56:11.007 [info] [Warn  - 4:56:11 PM] (93792) stubPath /home/teenarp2026/Documents/opencv-new/typings is not a valid directory.
+2023-08-18 16:56:11.060 [info] [Info  - 4:56:11 PM] (93792) Assuming Python version 3.11
+2023-08-18 16:56:11.300 [info] [Info  - 4:56:11 PM] (93792) Found 1 source file
+2023-08-18 16:56:12.302 [info] [Info  - 4:56:12 PM] (93792) Background analysis(1) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist
+2023-08-18 16:56:12.302 [info] [Info  - 4:56:12 PM] (93792) Background analysis(1) started
+2023-08-18 16:56:12.660 [info] [Info  - 4:56:12 PM] (93792) Indexer background runner(2) root directory: /home/teenarp2026/.vscode/extensions/ms-python.vscode-pylance-2023.8.20/dist (index)
+2023-08-18 16:56:12.661 [info] [Info  - 4:56:12 PM] (93792) Indexing(2) started
+2023-08-18 16:56:14.223 [info] [Info  - 4:56:14 PM] (93792) scanned(2) 163 files over 1 exec env
+2023-08-18 16:56:15.858 [info] [Info  - 4:56:15 PM] (93792) [BG(1)] Long operation: analyzing: /home/teenarp2026/Documents/opencv-new/mazesolve.ipynb:pylance-notebook-cell:pylancePrefixCell.py (2573ms)
+2023-08-18 16:56:18.592 [info] [Info  - 4:56:18 PM] (93792) [IDX(2)] Long operation: index execution environment /home/teenarp2026/Documents/opencv-new (4196ms)
+2023-08-18 16:56:18.595 [info] [Info  - 4:56:18 PM] (93792) [IDX(2)] Long operation: index packages /home/teenarp2026/Documents/opencv-new (4245ms)
+2023-08-18 16:56:18.595 [info] [Info  - 4:56:18 PM] (93792) indexed(2) 121 files over 1 exec env
+2023-08-18 16:56:18.651 [info] [Info  - 4:56:18 PM] (93792) Indexing finished(2).

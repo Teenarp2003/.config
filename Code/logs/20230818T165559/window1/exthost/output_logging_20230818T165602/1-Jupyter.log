@@ -1,0 +1,57 @@
+Visual Studio Code (1.80.2, undefined, desktop)
+Jupyter Extension Version: 2023.6.1101941928.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/opencv-new, Home = /home/teenarp2026
+16:56:04.229 [info] User belongs to experiment group 'FastKernelPicker'
+16:56:04.230 [info] User belongs to experiment group 'NewRemoteUriStorage'
+16:56:04.230 [info] User belongs to experiment group 'PasswordManager'
+16:56:04.768 [info] Start refreshing Kernel Picker (1692357964768)
+16:56:04.788 [info] Using Pylance
+16:56:04.891 [info] Start refreshing Interpreter Kernel Picker
+16:56:06.597 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd08b9537a27d5af55cd71cf38fa39b3d60504c7e6272b1a3e985840b6eeaa57a79.~/Documents/opencv-new/.venv/python.~/Documents/opencv-new/.venv/python.-m#ipykernel_launcher  (Python Path: ~/Documents/opencv-new/.venv/bin/python, Venv, .venv, 3.11.3) for '~/Documents/opencv-new/mazesolve.ipynb' (disableUI=true)
+16:56:06.601 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd08b9537a27d5af55cd71cf38fa39b3d60504c7e6272b1a3e985840b6eeaa57a79.~/Documents/opencv-new/.venv/python.~/Documents/opencv-new/.venv/python.-m#ipykernel_launcher  (Python Path: ~/Documents/opencv-new/.venv/bin/python, Venv, .venv, 3.11.3) for '~/Documents/vscode/trial1.ipynb' (disableUI=true)
+16:56:06.910 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m pip list
+16:56:06.929 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:56:06.947 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"9f6a94a0-2b5c-428f-aaf6-2084018b058f" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-92518MxFdd3uXiVdY.json
+    > cwd: ~/Documents/opencv-new
+16:56:06.984 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:56:07.008 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"15c0abd0-a794-48a3-9894-8955fea71ea9" --shell=9010 --transport="tcp" --iopub=9012 --f=~/.local/share/jupyter/runtime/kernel-v2-92518RnxKM4I1WfUA.json
+    > cwd: ~/Documents/vscode
+16:56:08.951 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+16:56:08.951 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+16:56:08.955 [info] ipykernel version & path 6.25.1, ~/Documents/opencv-new/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/opencv-new/.venv/bin/python
+16:56:08.956 [info] ipykernel version & path 6.25.1, ~/Documents/opencv-new/.venv/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/opencv-new/.venv/bin/python
+16:56:09.279 [info] Started Kernel .venv (Python 3.11.3) (pid: 93367)
+16:56:09.280 [info] Started new session f9d056b2-363f-4c06-a02a-1b9b1d5dd8c8
+16:56:09.289 [info] Started Kernel .venv (Python 3.11.3) (pid: 93375)
+16:56:09.289 [info] Started new session c42a9d96-7293-4b4d-962a-5fd4745e4fcd
+16:56:09.417 [info] Process Execution: ~/Documents/opencv-new/.venv/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/pythonFiles/printJupyterDataDir.py
+16:56:09.633 [info] End refreshing Kernel Picker (1692357964768)
+17:01:35.332 [info] Disposing HostJupyterExecution
+17:01:35.332 [info] Shutting down notebooks for bca418a3-d715-40a3-8b65-3fbde5b4cf46
+17:01:35.333 [info] Dispose Kernel '~/Documents/opencv-new/mazesolve.ipynb' associated with '~/Documents/opencv-new/mazesolve.ipynb'
+17:01:35.335 [info] Dispose Kernel process 93367.
+17:01:35.355 [info] Dispose Kernel '~/Documents/vscode/trial1.ipynb' associated with '~/Documents/vscode/trial1.ipynb'
+17:01:35.357 [info] Dispose Kernel process 93375.
+17:01:35.372 [info] Disposing HostJupyterExecution
+17:01:35.444 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-92518RnxKM4I1WfUA.json for pid 93375 [Canceled (FileSystemError): Canceled
+	at ii.e (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:27871)
+	at Object.stat (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:24574)
+	at async mu.delete (~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:17:19237)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:24:95738] {
+  code: 'Unknown'
+}
+17:01:35.444 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-92518MxFdd3uXiVdY.json for pid 93367 [Canceled (FileSystemError): Canceled
+	at ii.e (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:27871)
+	at Object.stat (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:24574)
+	at async mu.delete (~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:17:19237)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64/out/extension.node.js:24:95738] {
+  code: 'Unknown'
+}

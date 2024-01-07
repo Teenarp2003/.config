@@ -1,0 +1,6 @@
+2023/08/13-15:19:16.483 18e6b5 Creating DB /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb since it was missing.
+2023/08/13-15:19:16.497 18e6b5 Reusing MANIFEST /home/teenarp2026/.config/google-chrome/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/13-15:42:21.546 18e6b6 Level-0 table #5: started
+2023/08/13-15:42:21.548 18e6b6 Level-0 table #5: 15538 bytes OK
+2023/08/13-15:42:21.550 18e6b6 Delete type=0 #3
+2023/08/13-15:42:21.550 18e6b6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
