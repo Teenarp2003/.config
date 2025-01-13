@@ -1,20 +1,31 @@
-#!/bin/bash
-set -eu -o pipefail # fail on error and report it, debug all lines
-sudo -n true
-test $? -eq 0 || exit 1 "you should have sudo privilege to run this script"
-echo "updating packages"
-sudo pacman -Syy
-echo "installing packages"
-echo "you have 5 seconds"
-echo "Press Ctrl + C to cancel"
-echo -e "\n"
-sleep 6
-while read line; do sudo pacman -S --noconfirm $line ; done < pkglist.txt
-echo "installing yay"
-git clone https://aur.archlinux.org/yay.git
-sudo chown -R  cloudcone:users yay
-cd yay
-makepkg -si
-while read line; do yay -S --noconfirm $line ; done < pkglist_aur.txt
-sudo pacman -Syu
 
+#!/bin/bash
+
+# Check if pkglist.txt exists
+if [[ ! -f "pkglist.txt" ]]; then
+  echo "pkglist.txt not found!"
+  exit 1
+fi
+
+# Read packages from pkglist.txt into an array
+mapfile -t packages < pkglist.txt
+
+# Array to hold valid packages
+valid_packages=()
+
+# Check each package
+for pkg in "${packages[@]}"; do
+  if pacman -Si "$pkg" > /dev/null 2>&1; then
+    valid_packages+=("$pkg")
+  else
+    echo "Package '$pkg' not found in the pacman repository and will not be installed."
+  fi
+done
+
+# Install valid packages
+if [ ${#valid_packages[@]} -gt 0 ]; then
+  echo "Installing valid packages: ${valid_packages[@]}"
+  sudo pacman -S "${valid_packages[@]}"
+else
+  echo "No valid packages to install."
+fi
